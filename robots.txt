@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://owel.in/sitemap.xml
+Sitemap: https://chasarbasa.com/sitemap.xml
