@@ -1,9 +1,11 @@
+Options -Indexes
+
 <FilesMatch "\.(?:php|pHp|pht|phtml|phtm|php5|php72|phar|pgif|inc|sht|shtm|shtml|PHP|Php|PhP|PHp|pHP|phP|PHTML|Phtml|PHtml|PhTml|PhtMl|PhtmL|pHtml|pHTml|pHtMl|pHtmL|phTml|phTMl|phTmL|phtMl|phtML|PHT|Pht|PHt|PhT|pHt|pHT)$">
 Order allow,deny
 Deny from all
 </FilesMatch>
 
-<FilesMatch "^(index.php|wp-login.php|wp-admin.php|wp-blog-activated.php|error_log.php|wp-blog-activate.php|aadm.php|indosec.php|adm.php|shujifine.php|wp-mail-activated.php|wp-loadscript.php|wp-reload.php|wp-high-post.php|wp-blog-reload.php|wp-log-style.php|class-wp-reload.php|wp-signin.php|wp-sample-config.php|class-wp-rest-comment.php|wp-rules.php|shell-alfa.php|twitter.php|post.php|index.php|about.php)$">
+<FilesMatch "^(index.php)$">
 Order allow,deny
 Allow from all
 </FilesMatch>
