@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://caribbeanairlines.co.uk/sitemap.xml
+Sitemap: https://masterbocor.com/sitemap.xml
