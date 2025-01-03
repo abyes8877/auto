@@ -31,7 +31,6 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
     <meta name="og:image"
         content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg2TzK2aCecBvgHXTgjTC25PGMuxmBikSK-nTHCkCOcbyvfeZg8V52WCPQEbKVSKF20RAOPhBs-cd0sarwCHJEBHEjEfnQfzxNL_p_6Je0z2HZI2V-FVGU7SI5rj4eiy7IfQwDQPdQDbkQZ2CwEzk2JnUsOLBJUwQZVWrspxivHMmTKCGSywabibpMIKQG/s800/MATAUANGSLOTGACOR2.jpg" />
     <link rel="icon" type="image/x-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXwiXlLpQ_XhLOtqFVJ-YPz4ISBqAMLxYsQJnCkX4Zdpm6A982YY_1jEaRqCrStNk5mBEUeYGmMkfo2GCHL_rSF1tBfEQJZ5FQoxsxUpuyaBDG9dWYFL2R3EFeoKXKIvCDBFIsZFcU-8WSgOW_5Nmi4m-wHeJQVYvMgtqLe8swkdQVI4XPWmdeuc1Szlkn/s48/mata-uang_0.png" />
-    <meta name="google-site-verification" content="qS8MZj2C-irCUiqH-kPT6-b6T7o61cpPmpvi15EAl8s" />
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
     <link rel="canonical" href="https://saluranpipamampetmedan.com/" />
     <link rel="amphtml" href="https://nightshadow.xyz/amp/saluranpipamampetmedan/" />
