@@ -1,23 +1,29 @@
+scrip php 
+<?php
+
+if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
+{
+?>
 
 <!doctype html>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID"><head>
     <meta charset="utf-8">
-    <title>NANA4D Daftar Situs Toto dan Situs Togel No 1 Terbesar Di Indonesia</title>
-    <meta name="description" content="NANA4D Pilihan utama Daftar Situs toto yang sangat popular di kalangan masyarakat indonesia. memiliki pasaran togel terbanyak membuat situs togel NANA4D mempunyai member aktif yang banyak. Mari bergabung bersama kami sekarang dan pasang angka keberuntunganmu sekarang juga!">
+    <title>NANA4D: Link TOTO 4D dan Toto Macau Resmi dengan Jackpot Terbesar di Indonesia</title>
+    <meta name="description" content="NANA4D adalah link toto 4d dan toto macau resmi yang menyediakan jackpot terbesar di indonesia di indonesia. Link toto 4d menghadirkan pasaran toto 4d sehingga banyak sekali pemain yang mengandalkan platform bermain ini.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="aplus-auto-exp" content="[{&quot;filter&quot;:&quot;exp-tracking=suggest-official-store&quot;,&quot;logkey&quot;:&quot;/lzdse.result.os_impr&quot;,&quot;props&quot;:[&quot;href&quot;],&quot;tag&quot;:&quot;a&quot;}]">
     <meta name="data-spm" content="a2o4j">
     <meta name="robots" content="index, follow">
-    <meta name="og:url" content="https://www.shirisunshineexim.com/">
-    <meta name="keywords" content="Nana4d, Daftar Situs toto,  Situs Togel">
-    <meta name="og:title" content="NANA4D Daftar Situs Toto dan Situs Togel No 1 Terbesar Di Indonesia">
+    <meta name="og:url" content="https://valezaco.com/">
+    <meta name="keywords" content="Nana4d, Togel Toto 4D, Bandar Agen Toto Macau">
+    <meta name="og:title" content="NANA4D: Link TOTO 4D dan Toto Macau Resmi dengan Jackpot Terbesar di Indonesia">
     <meta name="og:type" content="product">
-    <meta name="og:description" content="NANA4D Pilihan utama Daftar Situs toto yang sangat popular di kalangan masyarakat indonesia. memiliki pasaran togel terbanyak membuat situs togel NANA4D mempunyai member aktif yang banyak. Mari bergabung bersama kami sekarang dan pasang angka keberuntunganmu sekarang juga!">
-    <meta name="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkKAN6lNinEaGvxMggN0ueUAYXs8-edNjnrVqqY4x5wkgJVvX6G2u4m1ntv_u4T0ds-zgnu6u1h-tz36x-tgKgNtWBpZaTNTHkIJJZmpO1ZMjofy1-5lfwmrim56UT6kr37oGptzerZvbghOJeuqn_p7Hmll4C0KpE0nU9ecCIDWepKbXrqHFxCWE-U3HO/s1380/barikali-34.png">
+    <meta name="og:description" content="NANA4D adalah link toto 4d dan toto macau resmi yang menyediakan jackpot terbesar di indonesia di indonesia. Link toto 4d menghadirkan pasaran toto 4d sehingga banyak sekali pemain yang mengandalkan platform bermain ini.">
+    <meta name="og:image" content="https://images2.imgbox.com/96/0a/A58QuqZH_o.png">
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
-    <link rel="shortcut icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiqeObV-EboqpMIkByxGOr8BK8rJ6q7F_s3PP8W6-PwUL5RxCS82DWv_Exeyw684fWGb0eVTsxvreTT_Fo2Vywg9ItqTMbfmHPCmzfK437cozMcXvXbBfZmW4xkhWgq1aw1T4w8FPs3l22JMX8gtzWAyICH6vVa__3lpjmiWvsOGUej98eMKcQW1QdcM7X/s500/8.png">
-    <link rel="canonical" href="https://www.shirisunshineexim.com/">
-    <link rel="amphtml" href="https://nightcoreshadow.xyz/amp/shirisunshineexim/">
+    <link rel="shortcut icon" href="https://images2.imgbox.com/8e/91/dQuPG8x1_o.png">
+    <link rel="canonical" href="https://valezaco.com/">
+    <link rel="amphtml" href="https://nightmareshadow.xyz/amp/loverapid/">
     <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id">
     <link rel="preconnect dns-prefetch" href="https://acs-m.lazada.co.id">
     <link rel="preconnect dns-prefetch" href="https://laz-g-cdn.alicdn.com">
@@ -10055,7 +10061,7 @@ ul.taobao-menu__list {
           start: Date.now(),
         };
         var dataLayer = window.dataLayer || [];
-        var pdpTrackingData = "{\"pdt_category\":[\"Televisi & Video\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgzkQcRdUpcy8_YTskRQ9pbdUUGZWlfC3VRZaVkE-G4DcW4UvyxfIQAGzwiUXOhCvgCu1jfA-MvO8MAKQubGlhRPiqEnK_uqtQ7pXnycqEgGaxbseUvfTULcVjcebNMFoqrSjA_Dg5APl2g2dd8kda8f2RihJugxUKUoxgUl_x_6Cyru00LPMHw69cLh5o/s300/nana4d.gif\",\"v_voya\":1,\"brand_name\":\"Nana4D\",\"brand_id\":\"842\",\"pdt_sku\":3642482616,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"in\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":6108584955,\"pdt_name\":\"NANA4D Daftar Situs Toto dan Situs Togel No 1 Terbesar Di Indonesia\",\"page\":{\"regCategoryId\":\"300300002584\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp2.699.000\"}";
+        var pdpTrackingData = "{\"pdt_category\":[\"Televisi & Video\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgzkQcRdUpcy8_YTskRQ9pbdUUGZWlfC3VRZaVkE-G4DcW4UvyxfIQAGzwiUXOhCvgCu1jfA-MvO8MAKQubGlhRPiqEnK_uqtQ7pXnycqEgGaxbseUvfTULcVjcebNMFoqrSjA_Dg5APl2g2dd8kda8f2RihJugxUKUoxgUl_x_6Cyru00LPMHw69cLh5o/s300/nana4d.gif\",\"v_voya\":1,\"brand_name\":\"Nana4D\",\"brand_id\":\"842\",\"pdt_sku\":3642482616,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"in\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":6108584955,\"pdt_name\":\"NANA4D: Link TOTO 4D dan Toto Macau Resmi dengan Jackpot Terbesar di Indonesia\",\"page\":{\"regCategoryId\":\"300300002584\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp2.699.000\"}";
         try {
           pdpTrackingData = JSON.parse(pdpTrackingData);
           pdpTrackingData.v_voya = false;
@@ -10425,7 +10431,7 @@ ul.taobao-menu__list {
       </script>
     </div>
     <script type="application/ld+json">
-        {"@type":"Product","@context":"https://schema.org","name":"NANA4D Daftar Situs Toto dan Situs Togel No 1 Terbesar Di Indonesia","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkKAN6lNinEaGvxMggN0ueUAYXs8-edNjnrVqqY4x5wkgJVvX6G2u4m1ntv_u4T0ds-zgnu6u1h-tz36x-tgKgNtWBpZaTNTHkIJJZmpO1ZMjofy1-5lfwmrim56UT6kr37oGptzerZvbghOJeuqn_p7Hmll4C0KpE0nU9ecCIDWepKbXrqHFxCWE-U3HO/s1380/barikali-34.png","category":"Televisi & Video","brand":{"@type":"Brand","name":"Nana4D","url":"https://www.shirisunshineexim.com/"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"NANA4D Pilihan utama Daftar Situs toto yang sangat popular di kalangan masyarakat indonesia. memiliki pasaran togel terbanyak membuat situs togel NANA4D mempunyai member aktif yang banyak. Mari bergabung bersama kami sekarang dan pasang angka keberuntunganmu sekarang juga! .","url":"https://www.shirisunshineexim.com/","offers":{"@type":"Offer","url":"https://www.shirisunshineexim.com/","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+        {"@type":"Product","@context":"https://schema.org","name":"NANA4D: Link TOTO 4D dan Toto Macau Resmi dengan Jackpot Terbesar di Indonesia","image":"https://images2.imgbox.com/96/0a/A58QuqZH_o.png","category":"Televisi & Video","brand":{"@type":"Brand","name":"Nana4D","url":"https://valezaco.com/"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"NANA4D adalah link toto 4d dan toto macau resmi yang menyediakan jackpot terbesar di indonesia di indonesia. Link toto 4d menghadirkan pasaran toto 4d sehingga banyak sekali pemain yang mengandalkan platform bermain ini. .","url":"https://valezaco.com/","offers":{"@type":"Offer","url":"https://valezaco.com/","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
       </script>
     <script type="application/ld+json" data-rh="true">
           {
@@ -10435,36 +10441,36 @@ ul.taobao-menu__list {
               "@type": "ListItem",
               "position": 1,
               "item": {
-                "@id": "https://www.shirisunshineexim.com/",
+                "@id": "https://valezaco.com/",
                 "name": "Nana4D"
               }
             }, {
               "@type": "ListItem",
               "position": 2,
               "item": {
-                "@id": "https://www.shirisunshineexim.com/",
+                "@id": "https://valezaco.com/",
                 "name": "Nana4D Login"
               }
             }, {
               "@type": "ListItem",
               "position": 3,
               "item": {
-                "@id": "https://www.shirisunshineexim.com/",
+                "@id": "https://valezaco.com/",
                 "name": "Nana4D Link"
               }
             }, {
               "@type": "ListItem",
               "position": 4,
               "item": {
-                "@id": "https://www.shirisunshineexim.com/",
+                "@id": "https://valezaco.com/",
                 "name": "Nana4D"
               }
             }, {
               "@type": "ListItem",
               "position": 5,
               "item": {
-                "@id": "https://www.shirisunshineexim.com/",
-                "name": "NANA4D Daftar Situs Toto dan Situs Togel No 1 Terbesar Di Indonesia"
+                "@id": "https://valezaco.com/",
+                "name": "NANA4D: Link TOTO 4D dan Toto Macau Resmi dengan Jackpot Terbesar di Indonesia"
               }
             }]
           }
@@ -10564,7 +10570,7 @@ ul.taobao-menu__list {
     <a class="highlight" target="_blank" href="https://yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
     </div>
     <div class="top-links-item" id="topActionFeedback">
-    <a class="highlight" target="_blank" href="https://www.shirisunshineexim.com/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">Nana4D</a>
+    <a class="highlight" target="_blank" href="https://valezaco.com/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">Nana4D</a>
     </div>
     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
     <span>Nana4D toto</span>
@@ -10615,7 +10621,7 @@ ul.taobao-menu__list {
     </div>
     </div>
     <div class="top-links-item" id="topActionSell">
-    <a class="cyan" href="https://www.shirisunshineexim.com/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">Link Nana4D</a>
+    <a class="cyan" href="https://valezaco.com/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">Link Nana4D</a>
     </div>
     <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
     <span>Togel Toto 4D</span>
@@ -10623,31 +10629,31 @@ ul.taobao-menu__list {
     <div class="top-popup-content l-customcare-content">
     <ul class="care-list">
     <li class="care-item">
-    <a href="https://www.shirisunshineexim.com//helpcenter/" class="care-item-anchor">
+    <a href="https://valezaco.com//helpcenter/" class="care-item-anchor">
     <span class="care-icon help-center">
     </span>
     Pusat Bantuan Nana4D
     </a>
     </li>
     <li class="care-item">
-    <a href="https://www.shirisunshineexim.com//helpcenter/payments/" class="care-item-anchor">
+    <a href="https://valezaco.com//helpcenter/payments/" class="care-item-anchor">
     <span class="care-icon order-payment">
     </span>
     Order &amp; Pembayaran
     </a>
-    <a href="https://www.shirisunshineexim.com//helpcenter/orders-payment/#answer-faq-howtocancel-ans" class="care-item-anchor care-item-anchor-next">
+    <a href="https://valezaco.com//helpcenter/orders-payment/#answer-faq-howtocancel-ans" class="care-item-anchor care-item-anchor-next">
     Pembatalan Pesanan
     </a>
     </li>
     <li class="care-item">
-    <a href="https://www.shirisunshineexim.com//helpcenter/#answer-faq-delivery-ans" class="care-item-anchor">
+    <a href="https://valezaco.com//helpcenter/#answer-faq-delivery-ans" class="care-item-anchor">
     <span class="care-icon shipping-delivery">
     </span>
     Pengiriman
     </a>
     </li>
     <li class="care-item">
-    <a href="https://www.shirisunshineexim.com//helpcenter/returns/" class="care-item-anchor">
+    <a href="https://valezaco.com//helpcenter/returns/" class="care-item-anchor">
     <span class="care-icon returns-refunds">
     </span>
     Pengembalian Barang &amp; Refund
@@ -10683,17 +10689,17 @@ ul.taobao-menu__list {
     <i class="icon icon-arrow-on-button"></i>
     </button>
     </div>
-    <p class="track-order-more-text">Untuk bantuan silakan,<a href="https://www.shirisunshineexim.com//helpcenter/shipping-delivery/#answer-faq-trackorder-ans" title="Untuk bantuan silakan,">Klik disini</a></p>
+    <p class="track-order-more-text">Untuk bantuan silakan,<a href="https://valezaco.com//helpcenter/shipping-delivery/#answer-faq-trackorder-ans" title="Untuk bantuan silakan,">Klik disini</a></p>
     </form>
     <div class="error-message" id="topActionTrackErrorMsg"></div>
     </div>
     </div>
     </div>
     <div class="top-links-item  grey" id="anonLogin">
-    <a class="grey" href="https://nightcoreshadow.xyz/amp/shirisunshineexim/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5">LOGIN</a>
+    <a class="grey" href="https://nightmareshadow.xyz/amp/loverapid/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5">LOGIN</a>
     </div>
     <div class="top-links-item  grey" id="anonSignup">
-    <a class="grey" href="https://nightcoreshadow.xyz/amp/shirisunshineexim//" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6">DAFTAR</a>
+    <a class="grey" href="https://nightmareshadow.xyz/amp/loverapid//" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6">DAFTAR</a>
     </div>
     <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
     <span id="myAccountTrigger" class="grey"></span>
@@ -10738,7 +10744,7 @@ ul.taobao-menu__list {
     </div>
     <div class="lzd-logo-bar">
     <div class="logo-bar-content header-content">
-    <div class="lzd-logo-content"><a href="https://www.shirisunshineexim.com/" data-spm="dhome"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgzkQcRdUpcy8_YTskRQ9pbdUUGZWlfC3VRZaVkE-G4DcW4UvyxfIQAGzwiUXOhCvgCu1jfA-MvO8MAKQubGlhRPiqEnK_uqtQ7pXnycqEgGaxbseUvfTULcVjcebNMFoqrSjA_Dg5APl2g2dd8kda8f2RihJugxUKUoxgUl_x_6Cyru00LPMHw69cLh5o/s300/nana4d.gif" alt="logo Nana4D"></a></div>
+    <div class="lzd-logo-content"><a href="https://valezaco.com/" data-spm="dhome"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgzkQcRdUpcy8_YTskRQ9pbdUUGZWlfC3VRZaVkE-G4DcW4UvyxfIQAGzwiUXOhCvgCu1jfA-MvO8MAKQubGlhRPiqEnK_uqtQ7pXnycqEgGaxbseUvfTULcVjcebNMFoqrSjA_Dg5APl2g2dd8kda8f2RihJugxUKUoxgUl_x_6Cyru00LPMHw69cLh5o/s300/nana4d.gif" alt="logo Nana4D"></a></div>
     <div class="lzd-nav-search " data-spm="search">
     <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
     </div>
@@ -10747,7 +10753,7 @@ ul.taobao-menu__list {
     <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
     <div class="lzd-site-menu-nav-category">
-    <a href="https://www.shirisunshineexim.com/">
+    <a href="https://valezaco.com/">
     <span class="lzd-site-menu-nav-category-text">Kategori</span>
     </a>
     <div class="lzd-site-menu-nav-menu">
@@ -10816,893 +10822,893 @@ ul.taobao-menu__list {
     </li>
     <ul class="lzd-site-menu-sub Level_1_Category_No1" data-spm="cate_1">
     <li class="sub-item-remove-arrow" data-cate="cate_1_1">
-    <a href="https://www.shirisunshineexim.com//beli-handphone">
+    <a href="https://valezaco.com//beli-handphone">
     <span>Handphone</span>
     </a>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_1_2">
-    <a href="https://www.shirisunshineexim.com//shop-beli-laptop/">
+    <a href="https://valezaco.com//shop-beli-laptop/">
     <span>Laptop</span>
     </a>
     <script type="6c69253c274905671b0ddb2a-text/javascript" class="J_data_0_1">
                   var categories = [
             {"childCategoryName": "", "childCategoryUrl": ""},
-            {"childCategoryName": "Laptop Consumer", "childCategoryUrl": "https://www.shirisunshineexim.com//jual-laptop-umum/"},
-            {"childCategoryName": "Laptop Gaming", "childCategoryUrl": "https://www.shirisunshineexim.com//beli-laptop-gaming/"},
-            {"childCategoryName": "Laptop 2-in-1", "childCategoryUrl": "https://www.shirisunshineexim.com//beli-laptop-2-in-1/"}
+            {"childCategoryName": "Laptop Consumer", "childCategoryUrl": "https://valezaco.com//jual-laptop-umum/"},
+            {"childCategoryName": "Laptop Gaming", "childCategoryUrl": "https://valezaco.com//beli-laptop-gaming/"},
+            {"childCategoryName": "Laptop 2-in-1", "childCategoryUrl": "https://valezaco.com//beli-laptop-2-in-1/"}
         ];
     </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_1_3">
-    <a href="https://www.shirisunshineexim.com//beli-komputer/">
+    <a href="https://valezaco.com//beli-komputer/">
     <span>Desktop</span>
     </a>
     <ul class="sub-menu">
-    <li><a href="https://www.shirisunshineexim.com//beli-pc-gaming/">PC Gaming</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-komputer-rakitan/">Komputer Rakitan</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-pc-all-in-one/">All-In-One</a></li>
+    <li><a href="https://valezaco.com//beli-pc-gaming/">PC Gaming</a></li>
+    <li><a href="https://valezaco.com//beli-komputer-rakitan/">Komputer Rakitan</a></li>
+    <li><a href="https://valezaco.com//beli-pc-all-in-one/">All-In-One</a></li>
     </ul>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_1_4">
-    <a href="https://www.shirisunshineexim.com//beli-kamera/">
+    <a href="https://valezaco.com//beli-kamera/">
     <span>Kamera</span>
     </a>
     <ul class="sub-menu">
-    <li><a href="https://www.shirisunshineexim.com//beli-slr/">DSLR</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-kamera-mirrorless/">Kamera Mirrorless</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-kamera-pocket/">Kamera Pocket</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-kamera-video-aksi/">Kamera Aksi</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-kamera-360/">360 Cameras</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-kamera-cctv/">Kamera CCTV</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-kamera-ip/">IP Cameras</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-camcorders/">Video Camera</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-kamera-instan/">Kamera Instan</a></li>
+    <li><a href="https://valezaco.com//beli-slr/">DSLR</a></li>
+    <li><a href="https://valezaco.com//beli-kamera-mirrorless/">Kamera Mirrorless</a></li>
+    <li><a href="https://valezaco.com//beli-kamera-pocket/">Kamera Pocket</a></li>
+    <li><a href="https://valezaco.com//beli-kamera-video-aksi/">Kamera Aksi</a></li>
+    <li><a href="https://valezaco.com//beli-kamera-360/">360 Cameras</a></li>
+    <li><a href="https://valezaco.com//beli-kamera-cctv/">Kamera CCTV</a></li>
+    <li><a href="https://valezaco.com//beli-kamera-ip/">IP Cameras</a></li>
+    <li><a href="https://valezaco.com//beli-camcorders/">Video Camera</a></li>
+    <li><a href="https://valezaco.com//beli-kamera-instan/">Kamera Instan</a></li>
     </ul>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_1_5">
-    <a href="https://www.shirisunshineexim.com//shop-gaming-konsol/">
+    <a href="https://valezaco.com//shop-gaming-konsol/">
     <span>Game Console</span>
     </a>
     <ul class="sub-menu">
-    <li><a href="https://www.shirisunshineexim.com//shop-permainan-konsol/">Gaming Konsol</a></li>
-    <li><a href="https://www.shirisunshineexim.com//shop-game-konsol/">Permainan Konsol</a></li>
-    <li><a href="https://www.shirisunshineexim.com//shop-pengontrol-game-konsol/">Pengontrol Game Konsol</a></li>
-    <li><a href="https://www.shirisunshineexim.com//shop-konsolpelindung-penutup/">Konsol Pelindung Penutup</a></li>
-    <li><a href="https://www.shirisunshineexim.com//shop-aksesoris-game-konsol/">Aksesoris Game Konsol</a></li>
+    <li><a href="https://valezaco.com//shop-permainan-konsol/">Gaming Konsol</a></li>
+    <li><a href="https://valezaco.com//shop-game-konsol/">Permainan Konsol</a></li>
+    <li><a href="https://valezaco.com//shop-pengontrol-game-konsol/">Pengontrol Game Konsol</a></li>
+    <li><a href="https://valezaco.com//shop-konsolpelindung-penutup/">Konsol Pelindung Penutup</a></li>
+    <li><a href="https://valezaco.com//shop-aksesoris-game-konsol/">Aksesoris Game Konsol</a></li>
     </ul>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_1_6">
-    <a href="https://www.shirisunshineexim.com//beli-gadget/">
+    <a href="https://valezaco.com//beli-gadget/">
     <span>Gadget</span>
     </a>
     <ul class="sub-menu">
-    <li><a href="https://www.shirisunshineexim.com//beli-rokok-elektrik/">Rokok Elektrik</a></li>
-    <li><a href="https://www.shirisunshineexim.com//jual-kamera-drone/">Drone</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-media-player/">Media Player</a></li>
-    <li><a href="https://www.shirisunshineexim.com//jual-walkie-talkie/">Walkie-Talkie</a></li>
+    <li><a href="https://valezaco.com//beli-rokok-elektrik/">Rokok Elektrik</a></li>
+    <li><a href="https://valezaco.com//jual-kamera-drone/">Drone</a></li>
+    <li><a href="https://valezaco.com//beli-media-player/">Media Player</a></li>
+    <li><a href="https://valezaco.com//jual-walkie-talkie/">Walkie-Talkie</a></li>
     </ul>
     </li>
     <li class="sub-item-remove-arrow" data-cate="cate_1_7">
-    <a href="https://www.shirisunshineexim.com//beli-tablet-2">
+    <a href="https://valezaco.com//beli-tablet-2">
     <span>Tablet</span>
     </a>
     </li>
     </ul>
     <ul class="lzd-site-menu-sub Level_1_Category_No2" data-spm="cate_2">
     <li class="lzd-site-menu-sub-item" data-cate="cate_2_1">
-    <a href="https://www.shirisunshineexim.com//beli-aksesori-handphone">
+    <a href="https://valezaco.com//beli-aksesori-handphone">
     <span>Aksesoris Handphone</span>
     </a>
     <ul class="sub-menu">
-    <li><a href="https://www.shirisunshineexim.com//beli-power-bank/">Powerbank</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-kabel-handphone/">Kabel Handphone</a></li>
-    <li><a href="https://www.shirisunshineexim.com//jual-charger-kabel/">Charger Handphone</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-sarung-pelindung-handphone/">Casing Handphone</a></li>
-    <li><a href="https://www.shirisunshineexim.com//jual-pelindung-layar/">Pelindung Layar</a></li>
-    <li><a href="https://www.shirisunshineexim.com//jual-tongsis/">Tongsis</a></li>
-    <li><a href="https://www.shirisunshineexim.com//jual-dudukan-mobil/">Phone Holder</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-baterai-handphone/">Baterai Handphone</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-suku-cadang-handphone/">Peralatan &amp; Suku Cadang</a></li>
-    <li><a href="https://www.shirisunshineexim.com//shop-aksesori-ponsel/">Aksesoris Handphone Lainnya</a></li>
+    <li><a href="https://valezaco.com//beli-power-bank/">Powerbank</a></li>
+    <li><a href="https://valezaco.com//beli-kabel-handphone/">Kabel Handphone</a></li>
+    <li><a href="https://valezaco.com//jual-charger-kabel/">Charger Handphone</a></li>
+    <li><a href="https://valezaco.com//beli-sarung-pelindung-handphone/">Casing Handphone</a></li>
+    <li><a href="https://valezaco.com//jual-pelindung-layar/">Pelindung Layar</a></li>
+    <li><a href="https://valezaco.com//jual-tongsis/">Tongsis</a></li>
+    <li><a href="https://valezaco.com//jual-dudukan-mobil/">Phone Holder</a></li>
+    <li><a href="https://valezaco.com//beli-baterai-handphone/">Baterai Handphone</a></li>
+    <li><a href="https://valezaco.com//beli-suku-cadang-handphone/">Peralatan &amp; Suku Cadang</a></li>
+    <li><a href="https://valezaco.com//shop-aksesori-ponsel/">Aksesoris Handphone Lainnya</a></li>
     </ul>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_2_2">
-    <a href="https://www.shirisunshineexim.com//beli-aksesori-komputer/">
+    <a href="https://valezaco.com//beli-aksesori-komputer/">
     <span>Aksesoris Komputer</span>
     </a>
     <ul class="sub-menu">
-    <li><a href="https://www.shirisunshineexim.com//beli-mouse/">Mouse</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-keyboard/">Keyboard Komputer</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-monitor/">Monitor</a></li>
-    <li><a href="https://www.shirisunshineexim.com//adaptor-jaringan/">Adaptor Jaringan</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-audio-pc/">Audio PC</a></li>
-    <li><a href="https://www.shirisunshineexim.com//jual-adaptor-kabel/">Adaptor &amp; Kabel</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-adaptor-baterai-komputer/">Adaptor Baterai Komputer</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-mousepad/">Mousepad</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-alas-pendingin/">Cooling Pads</a></li>
+    <li><a href="https://valezaco.com//beli-mouse/">Mouse</a></li>
+    <li><a href="https://valezaco.com//beli-keyboard/">Keyboard Komputer</a></li>
+    <li><a href="https://valezaco.com//beli-monitor/">Monitor</a></li>
+    <li><a href="https://valezaco.com//adaptor-jaringan/">Adaptor Jaringan</a></li>
+    <li><a href="https://valezaco.com//beli-audio-pc/">Audio PC</a></li>
+    <li><a href="https://valezaco.com//jual-adaptor-kabel/">Adaptor &amp; Kabel</a></li>
+    <li><a href="https://valezaco.com//beli-adaptor-baterai-komputer/">Adaptor Baterai Komputer</a></li>
+    <li><a href="https://valezaco.com//beli-mousepad/">Mousepad</a></li>
+    <li><a href="https://valezaco.com//beli-alas-pendingin/">Cooling Pads</a></li>
     </ul>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_2_3">
-    <a href="https://www.shirisunshineexim.com//shop-audio/">
+    <a href="https://valezaco.com//shop-audio/">
     <span>Audio</span>
     </a>
     <ul class="sub-menu">
-    <li><a href="https://www.shirisunshineexim.com//beli-headphone-dan-headset/">Headphone &amp; Headset</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-audio-player/">Speaker Portabel</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-speaker-smart/">Speaker Smart</a></li>
+    <li><a href="https://valezaco.com//beli-headphone-dan-headset/">Headphone &amp; Headset</a></li>
+    <li><a href="https://valezaco.com//beli-audio-player/">Speaker Portabel</a></li>
+    <li><a href="https://valezaco.com//beli-speaker-smart/">Speaker Smart</a></li>
     </ul>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_2_4">
-    <a href="https://www.shirisunshineexim.com//shop-perangkat-pintar/">
+    <a href="https://valezaco.com//shop-perangkat-pintar/">
     <span>Aksesoris Berteknologi</span>
     </a>
     <ul class="sub-menu">
-    <li><a href="https://www.shirisunshineexim.com//shop-smartwatch/">Smartwatch</a></li>
-    <li><a href="https://www.shirisunshineexim.com//shop-tali-smartwatch/">Aksesoris Smartwatch</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-kacamata-vr/">VR Glasses</a></li>
-    <li><a href="https://www.shirisunshineexim.com//beli-pelacak-kebugaran/">Pelacak Kebugaran</a></li>
-    <li><a href="https://www.shirisunshineexim.com//shop-drone-dan-aksesoris/">Drone &amp; Aksesoris</a></li>
+    <li><a href="https://valezaco.com//shop-smartwatch/">Smartwatch</a></li>
+    <li><a href="https://valezaco.com//shop-tali-smartwatch/">Aksesoris Smartwatch</a></li>
+    <li><a href="https://valezaco.com//beli-kacamata-vr/">VR Glasses</a></li>
+    <li><a href="https://valezaco.com//beli-pelacak-kebugaran/">Pelacak Kebugaran</a></li>
+    <li><a href="https://valezaco.com//shop-drone-dan-aksesoris/">Drone &amp; Aksesoris</a></li>
     </ul>
     </li>
     </ul>
     <li class="lzd-site-menu-sub-item" data-cate="cate_4_2">
-    <a href="https://www.shirisunshineexim.com//baju-muslim-pria/">
+    <a href="https://valezaco.com//baju-muslim-pria/">
     <span>Baju Muslim</span>
     </a>
     <script type="text" class="J_data_3_1">
-                                [{"childCategoryName":"Jubah Muslim","childCategoryUrl":"https://www.shirisunshineexim.com//jubah-muslim-pria/"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"https://www.shirisunshineexim.com//aksesoris-muslim-pria/"},{"childCategoryName":"Baju Muslimin","childCategoryUrl":"https://www.shirisunshineexim.com//cekak-musang-pria/"},{"childCategoryName":"Kopiah","childCategoryUrl":"https://www.shirisunshineexim.com//shop-kopiah/"}]
+                                [{"childCategoryName":"Jubah Muslim","childCategoryUrl":"https://valezaco.com//jubah-muslim-pria/"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"https://valezaco.com//aksesoris-muslim-pria/"},{"childCategoryName":"Baju Muslimin","childCategoryUrl":"https://valezaco.com//cekak-musang-pria/"},{"childCategoryName":"Kopiah","childCategoryUrl":"https://valezaco.com//shop-kopiah/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_4_3">
-    <a href="https://www.shirisunshineexim.com//pakaian-dalam-dan-kaos-kaki-pria/">
+    <a href="https://valezaco.com//pakaian-dalam-dan-kaos-kaki-pria/">
     <span>Pakaian Dalam</span>
     </a>
     <script type="text" class="J_data_3_2">
-                                [{"childCategoryName":"Celana Dalam","childCategoryUrl":"https://www.shirisunshineexim.com//celana-dalam-pria/"},{"childCategoryName":"Pakaian Tidur","childCategoryUrl":"https://www.shirisunshineexim.com//baju-tidur-pria/"},{"childCategoryName":"Boxer","childCategoryUrl":"https://www.shirisunshineexim.com//pakaian-dalam-boxer-pria/"},{"childCategoryName":"Thongs  & Lainnya","childCategoryUrl":"https://www.shirisunshineexim.com//pakaian-dalam-pria-thongs-lainnya/"}]
+                                [{"childCategoryName":"Celana Dalam","childCategoryUrl":"https://valezaco.com//celana-dalam-pria/"},{"childCategoryName":"Pakaian Tidur","childCategoryUrl":"https://valezaco.com//baju-tidur-pria/"},{"childCategoryName":"Boxer","childCategoryUrl":"https://valezaco.com//pakaian-dalam-boxer-pria/"},{"childCategoryName":"Thongs  & Lainnya","childCategoryUrl":"https://valezaco.com//pakaian-dalam-pria-thongs-lainnya/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_4_4">
-    <a href="https://www.shirisunshineexim.com//sepatu-pria/">
+    <a href="https://valezaco.com//sepatu-pria/">
     <span>Sepatu Pria</span>
     </a>
     <script type="text" class="J_data_3_3">
-                                [{"childCategoryName":"Boots","childCategoryUrl":"https://www.shirisunshineexim.com//boots-pria/"},{"childCategoryName":"Flip Flop & Sandal","childCategoryUrl":"https://www.shirisunshineexim.com//sandal-jepit-pria/"},{"childCategoryName":"Sepatu Formal","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-pantofel/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://www.shirisunshineexim.com//aksesoris-sepatu-pria/"},{"childCategoryName":"Slip-On & Loafer","childCategoryUrl":"https://www.shirisunshineexim.com//jual-slip-on-loafer-pria/"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://www.shirisunshineexim.com//sneakers-pria/"}]
+                                [{"childCategoryName":"Boots","childCategoryUrl":"https://valezaco.com//boots-pria/"},{"childCategoryName":"Flip Flop & Sandal","childCategoryUrl":"https://valezaco.com//sandal-jepit-pria/"},{"childCategoryName":"Sepatu Formal","childCategoryUrl":"https://valezaco.com//sepatu-pantofel/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://valezaco.com//aksesoris-sepatu-pria/"},{"childCategoryName":"Slip-On & Loafer","childCategoryUrl":"https://valezaco.com//jual-slip-on-loafer-pria/"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://valezaco.com//sneakers-pria/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_4_5">
-    <a href="https://www.shirisunshineexim.com//aksesoris-pria/">
+    <a href="https://valezaco.com//aksesoris-pria/">
     <span>Aksesoris</span>
     </a>
     <script type="text" class="J_data_3_4">
-                                [{"childCategoryName":"Dasi","childCategoryUrl":"https://www.shirisunshineexim.com//aksesoris-dasi/"},{"childCategoryName":"Aksesoris Dasi Kupu-kupu","childCategoryUrl":"https://www.shirisunshineexim.com//aksesoris-dasi-kupu-kupu/"},{"childCategoryName":"Scarf","childCategoryUrl":"https://www.shirisunshineexim.com//syal-pria/"},{"childCategoryName":"Payung","childCategoryUrl":"https://www.shirisunshineexim.com//payung-pria/"},{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"https://www.shirisunshineexim.com//ikat-pinggang-pria/"},{"childCategoryName":"Topi","childCategoryUrl":"https://www.shirisunshineexim.com//topi-pria/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://www.shirisunshineexim.com//sarung-tangan-pria/"},{"childCategoryName":"Braces","childCategoryUrl":"https://www.shirisunshineexim.com//suspender-pria/"},{"childCategoryName":"Face Mask","childCategoryUrl":"https://www.shirisunshineexim.com//shop-masker-wajah-pria/"}]
+                                [{"childCategoryName":"Dasi","childCategoryUrl":"https://valezaco.com//aksesoris-dasi/"},{"childCategoryName":"Aksesoris Dasi Kupu-kupu","childCategoryUrl":"https://valezaco.com//aksesoris-dasi-kupu-kupu/"},{"childCategoryName":"Scarf","childCategoryUrl":"https://valezaco.com//syal-pria/"},{"childCategoryName":"Payung","childCategoryUrl":"https://valezaco.com//payung-pria/"},{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"https://valezaco.com//ikat-pinggang-pria/"},{"childCategoryName":"Topi","childCategoryUrl":"https://valezaco.com//topi-pria/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://valezaco.com//sarung-tangan-pria/"},{"childCategoryName":"Braces","childCategoryUrl":"https://valezaco.com//suspender-pria/"},{"childCategoryName":"Face Mask","childCategoryUrl":"https://valezaco.com//shop-masker-wajah-pria/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_4_6">
-    <a href="https://www.shirisunshineexim.com//tas-pria/">
+    <a href="https://valezaco.com//tas-pria/">
     <span>Tas Pria</span>
     </a>
     <script type="text" class="J_data_3_5">
-                                [{"childCategoryName":"Tas Ransel Pria","childCategoryUrl":"https://www.shirisunshineexim.com//shop-ransel-pria/"},{"childCategoryName":"Tas Laptop Jinjing","childCategoryUrl":"https://www.shirisunshineexim.com//tas-kerja-pria/"},{"childCategoryName":"Dompet Kartu Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-dompet-kartu-pria/"},{"childCategoryName":"Dompet Koin & Pouch Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-dompet-koin-pouch-pria/"},{"childCategoryName":"Tas Selempang Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-tas-selempang-pria/"},{"childCategoryName":"Tas Laptop Bahu & Messenger","childCategoryUrl":"https://www.shirisunshineexim.com//tas-messenger-pria/"},{"childCategoryName":"Tote Bag Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-tas-tote-pria/"},{"childCategoryName":"Tas Pinggang","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tas-pinggang/"},{"childCategoryName":"Dompet Pria","childCategoryUrl":"https://www.shirisunshineexim.com//shop-dompet-pria/"}]
+                                [{"childCategoryName":"Tas Ransel Pria","childCategoryUrl":"https://valezaco.com//shop-ransel-pria/"},{"childCategoryName":"Tas Laptop Jinjing","childCategoryUrl":"https://valezaco.com//tas-kerja-pria/"},{"childCategoryName":"Dompet Kartu Pria","childCategoryUrl":"https://valezaco.com//jual-dompet-kartu-pria/"},{"childCategoryName":"Dompet Koin & Pouch Pria","childCategoryUrl":"https://valezaco.com//jual-dompet-koin-pouch-pria/"},{"childCategoryName":"Tas Selempang Pria","childCategoryUrl":"https://valezaco.com//jual-tas-selempang-pria/"},{"childCategoryName":"Tas Laptop Bahu & Messenger","childCategoryUrl":"https://valezaco.com//tas-messenger-pria/"},{"childCategoryName":"Tote Bag Pria","childCategoryUrl":"https://valezaco.com//jual-tas-tote-pria/"},{"childCategoryName":"Tas Pinggang","childCategoryUrl":"https://valezaco.com//beli-tas-pinggang/"},{"childCategoryName":"Dompet Pria","childCategoryUrl":"https://valezaco.com//shop-dompet-pria/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_4_7">
-    <a href="https://www.shirisunshineexim.com//beli-perhiasan-pria/">
+    <a href="https://valezaco.com//beli-perhiasan-pria/">
     <span>Perhiasan Pria</span>
     </a>
     <script type="text" class="J_data_3_6">
-                                [{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pria-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pria-logam-berharga/"}]
+                                [{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://valezaco.com//beli-pria-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"https://valezaco.com//beli-pria-logam-berharga/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_4_8">
-    <a href="https://www.shirisunshineexim.com//beli-jam-tangan-pria/">
+    <a href="https://valezaco.com//beli-jam-tangan-pria/">
     <span>Jam Tangan Pria</span>
     </a>
     <script type="text" class="J_data_3_7">
-                                [{"childCategoryName":"Aksesoris Jam Tangan Pria","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aksesoris-jam-tangan-pria/"},{"childCategoryName":"Jam Tangan Kasual Pria","childCategoryUrl":"https://www.shirisunshineexim.com//beli-jam-tangan-kasual-pria/"},{"childCategoryName":"Formal","childCategoryUrl":"https://www.shirisunshineexim.com//beli-jam-tangan-formal-pria/"},{"childCategoryName":"Mewah","childCategoryUrl":"https://www.shirisunshineexim.com//shop-jam-tangan-mewah-pria/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"https://www.shirisunshineexim.com//shop-jam-tangan-pre-owned-pria/"},{"childCategoryName":"Jam Tangan Olahraga Pria","childCategoryUrl":"https://www.shirisunshineexim.com//beli-jam-tangan-olahraga-pria/"}]
+                                [{"childCategoryName":"Aksesoris Jam Tangan Pria","childCategoryUrl":"https://valezaco.com//beli-aksesoris-jam-tangan-pria/"},{"childCategoryName":"Jam Tangan Kasual Pria","childCategoryUrl":"https://valezaco.com//beli-jam-tangan-kasual-pria/"},{"childCategoryName":"Formal","childCategoryUrl":"https://valezaco.com//beli-jam-tangan-formal-pria/"},{"childCategoryName":"Mewah","childCategoryUrl":"https://valezaco.com//shop-jam-tangan-mewah-pria/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"https://valezaco.com//shop-jam-tangan-pre-owned-pria/"},{"childCategoryName":"Jam Tangan Olahraga Pria","childCategoryUrl":"https://valezaco.com//beli-jam-tangan-olahraga-pria/"}]
                             </script>
     </li>
     </ul>
     <ul class="lzd-site-menu-sub Level_1_Category_No5" data-spm="cate_5">
     <li class="lzd-site-menu-sub-item" data-cate="cate_5_1">
-    <a href="https://www.shirisunshineexim.com//fashion-pakaian-anak-laki-laki">
+    <a href="https://valezaco.com//fashion-pakaian-anak-laki-laki">
     <span>Pakaian Anak Laki-laki</span>
     </a>
     <script type="text" class="J_data_4_0">
-                                [{"childCategoryName":"Topi Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//topi-anak-laki-laki"},{"childCategoryName":"Hoodie Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//jual-hoodie-anak-laki-laki"},{"childCategoryName":"Jaket & Mantel Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//jaket-mantel-anak-laki-laki"},{"childCategoryName":"Celana Pendek Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//beli-celana-pendek-pria"},{"childCategoryName":"Pakaian Tidur Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//pakaian-tidur-anak-laki-laki"},{"childCategoryName":"Sweater & Cardigan Anak","childCategoryUrl":"https://www.shirisunshineexim.com//sweater-cardigan-anak-laki-laki"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"https://www.shirisunshineexim.com//payung-pakaian-hujan-anak-laki-laki"},{"childCategoryName":"Pakaian dalam","childCategoryUrl":"https://www.shirisunshineexim.com//shop-pakaian-dalam"},{"childCategoryName":"Celana & Jeans Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//celana-jeans-anak-laki-laki"},{"childCategoryName":"Kaus Kaki","childCategoryUrl":"https://www.shirisunshineexim.com//shop-kaus-kaki"},{"childCategoryName":"Baju & Atasan Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//baju-atasan-anak-laki-laki"}]
+                                [{"childCategoryName":"Topi Anak Laki-laki","childCategoryUrl":"https://valezaco.com//topi-anak-laki-laki"},{"childCategoryName":"Hoodie Anak Laki-laki","childCategoryUrl":"https://valezaco.com//jual-hoodie-anak-laki-laki"},{"childCategoryName":"Jaket & Mantel Anak Laki-laki","childCategoryUrl":"https://valezaco.com//jaket-mantel-anak-laki-laki"},{"childCategoryName":"Celana Pendek Anak Laki-laki","childCategoryUrl":"https://valezaco.com//beli-celana-pendek-pria"},{"childCategoryName":"Pakaian Tidur Anak Laki-laki","childCategoryUrl":"https://valezaco.com//pakaian-tidur-anak-laki-laki"},{"childCategoryName":"Sweater & Cardigan Anak","childCategoryUrl":"https://valezaco.com//sweater-cardigan-anak-laki-laki"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"https://valezaco.com//payung-pakaian-hujan-anak-laki-laki"},{"childCategoryName":"Pakaian dalam","childCategoryUrl":"https://valezaco.com//shop-pakaian-dalam"},{"childCategoryName":"Celana & Jeans Anak Laki-laki","childCategoryUrl":"https://valezaco.com//celana-jeans-anak-laki-laki"},{"childCategoryName":"Kaus Kaki","childCategoryUrl":"https://valezaco.com//shop-kaus-kaki"},{"childCategoryName":"Baju & Atasan Anak Laki-laki","childCategoryUrl":"https://valezaco.com//baju-atasan-anak-laki-laki"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_5_2">
-    <a href="https://www.shirisunshineexim.com//pakaian-anak-perempuan">
+    <a href="https://valezaco.com//pakaian-anak-perempuan">
     <span>Pakaian Anak Perempuan</span>
     </a>
     <script type="text" class="J_data_4_1">
-                                [{"childCategoryName":"Bawahan Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//celana-jeans-anak-perempuan"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//fashion-dress-anak-perempuan"},{"childCategoryName":"Scarf Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//scarf-sarung-tangan-anak-perempuan"},{"childCategoryName":"Aksesori Rambut Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//jual-aksesori-rambut-anak-perempuan"},{"childCategoryName":"Topi Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//topi-anak-perempuan"},{"childCategoryName":"Hoodie Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//jual-hoodie-anak-laki-laki-2"},{"childCategoryName":"Jaket & Mantel Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//jaket-mantel-anak-perempuan"},{"childCategoryName":"Baju & Atasan Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//baju-atasan-anak-perempuan"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"https://www.shirisunshineexim.com//payung-jas-hujan-anak-perempuan"},{"childCategoryName":"Pakaian Dalam Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//pakaian-tidur-anak-perempuan"},{"childCategoryName":"Jumpsuits & Overalls","childCategoryUrl":"https://www.shirisunshineexim.com//shop-girls-jumpsuits-overalls"}]
+                                [{"childCategoryName":"Bawahan Anak Perempuan","childCategoryUrl":"https://valezaco.com//celana-jeans-anak-perempuan"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"https://valezaco.com//fashion-dress-anak-perempuan"},{"childCategoryName":"Scarf Anak Perempuan","childCategoryUrl":"https://valezaco.com//scarf-sarung-tangan-anak-perempuan"},{"childCategoryName":"Aksesori Rambut Anak Perempuan","childCategoryUrl":"https://valezaco.com//jual-aksesori-rambut-anak-perempuan"},{"childCategoryName":"Topi Anak Perempuan","childCategoryUrl":"https://valezaco.com//topi-anak-perempuan"},{"childCategoryName":"Hoodie Anak Perempuan","childCategoryUrl":"https://valezaco.com//jual-hoodie-anak-laki-laki-2"},{"childCategoryName":"Jaket & Mantel Anak Perempuan","childCategoryUrl":"https://valezaco.com//jaket-mantel-anak-perempuan"},{"childCategoryName":"Baju & Atasan Anak Perempuan","childCategoryUrl":"https://valezaco.com//baju-atasan-anak-perempuan"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"https://valezaco.com//payung-jas-hujan-anak-perempuan"},{"childCategoryName":"Pakaian Dalam Anak Perempuan","childCategoryUrl":"https://valezaco.com//pakaian-tidur-anak-perempuan"},{"childCategoryName":"Jumpsuits & Overalls","childCategoryUrl":"https://valezaco.com//shop-girls-jumpsuits-overalls"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_5_3">
-    <a href="https://www.shirisunshineexim.com//shop-boy's-muslim-wear">
+    <a href="https://valezaco.com//shop-boy's-muslim-wear">
     <span>Pakaian Anak Muslim Laki-Laki</span>
     </a>
     <script type="text" class="J_data_4_2">
-                                [{"childCategoryName":"Kemeja Anak Laki-Laki","childCategoryUrl":"https://www.shirisunshineexim.com//shop-boy's-muslimin-shirt"},{"childCategoryName":"Celana Anak Laki-Laki","childCategoryUrl":"https://www.shirisunshineexim.com//shop-boy's-muslimin-pants"},{"childCategoryName":"Aksesoris Anak Laki-Laki","childCategoryUrl":"https://www.shirisunshineexim.com//shop-boy's-muslimin-accessories"}]
+                                [{"childCategoryName":"Kemeja Anak Laki-Laki","childCategoryUrl":"https://valezaco.com//shop-boy's-muslimin-shirt"},{"childCategoryName":"Celana Anak Laki-Laki","childCategoryUrl":"https://valezaco.com//shop-boy's-muslimin-pants"},{"childCategoryName":"Aksesoris Anak Laki-Laki","childCategoryUrl":"https://valezaco.com//shop-boy's-muslimin-accessories"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_5_4">
-    <a href="https://www.shirisunshineexim.com//shop-girls-muslim-wear">
+    <a href="https://valezaco.com//shop-girls-muslim-wear">
     <span>Pakaian Anak Muslim Perempuan</span>
     </a>
     <script type="text" class="J_data_4_3">
-                                [{"childCategoryName":"Hijab Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-girls-muslim-wear-hijabs/"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-girls-muslim-wear-dresses-jumpsuits/"}]
+                                [{"childCategoryName":"Hijab Anak Perempuan","childCategoryUrl":"https://valezaco.com//shop-girls-muslim-wear-hijabs/"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"https://valezaco.com//shop-girls-muslim-wear-dresses-jumpsuits/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_5_5">
-    <a href="https://www.shirisunshineexim.com//fashion-sepatu-anak-laki-laki">
+    <a href="https://valezaco.com//fashion-sepatu-anak-laki-laki">
     <span>Sepatu Anak Laki-laki</span>
     </a>
     <script type="text" class="J_data_4_4">
-                                [{"childCategoryName":"Sepatu Boot Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-boot-anak-laki-laki"},{"childCategoryName":"Sandal Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//fashion-sandal-jepit-anak-laki-laki"},{"childCategoryName":"Sepatu Formal Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-lace-ups-anak-laki-laki"},{"childCategoryName":"Aksesoris Sepatu Anak Laki","childCategoryUrl":"https://www.shirisunshineexim.com//fashion-aksesoris-sepatu-anak-laki-laki"},{"childCategoryName":"Slip-n Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-slip-on-anak-laki-laki"},{"childCategoryName":"Sepatu Sneaker Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-sneaker-anak-laki-laki"}]
+                                [{"childCategoryName":"Sepatu Boot Anak Laki-laki","childCategoryUrl":"https://valezaco.com//sepatu-boot-anak-laki-laki"},{"childCategoryName":"Sandal Anak Laki-laki","childCategoryUrl":"https://valezaco.com//fashion-sandal-jepit-anak-laki-laki"},{"childCategoryName":"Sepatu Formal Anak Laki-laki","childCategoryUrl":"https://valezaco.com//sepatu-lace-ups-anak-laki-laki"},{"childCategoryName":"Aksesoris Sepatu Anak Laki","childCategoryUrl":"https://valezaco.com//fashion-aksesoris-sepatu-anak-laki-laki"},{"childCategoryName":"Slip-n Anak Laki-laki","childCategoryUrl":"https://valezaco.com//sepatu-slip-on-anak-laki-laki"},{"childCategoryName":"Sepatu Sneaker Anak Laki-laki","childCategoryUrl":"https://valezaco.com//sepatu-sneaker-anak-laki-laki"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_5_6">
-    <a href="https://www.shirisunshineexim.com//fashion-sepatu-anak-perempuan">
+    <a href="https://valezaco.com//fashion-sepatu-anak-perempuan">
     <span>Sepatu Anak Perempuan</span>
     </a>
     <script type="text" class="J_data_4_5">
-                                [{"childCategoryName":"Sepatu Flat Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-balerina-anak-perempuan"},{"childCategoryName":"Sepatu Boot Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-boot-anak-perempuan"},{"childCategoryName":"Sandal Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//fashion-sandal-jepit-anak-perempuan"},{"childCategoryName":"Sepatu Formal Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-lace-ups-anak-perempuan"},{"childCategoryName":"Aksesoris Sepatu Anak","childCategoryUrl":"https://www.shirisunshineexim.com//fashion-aksesoris-sepatu-anak-perempuan"},{"childCategoryName":"Sepatu Sneaker Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-sneakers-anak-perempuan"}]
+                                [{"childCategoryName":"Sepatu Flat Anak Perempuan","childCategoryUrl":"https://valezaco.com//sepatu-balerina-anak-perempuan"},{"childCategoryName":"Sepatu Boot Anak Perempuan","childCategoryUrl":"https://valezaco.com//sepatu-boot-anak-perempuan"},{"childCategoryName":"Sandal Anak Perempuan","childCategoryUrl":"https://valezaco.com//fashion-sandal-jepit-anak-perempuan"},{"childCategoryName":"Sepatu Formal Anak Perempuan","childCategoryUrl":"https://valezaco.com//sepatu-lace-ups-anak-perempuan"},{"childCategoryName":"Aksesoris Sepatu Anak","childCategoryUrl":"https://valezaco.com//fashion-aksesoris-sepatu-anak-perempuan"},{"childCategoryName":"Sepatu Sneaker Anak Perempuan","childCategoryUrl":"https://valezaco.com//sepatu-sneakers-anak-perempuan"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_5_7">
-    <a href="https://www.shirisunshineexim.com//beli-tas-anak-tl/">
+    <a href="https://valezaco.com//beli-tas-anak-tl/">
     <span>Tas Anak</span>
     </a>
     <script type="text" class="J_data_4_6">
-                                [{"childCategoryName":"Tas Bahu Anak","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tas-bahu-anak/"},{"childCategoryName":"Ransel Troli Anak","childCategoryUrl":"https://www.shirisunshineexim.com//beli-ransel-troli-anak/"},{"childCategoryName":"Ransel Anak","childCategoryUrl":"https://www.shirisunshineexim.com//beli-ransel-anak/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aksesoris-anak/"},{"childCategoryName":"Koper","childCategoryUrl":"https://www.shirisunshineexim.com//koper-anak-2/"}]
+                                [{"childCategoryName":"Tas Bahu Anak","childCategoryUrl":"https://valezaco.com//beli-tas-bahu-anak/"},{"childCategoryName":"Ransel Troli Anak","childCategoryUrl":"https://valezaco.com//beli-ransel-troli-anak/"},{"childCategoryName":"Ransel Anak","childCategoryUrl":"https://valezaco.com//beli-ransel-anak/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"https://valezaco.com//beli-aksesoris-anak/"},{"childCategoryName":"Koper","childCategoryUrl":"https://valezaco.com//koper-anak-2/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_5_8">
-    <a href="https://www.shirisunshineexim.com//beli-perhiasan-anak/">
+    <a href="https://valezaco.com//beli-perhiasan-anak/">
     <span>Perhiasan Anak</span>
     </a>
     <script type="text" class="J_data_4_7">
-                                [{"childCategoryName":"Emas Murni","childCategoryUrl":"https://www.shirisunshineexim.com//beli-anak-emas-murni/"},{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://www.shirisunshineexim.com//beli-anak-perhiasan-fashion/"}]
+                                [{"childCategoryName":"Emas Murni","childCategoryUrl":"https://valezaco.com//beli-anak-emas-murni/"},{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://valezaco.com//beli-anak-perhiasan-fashion/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_5_9">
-    <a href="https://www.shirisunshineexim.com//beli-jam-tangan-anak/">
+    <a href="https://valezaco.com//beli-jam-tangan-anak/">
     <span>Jam Tangan Anak</span>
     </a>
     <script type="text" class="J_data_4_8">
-                                [{"childCategoryName":"Jam Tangan Anak Laki-Laki","childCategoryUrl":"https://www.shirisunshineexim.com//beli-jam-tangan-anak-laki-laki/"},{"childCategoryName":"Jam Tangan Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-jam-tangan-anak-perempuan/"}]
+                                [{"childCategoryName":"Jam Tangan Anak Laki-Laki","childCategoryUrl":"https://valezaco.com//beli-jam-tangan-anak-laki-laki/"},{"childCategoryName":"Jam Tangan Anak Perempuan","childCategoryUrl":"https://valezaco.com//beli-jam-tangan-anak-perempuan/"}]
                             </script>
     </li>
     </ul>
     <ul class="lzd-site-menu-sub Level_1_Category_No6" data-spm="cate_6">
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_1">
-    <a href="https://www.shirisunshineexim.com//beli-perawatan-kulit/">
+    <a href="https://valezaco.com//beli-perawatan-kulit/">
     <span>Perawatan Kulit</span>
     </a>
     <script type="text" class="J_data_5_0">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Serum Perawatan Wajah","childCategoryUrl":"https://www.shirisunshineexim.com//beli-serum-perawatan-wajah"},{"childCategoryName":"Dermacare","childCategoryUrl":"https://www.shirisunshineexim.com//beli-dermacare"},{"childCategoryName":"Pelembab Wajah","childCategoryUrl":"https://www.shirisunshineexim.com//shop-pelembab-wajah"},{"childCategoryName":"Pembersih Wajah","childCategoryUrl":"https://www.shirisunshineexim.com//pembersih-wajah"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"https://www.shirisunshineexim.com//beli-masker-wajah"},{"childCategoryName":"Toner","childCategoryUrl":"https://www.shirisunshineexim.com//beli-toner"},{"childCategoryName":"Tabir Surya","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tabir-surya-aftersun"},{"childCategoryName":"Set Perawatan Wajah","childCategoryUrl":"https://www.shirisunshineexim.com//beli-set-perawatan-wajah"},{"childCategoryName":"Pelembab & Perawatan Bibir","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lip-balm-perawatan-bibir"},{"childCategoryName":"Face Scrubs & Exfoliators","childCategoryUrl":"https://www.shirisunshineexim.com//beli-scrub-pengelupas-wajah"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"https://www.shirisunshineexim.com//shop-perawatan-mata"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Serum Perawatan Wajah","childCategoryUrl":"https://valezaco.com//beli-serum-perawatan-wajah"},{"childCategoryName":"Dermacare","childCategoryUrl":"https://valezaco.com//beli-dermacare"},{"childCategoryName":"Pelembab Wajah","childCategoryUrl":"https://valezaco.com//shop-pelembab-wajah"},{"childCategoryName":"Pembersih Wajah","childCategoryUrl":"https://valezaco.com//pembersih-wajah"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"https://valezaco.com//beli-masker-wajah"},{"childCategoryName":"Toner","childCategoryUrl":"https://valezaco.com//beli-toner"},{"childCategoryName":"Tabir Surya","childCategoryUrl":"https://valezaco.com//beli-tabir-surya-aftersun"},{"childCategoryName":"Set Perawatan Wajah","childCategoryUrl":"https://valezaco.com//beli-set-perawatan-wajah"},{"childCategoryName":"Pelembab & Perawatan Bibir","childCategoryUrl":"https://valezaco.com//beli-lip-balm-perawatan-bibir"},{"childCategoryName":"Face Scrubs & Exfoliators","childCategoryUrl":"https://valezaco.com//beli-scrub-pengelupas-wajah"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"https://valezaco.com//shop-perawatan-mata"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_2">
-    <a href="https://www.shirisunshineexim.com//beli-makeup/">
+    <a href="https://valezaco.com//beli-makeup/">
     <span>Makeup</span>
     </a>
     <script type="text" class="J_data_5_1">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makeup Bibir","childCategoryUrl":"https://www.shirisunshineexim.com//beli-make-up-bibir"},{"childCategoryName":"Lipstik","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lipstik"},{"childCategoryName":"Makeup Wajah","childCategoryUrl":"https://www.shirisunshineexim.com//makeup-wajah"},{"childCategoryName":"Foundation","childCategoryUrl":"https://www.shirisunshineexim.com//beli-foundation"},{"childCategoryName":"Makeup Mata","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mata"},{"childCategoryName":"Maskara","childCategoryUrl":"https://www.shirisunshineexim.com//beli-maskara"},{"childCategoryName":"Aksesoris Makeup","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aksesoris-makeup"},{"childCategoryName":"Set Kuas & Kuas Makeup","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kuas-aplikator"},{"childCategoryName":"Perawatan Kuku","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perawatan-kuku"},{"childCategoryName":"Set Makeup & Palet","childCategoryUrl":"https://www.shirisunshineexim.com//shop-palet-set-makeup"},{"childCategoryName":"Pembersih Makeup","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pembersih-makeup"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makeup Bibir","childCategoryUrl":"https://valezaco.com//beli-make-up-bibir"},{"childCategoryName":"Lipstik","childCategoryUrl":"https://valezaco.com//beli-lipstik"},{"childCategoryName":"Makeup Wajah","childCategoryUrl":"https://valezaco.com//makeup-wajah"},{"childCategoryName":"Foundation","childCategoryUrl":"https://valezaco.com//beli-foundation"},{"childCategoryName":"Makeup Mata","childCategoryUrl":"https://valezaco.com//beli-mata"},{"childCategoryName":"Maskara","childCategoryUrl":"https://valezaco.com//beli-maskara"},{"childCategoryName":"Aksesoris Makeup","childCategoryUrl":"https://valezaco.com//beli-aksesoris-makeup"},{"childCategoryName":"Set Kuas & Kuas Makeup","childCategoryUrl":"https://valezaco.com//beli-kuas-aplikator"},{"childCategoryName":"Perawatan Kuku","childCategoryUrl":"https://valezaco.com//beli-perawatan-kuku"},{"childCategoryName":"Set Makeup & Palet","childCategoryUrl":"https://valezaco.com//shop-palet-set-makeup"},{"childCategoryName":"Pembersih Makeup","childCategoryUrl":"https://valezaco.com//beli-pembersih-makeup"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_3">
-    <a href="https://www.shirisunshineexim.com//beli-perawatan-rambut/">
+    <a href="https://valezaco.com//beli-perawatan-rambut/">
     <span>Perawatan Rambut</span>
     </a>
     <script type="text" class="J_data_5_2">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Shampo","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sampo"},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"https://www.shirisunshineexim.com//perawatan-intensif"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"https://www.shirisunshineexim.com//aksesoris-perawatan-rambut"},{"childCategoryName":"Styling Rambut","childCategoryUrl":"https://www.shirisunshineexim.com//beli-styling-rambut"},{"childCategoryName":"Pewarna Rambut","childCategoryUrl":"https://www.shirisunshineexim.com//beli-cat-rambut"},{"childCategoryName":"Kondisioner","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kondisioner"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"https://www.shirisunshineexim.com//beli-paket-hadiah-bingkisan-perawatan-rambut"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Shampo","childCategoryUrl":"https://valezaco.com//beli-sampo"},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"https://valezaco.com//perawatan-intensif"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"https://valezaco.com//aksesoris-perawatan-rambut"},{"childCategoryName":"Styling Rambut","childCategoryUrl":"https://valezaco.com//beli-styling-rambut"},{"childCategoryName":"Pewarna Rambut","childCategoryUrl":"https://valezaco.com//beli-cat-rambut"},{"childCategoryName":"Kondisioner","childCategoryUrl":"https://valezaco.com//beli-kondisioner"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"https://valezaco.com//beli-paket-hadiah-bingkisan-perawatan-rambut"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_4">
-    <a href="https://www.shirisunshineexim.com//beli-perlengkapan-mandi-tubuh/">
+    <a href="https://valezaco.com//beli-perlengkapan-mandi-tubuh/">
     <span>Perawatan Tubuh</span>
     </a>
     <script type="text" class="J_data_5_3">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Losion Tubuh","childCategoryUrl":"https://www.shirisunshineexim.com//beli-losion-krim-tubuh"},{"childCategoryName":"Sabun Cair","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Sabun-Cair"},{"childCategoryName":"Scrub Tubuh","childCategoryUrl":"https://www.shirisunshineexim.com//beli-scrub-tubuh"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://www.shirisunshineexim.com//perawatan-payudara"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Perawatan-Tubuh"},{"childCategoryName":"Perawatan Kaki","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perawatan-kaki"},{"childCategoryName":"Sabun Batang","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Sabun-Batang"},{"childCategoryName":"Aksesoris Tubuh","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aksesoris-perlengkapan-mandi-tubuh"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"https://www.shirisunshineexim.com//beli-paket-hadiah-bingkisan-alat-mandi-tubuh"},{"childCategoryName":"Penghilang Bulu","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perontok-rambut"},{"childCategoryName":"Sabun Tangan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sabun-pembersih-tangan"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Losion Tubuh","childCategoryUrl":"https://valezaco.com//beli-losion-krim-tubuh"},{"childCategoryName":"Sabun Cair","childCategoryUrl":"https://valezaco.com//shop-Sabun-Cair"},{"childCategoryName":"Scrub Tubuh","childCategoryUrl":"https://valezaco.com//beli-scrub-tubuh"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://valezaco.com//perawatan-payudara"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"https://valezaco.com//shop-Perawatan-Tubuh"},{"childCategoryName":"Perawatan Kaki","childCategoryUrl":"https://valezaco.com//beli-perawatan-kaki"},{"childCategoryName":"Sabun Batang","childCategoryUrl":"https://valezaco.com//shop-Sabun-Batang"},{"childCategoryName":"Aksesoris Tubuh","childCategoryUrl":"https://valezaco.com//beli-aksesoris-perlengkapan-mandi-tubuh"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"https://valezaco.com//beli-paket-hadiah-bingkisan-alat-mandi-tubuh"},{"childCategoryName":"Penghilang Bulu","childCategoryUrl":"https://valezaco.com//beli-perontok-rambut"},{"childCategoryName":"Sabun Tangan","childCategoryUrl":"https://valezaco.com//beli-sabun-pembersih-tangan"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_5">
-    <a href="https://www.shirisunshineexim.com//beli-perawatan-kesehatan-pribadi/">
+    <a href="https://valezaco.com//beli-perawatan-kesehatan-pribadi/">
     <span>Perawatan Diri</span>
     </a>
     <script type="text" class="J_data_5_4">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Mulut","childCategoryUrl":"https://www.shirisunshineexim.com//perawatan-mulut"},{"childCategoryName":"Pembersih Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pembersih-wanita"},{"childCategoryName":"Keamanan Diri","childCategoryUrl":"https://www.shirisunshineexim.com//beli-keamanan-diri"},{"childCategoryName":"Beli Deodoran","childCategoryUrl":"https://www.shirisunshineexim.com//beli-deodoran"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"https://www.shirisunshineexim.com//shop-perawatan-optik-pribadi"},{"childCategoryName":"Obat Anti Serangga","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Obat-Anti-Serangga"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Mulut","childCategoryUrl":"https://valezaco.com//perawatan-mulut"},{"childCategoryName":"Pembersih Wanita","childCategoryUrl":"https://valezaco.com//beli-pembersih-wanita"},{"childCategoryName":"Keamanan Diri","childCategoryUrl":"https://valezaco.com//beli-keamanan-diri"},{"childCategoryName":"Beli Deodoran","childCategoryUrl":"https://valezaco.com//beli-deodoran"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"https://valezaco.com//shop-perawatan-optik-pribadi"},{"childCategoryName":"Obat Anti Serangga","childCategoryUrl":"https://valezaco.com//shop-Obat-Anti-Serangga"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_6">
-    <a href="https://www.shirisunshineexim.com//beli-parfum/">
+    <a href="https://valezaco.com//beli-parfum/">
     <span>Parfum</span>
     </a>
     <script type="text" class="J_data_5_5">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pria","childCategoryUrl":"https://www.shirisunshineexim.com//beli-parfum-pria"},{"childCategoryName":"Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//beli-parfum-wanita"},{"childCategoryName":"Unisex","childCategoryUrl":"https://www.shirisunshineexim.com//beli-parfum-unisex"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pria","childCategoryUrl":"https://valezaco.com//beli-parfum-pria"},{"childCategoryName":"Wanita","childCategoryUrl":"https://valezaco.com//beli-parfum-wanita"},{"childCategoryName":"Unisex","childCategoryUrl":"https://valezaco.com//beli-parfum-unisex"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_7">
-    <a href="https://www.shirisunshineexim.com//beli-alat-kesehatan-kecantikan/">
+    <a href="https://valezaco.com//beli-alat-kesehatan-kecantikan/">
     <span>Alat Kecantikan</span>
     </a>
     <script type="text" class="J_data_5_6">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Alat Pelangsing & Pijat","childCategoryUrl":"https://www.shirisunshineexim.com//alat-pelangsing-dan-pemijat-elektrik"},{"childCategoryName":"Sauna Portabel","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sauna-portabel"},{"childCategoryName":"Foot Relief","childCategoryUrl":"https://www.shirisunshineexim.com//beli-foot-relief"},{"childCategoryName":"Alat Cukur & Trimmer","childCategoryUrl":"https://www.shirisunshineexim.com//aksesoris-alat-cukur-dan-trimmer"},{"childCategoryName":"Alat Perawatan Wajah","childCategoryUrl":"https://www.shirisunshineexim.com//shop-alat-perawatan-kulit-wajah"},{"childCategoryName":"Alat Perawatan Tubuh","childCategoryUrl":"https://www.shirisunshineexim.com//shop-alat-perawatan-kulit-tubuh"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Alat Pelangsing & Pijat","childCategoryUrl":"https://valezaco.com//alat-pelangsing-dan-pemijat-elektrik"},{"childCategoryName":"Sauna Portabel","childCategoryUrl":"https://valezaco.com//beli-sauna-portabel"},{"childCategoryName":"Foot Relief","childCategoryUrl":"https://valezaco.com//beli-foot-relief"},{"childCategoryName":"Alat Cukur & Trimmer","childCategoryUrl":"https://valezaco.com//aksesoris-alat-cukur-dan-trimmer"},{"childCategoryName":"Alat Perawatan Wajah","childCategoryUrl":"https://valezaco.com//shop-alat-perawatan-kulit-wajah"},{"childCategoryName":"Alat Perawatan Tubuh","childCategoryUrl":"https://valezaco.com//shop-alat-perawatan-kulit-tubuh"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_8">
-    <a href="https://www.shirisunshineexim.com//beli-suplemen-makanan/">
+    <a href="https://valezaco.com//beli-suplemen-makanan/">
     <span>Suplemen Makanan</span>
     </a>
     <script type="text" class="J_data_5_7">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengatur Berat Badan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pengatur-berat-badan"},{"childCategoryName":"Pembakar Lemak","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pembakar-lemak"},{"childCategoryName":"Minuman Pelangsing","childCategoryUrl":"https://www.shirisunshineexim.com//beli-minuman-pelangsing"},{"childCategoryName":"Suplemen Kecantikan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-suplemen-kecantikan"},{"childCategoryName":"Suplemen Pemutih","childCategoryUrl":"https://www.shirisunshineexim.com//beli-suplemen-pemutih"},{"childCategoryName":"Multivitamin","childCategoryUrl":"https://www.shirisunshineexim.com//multivitamin/"},{"childCategoryName":"Obat Tradisional","childCategoryUrl":"https://www.shirisunshineexim.com//beli-obat-obatan-tradisional"},{"childCategoryName":"Sistem Imun","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sistem-imun"},{"childCategoryName":"Nutrisi Olahraga","childCategoryUrl":"https://www.shirisunshineexim.com//beli-nutrisi-olahraga"},{"childCategoryName":"Penambah Berat Badan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-suplemen-penambah-berat-badan"},{"childCategoryName":"Protein","childCategoryUrl":"https://www.shirisunshineexim.com//beli-protein"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengatur Berat Badan","childCategoryUrl":"https://valezaco.com//beli-pengatur-berat-badan"},{"childCategoryName":"Pembakar Lemak","childCategoryUrl":"https://valezaco.com//beli-pembakar-lemak"},{"childCategoryName":"Minuman Pelangsing","childCategoryUrl":"https://valezaco.com//beli-minuman-pelangsing"},{"childCategoryName":"Suplemen Kecantikan","childCategoryUrl":"https://valezaco.com//beli-suplemen-kecantikan"},{"childCategoryName":"Suplemen Pemutih","childCategoryUrl":"https://valezaco.com//beli-suplemen-pemutih"},{"childCategoryName":"Multivitamin","childCategoryUrl":"https://valezaco.com//multivitamin/"},{"childCategoryName":"Obat Tradisional","childCategoryUrl":"https://valezaco.com//beli-obat-obatan-tradisional"},{"childCategoryName":"Sistem Imun","childCategoryUrl":"https://valezaco.com//beli-sistem-imun"},{"childCategoryName":"Nutrisi Olahraga","childCategoryUrl":"https://valezaco.com//beli-nutrisi-olahraga"},{"childCategoryName":"Penambah Berat Badan","childCategoryUrl":"https://valezaco.com//beli-suplemen-penambah-berat-badan"},{"childCategoryName":"Protein","childCategoryUrl":"https://valezaco.com//beli-protein"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_9">
-    <a href="https://www.shirisunshineexim.com//beli-alat-medis/">
+    <a href="https://valezaco.com//beli-alat-medis/">
     <span>Alat Medis</span>
     </a>
     <script type="text" class="J_data_5_8">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Aksesoris Kesehatan","childCategoryUrl":"https://www.shirisunshineexim.com//aksesoris-kesehatan"},{"childCategoryName":"Alat Tes Kesehatan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-alat-tes-kesehatan"},{"childCategoryName":"Obat-Obatan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-over-the-counter-medicine/"},{"childCategoryName":"Perban & Perlengkapan Cedera","childCategoryUrl":"https://www.shirisunshineexim.com//perban-alat-terapi-cedera"},{"childCategoryName":"Timbangan & Alat Kadar Lemak","childCategoryUrl":"https://www.shirisunshineexim.com//beli-timbangan-alat-ukur-kadar-lemak"},{"childCategoryName":"P3K","childCategoryUrl":"https://www.shirisunshineexim.com//beli-p3k"},{"childCategoryName":"Kursi Roda","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kursi-roda"},{"childCategoryName":"Salep & Krim","childCategoryUrl":"https://www.shirisunshineexim.com//shop-salep-dan-krim"},{"childCategoryName":"Alat Inhalasi & Nebulizer","childCategoryUrl":"https://www.shirisunshineexim.com//beli-alat-inhalasi-nebulizer"},{"childCategoryName":"Alat Tes Medis","childCategoryUrl":"https://www.shirisunshineexim.com//tes-medis"},{"childCategoryName":"Stetoskop","childCategoryUrl":"https://www.shirisunshineexim.com//beli-stetoskop"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Aksesoris Kesehatan","childCategoryUrl":"https://valezaco.com//aksesoris-kesehatan"},{"childCategoryName":"Alat Tes Kesehatan","childCategoryUrl":"https://valezaco.com//beli-alat-tes-kesehatan"},{"childCategoryName":"Obat-Obatan","childCategoryUrl":"https://valezaco.com//shop-over-the-counter-medicine/"},{"childCategoryName":"Perban & Perlengkapan Cedera","childCategoryUrl":"https://valezaco.com//perban-alat-terapi-cedera"},{"childCategoryName":"Timbangan & Alat Kadar Lemak","childCategoryUrl":"https://valezaco.com//beli-timbangan-alat-ukur-kadar-lemak"},{"childCategoryName":"P3K","childCategoryUrl":"https://valezaco.com//beli-p3k"},{"childCategoryName":"Kursi Roda","childCategoryUrl":"https://valezaco.com//beli-kursi-roda"},{"childCategoryName":"Salep & Krim","childCategoryUrl":"https://valezaco.com//shop-salep-dan-krim"},{"childCategoryName":"Alat Inhalasi & Nebulizer","childCategoryUrl":"https://valezaco.com//beli-alat-inhalasi-nebulizer"},{"childCategoryName":"Alat Tes Medis","childCategoryUrl":"https://valezaco.com//tes-medis"},{"childCategoryName":"Stetoskop","childCategoryUrl":"https://valezaco.com//beli-stetoskop"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_10">
-    <a href="https://www.shirisunshineexim.com//jual-perlengkapan-kesehatan-seksual/">
+    <a href="https://valezaco.com//jual-perlengkapan-kesehatan-seksual/">
     <span>Sexual Wellness</span>
     </a>
     <script type="text" class="J_data_5_9">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kondom","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kondom"},{"childCategoryName":"Pelumas","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pelumas"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kondom","childCategoryUrl":"https://valezaco.com//beli-kondom"},{"childCategoryName":"Pelumas","childCategoryUrl":"https://valezaco.com//beli-pelumas"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_11">
-    <a href="https://www.shirisunshineexim.com//beli-perawatan-tubuh-kesehatan-pria/">
+    <a href="https://valezaco.com//beli-perawatan-tubuh-kesehatan-pria/">
     <span>Perawatan Pria</span>
     </a>
     <script type="text" class="J_data_5_10">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perawatan-rambut-pria"},{"childCategoryName":"Perawatan Wajah","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perawatan-kulit-pria"},{"childCategoryName":"Alat Cukur Pria","childCategoryUrl":"https://www.shirisunshineexim.com//beli-alat-cukur-pria"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"https://www.shirisunshineexim.com//perawatan-tubuh"},{"childCategoryName":"Deodoran Pria","childCategoryUrl":"https://www.shirisunshineexim.com//beli-deodoran-pria"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"https://valezaco.com//beli-perawatan-rambut-pria"},{"childCategoryName":"Perawatan Wajah","childCategoryUrl":"https://valezaco.com//beli-perawatan-kulit-pria"},{"childCategoryName":"Alat Cukur Pria","childCategoryUrl":"https://valezaco.com//beli-alat-cukur-pria"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"https://valezaco.com//perawatan-tubuh"},{"childCategoryName":"Deodoran Pria","childCategoryUrl":"https://valezaco.com//beli-deodoran-pria"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_12">
-    <a href="https://www.shirisunshineexim.com//kesehatan-manula/">
+    <a href="https://valezaco.com//kesehatan-manula/">
     <span>Popok Dewasa</span>
     </a>
     <script type="text" class="J_data_5_11">
-                                [{"childCategoryName":"Popok Dewasa","childCategoryUrl":"https://www.shirisunshineexim.com//kesehatan-manula/"}]
+                                [{"childCategoryName":"Popok Dewasa","childCategoryUrl":"https://valezaco.com//kesehatan-manula/"}]
                             </script>
     </li>
     </ul>
     <ul class="lzd-site-menu-sub Level_1_Category_No7" data-spm="cate_7">
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_1">
-    <a href="https://www.shirisunshineexim.com//jual-perlengkapan-bayi-balita/">
+    <a href="https://valezaco.com//jual-perlengkapan-bayi-balita/">
     <span>Ibu &amp; Anak</span>
     </a>
     <script type="text" class="J_data_6_0">
-                                [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"https://www.shirisunshineexim.com//beli-popok-sekali-pakai/"},{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"https://www.shirisunshineexim.com//beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"https://www.shirisunshineexim.com//beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"https://www.shirisunshineexim.com//jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"https://www.shirisunshineexim.com//beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-botol-bayi/"},{"childCategoryName":"Stroller","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kereta-dorong-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"https://www.shirisunshineexim.com//beli-soft-carrier/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sampo-kondisioner-bb/"},{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perawatan-kulit-pria/"}]
+                                [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"https://valezaco.com//beli-popok-sekali-pakai/"},{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"https://valezaco.com//beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"https://valezaco.com//beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"https://valezaco.com//jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"https://valezaco.com//beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"https://valezaco.com//beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"https://valezaco.com//beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://valezaco.com//beli-botol-bayi/"},{"childCategoryName":"Stroller","childCategoryUrl":"https://valezaco.com//beli-kereta-dorong-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"https://valezaco.com//beli-soft-carrier/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"https://valezaco.com//beli-sampo-kondisioner-bb/"},{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"https://valezaco.com//beli-perawatan-kulit-pria/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_2">
-    <a href="https://www.shirisunshineexim.com//beli-popok-pispot-bb/">
+    <a href="https://valezaco.com//beli-popok-pispot-bb/">
     <span>Popok Sekali Pakai</span>
     </a>
     <script type="text" class="J_data_6_1">
-                                [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"https://www.shirisunshineexim.com//beli-popok-sekali-pakai/"},{"childCategoryName":"Popok Kain & Aksesori","childCategoryUrl":"https://www.shirisunshineexim.com//beli-popok-kain/"},{"childCategoryName":"Lap Bayi & Penyangga","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lap-bayi-penyangga/"},{"childCategoryName":"Perawatan Popok","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perawatan-popok/"},{"childCategoryName":"Krim & Salep Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-krim-salep-bayi/"},{"childCategoryName":"Tas Perlengkapan Popok","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tas-popok-tb/"},{"childCategoryName":"Meja Ganti Popok","childCategoryUrl":"https://www.shirisunshineexim.com//beli-meja-ganti/"},{"childCategoryName":"Cover Popok Kain","childCategoryUrl":"https://www.shirisunshineexim.com//beli-bantalan/"},{"childCategoryName":"Lapisan Penyerap & Liner Popok Kain","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lapisan-penyerap-liner-popok-kain/"},{"childCategoryName":"Potty Training","childCategoryUrl":"https://www.shirisunshineexim.com//beli-potty-training/"},{"childCategoryName":"Bangku Langkah","childCategoryUrl":"https://www.shirisunshineexim.com//beli-bangku-langkah/"},{"childCategoryName":"Detergent Laundry","childCategoryUrl":"https://www.shirisunshineexim.com//beli-detergen-popok-kain/"}]
+                                [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"https://valezaco.com//beli-popok-sekali-pakai/"},{"childCategoryName":"Popok Kain & Aksesori","childCategoryUrl":"https://valezaco.com//beli-popok-kain/"},{"childCategoryName":"Lap Bayi & Penyangga","childCategoryUrl":"https://valezaco.com//beli-lap-bayi-penyangga/"},{"childCategoryName":"Perawatan Popok","childCategoryUrl":"https://valezaco.com//beli-perawatan-popok/"},{"childCategoryName":"Krim & Salep Bayi","childCategoryUrl":"https://valezaco.com//beli-krim-salep-bayi/"},{"childCategoryName":"Tas Perlengkapan Popok","childCategoryUrl":"https://valezaco.com//beli-tas-popok-tb/"},{"childCategoryName":"Meja Ganti Popok","childCategoryUrl":"https://valezaco.com//beli-meja-ganti/"},{"childCategoryName":"Cover Popok Kain","childCategoryUrl":"https://valezaco.com//beli-bantalan/"},{"childCategoryName":"Lapisan Penyerap & Liner Popok Kain","childCategoryUrl":"https://valezaco.com//beli-lapisan-penyerap-liner-popok-kain/"},{"childCategoryName":"Potty Training","childCategoryUrl":"https://valezaco.com//beli-potty-training/"},{"childCategoryName":"Bangku Langkah","childCategoryUrl":"https://valezaco.com//beli-bangku-langkah/"},{"childCategoryName":"Detergent Laundry","childCategoryUrl":"https://valezaco.com//beli-detergen-popok-kain/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_3">
-    <a href="https://www.shirisunshineexim.com//beli-susu-formula/">
+    <a href="https://valezaco.com//beli-susu-formula/">
     <span>Makanan Bayi &amp; Balita</span>
     </a>
     <script type="text" class="J_data_6_2">
-                                [{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"https://www.shirisunshineexim.com//beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"https://www.shirisunshineexim.com//beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"https://www.shirisunshineexim.com//jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"https://www.shirisunshineexim.com//beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Nutrisi Khusus Anak","childCategoryUrl":"https://www.shirisunshineexim.com//beli-nutrisi-khusus-anak/"},{"childCategoryName":"Minuman","childCategoryUrl":"https://www.shirisunshineexim.com//beli-minuman-bayi-balita/"},{"childCategoryName":"Sereal","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sereal-bayi-balita/"},{"childCategoryName":"Cracker & Biskuit","childCategoryUrl":"https://www.shirisunshineexim.com//beli-cracker-biskuit-bayi-balita/"},{"childCategoryName":"Makanan Ringan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-ringan-bayi-balita/"},{"childCategoryName":"Makanan puree bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-puree-bayi/"},{"childCategoryName":"Susu Ibu Hamil","childCategoryUrl":"https://www.shirisunshineexim.com//beli-susu-maternal/"}]
+                                [{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"https://valezaco.com//beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"https://valezaco.com//beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"https://valezaco.com//jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"https://valezaco.com//beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Nutrisi Khusus Anak","childCategoryUrl":"https://valezaco.com//beli-nutrisi-khusus-anak/"},{"childCategoryName":"Minuman","childCategoryUrl":"https://valezaco.com//beli-minuman-bayi-balita/"},{"childCategoryName":"Sereal","childCategoryUrl":"https://valezaco.com//beli-sereal-bayi-balita/"},{"childCategoryName":"Cracker & Biskuit","childCategoryUrl":"https://valezaco.com//beli-cracker-biskuit-bayi-balita/"},{"childCategoryName":"Makanan Ringan","childCategoryUrl":"https://valezaco.com//beli-makanan-ringan-bayi-balita/"},{"childCategoryName":"Makanan puree bayi","childCategoryUrl":"https://valezaco.com//beli-puree-bayi/"},{"childCategoryName":"Susu Ibu Hamil","childCategoryUrl":"https://valezaco.com//beli-susu-maternal/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_4">
-    <a href="https://www.shirisunshineexim.com//jual-baju-aksesoris-anak/">
+    <a href="https://valezaco.com//jual-baju-aksesoris-anak/">
     <span>Pakaian &amp; Aksesoris</span>
     </a>
     <script type="text" class="J_data_6_3">
-                                [{"childCategoryName":"(0--6 bulan) Set Pakaian","childCategoryUrl":"https://www.shirisunshineexim.com//beli-set-pakaian-bayi/"},{"childCategoryName":"(0--6 bulan) Body Suits","childCategoryUrl":"https://www.shirisunshineexim.com//beli-bodysuit-one-piece-bayi/"},{"childCategoryName":"(0--6 bulan) Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aksesoris-pakaian-anak/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Dress Bayi Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-dress-bayi-perempuan/"},{"childCategoryName":"Sepatu Bayi Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sepatu-bayi-perempuan/"},{"childCategoryName":"Aksesoris Bayi Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aksesoris-bayi-perempuan/"},{"childCategoryName":"Baju Renang Bayi Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-baju-renang-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Sepatu Bayi Laki-Laki","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sepatu-bayi-laki-laki/"},{"childCategoryName":"Aksesoris Bayi Laki-Laki","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aksesori-bayi-laki-laki/"},{"childCategoryName":"Baju Renang Bayi Laki-Laki","childCategoryUrl":"https://www.shirisunshineexim.com//beli-baju-renang-bayi-laki-laki/"}]
+                                [{"childCategoryName":"(0--6 bulan) Set Pakaian","childCategoryUrl":"https://valezaco.com//beli-set-pakaian-bayi/"},{"childCategoryName":"(0--6 bulan) Body Suits","childCategoryUrl":"https://valezaco.com//beli-bodysuit-one-piece-bayi/"},{"childCategoryName":"(0--6 bulan) Aksesoris","childCategoryUrl":"https://valezaco.com//beli-aksesoris-pakaian-anak/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"https://valezaco.com//beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Dress Bayi Perempuan","childCategoryUrl":"https://valezaco.com//beli-dress-bayi-perempuan/"},{"childCategoryName":"Sepatu Bayi Perempuan","childCategoryUrl":"https://valezaco.com//beli-sepatu-bayi-perempuan/"},{"childCategoryName":"Aksesoris Bayi Perempuan","childCategoryUrl":"https://valezaco.com//beli-aksesoris-bayi-perempuan/"},{"childCategoryName":"Baju Renang Bayi Perempuan","childCategoryUrl":"https://valezaco.com//beli-baju-renang-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"https://valezaco.com//beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Sepatu Bayi Laki-Laki","childCategoryUrl":"https://valezaco.com//beli-sepatu-bayi-laki-laki/"},{"childCategoryName":"Aksesoris Bayi Laki-Laki","childCategoryUrl":"https://valezaco.com//beli-aksesori-bayi-laki-laki/"},{"childCategoryName":"Baju Renang Bayi Laki-Laki","childCategoryUrl":"https://valezaco.com//beli-baju-renang-bayi-laki-laki/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_5">
-    <a href="https://www.shirisunshineexim.com//beli-makanan-bayi/">
+    <a href="https://valezaco.com//beli-makanan-bayi/">
     <span>Perlengkapan Menyusui</span>
     </a>
     <script type="text" class="J_data_6_4">
-                                [{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-botol-bayi/"},{"childCategoryName":"Botol","childCategoryUrl":"https://www.shirisunshineexim.com//beli-botol-bayi-balita/"},{"childCategoryName":"Aksesoris Dot Botol","childCategoryUrl":"https://www.shirisunshineexim.com//jual-aksesoris-botol-dot-bayi/"},{"childCategoryName":"Penghangat & Sterilizers","childCategoryUrl":"https://www.shirisunshineexim.com//beli-penghangat-sterilizer/"},{"childCategoryName":"Pompa Asi","childCategoryUrl":"https://www.shirisunshineexim.com//jual-pompa-asi/"},{"childCategoryName":"Aksesesoris Pompa Asi","childCategoryUrl":"https://www.shirisunshineexim.com//jual-aksesoris-pompa-asi/"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perawatan-puting/"},{"childCategoryName":"Bantal Menyusui","childCategoryUrl":"https://www.shirisunshineexim.com//beli-bantal-kursi-bayi/"},{"childCategoryName":"Kursi Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kursi-tinggi-bayi-kursi-booster/"},{"childCategoryName":"Food Blenders","childCategoryUrl":"https://www.shirisunshineexim.com//beli-blender-makanan-bayi/"},{"childCategoryName":"Peralatan Makan Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perlengkapan-makan-bayi-bb/"},{"childCategoryName":"Set Peralatan Makan Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//jual-piring-mangkok-bayi/"}]
+                                [{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://valezaco.com//beli-botol-bayi/"},{"childCategoryName":"Botol","childCategoryUrl":"https://valezaco.com//beli-botol-bayi-balita/"},{"childCategoryName":"Aksesoris Dot Botol","childCategoryUrl":"https://valezaco.com//jual-aksesoris-botol-dot-bayi/"},{"childCategoryName":"Penghangat & Sterilizers","childCategoryUrl":"https://valezaco.com//beli-penghangat-sterilizer/"},{"childCategoryName":"Pompa Asi","childCategoryUrl":"https://valezaco.com//jual-pompa-asi/"},{"childCategoryName":"Aksesesoris Pompa Asi","childCategoryUrl":"https://valezaco.com//jual-aksesoris-pompa-asi/"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://valezaco.com//beli-perawatan-puting/"},{"childCategoryName":"Bantal Menyusui","childCategoryUrl":"https://valezaco.com//beli-bantal-kursi-bayi/"},{"childCategoryName":"Kursi Bayi","childCategoryUrl":"https://valezaco.com//beli-kursi-tinggi-bayi-kursi-booster/"},{"childCategoryName":"Food Blenders","childCategoryUrl":"https://valezaco.com//beli-blender-makanan-bayi/"},{"childCategoryName":"Peralatan Makan Bayi","childCategoryUrl":"https://valezaco.com//beli-perlengkapan-makan-bayi-bb/"},{"childCategoryName":"Set Peralatan Makan Bayi","childCategoryUrl":"https://valezaco.com//jual-piring-mangkok-bayi/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_6">
-    <a href="https://www.shirisunshineexim.com//beli-perlengkapan-berkendara-bayi/">
+    <a href="https://valezaco.com//beli-perlengkapan-berkendara-bayi/">
     <span>Perlengkapan Bayi</span>
     </a>
     <script type="text" class="J_data_6_5">
-                                [{"childCategoryName":"Sling Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sling-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"https://www.shirisunshineexim.com//beli-soft-carrier/"},{"childCategoryName":"Stroller","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kereta-dorong-bayi/"},{"childCategoryName":"Car Seat","childCategoryUrl":"https://www.shirisunshineexim.com//beli-car-seat-bb/"},{"childCategoryName":"Playard","childCategoryUrl":"https://www.shirisunshineexim.com//beli-playard/"},{"childCategoryName":"Ayunan, Jumper & Bouncer Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-ayunan-jumper-bouncer-bayi/"},{"childCategoryName":"Walker","childCategoryUrl":"https://www.shirisunshineexim.com//beli-walker/"},{"childCategoryName":"Tempat Duduk & Trailer Sepeda","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tempat-duduk-trailer-sepeda/"},{"childCategoryName":"Tas Anak","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tas-anak/"},{"childCategoryName":"Koper Anak","childCategoryUrl":"https://www.shirisunshineexim.com//beli-koper-anak/"},{"childCategoryName":"Tali & Harness Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tali-harness-bayi/"}]
+                                [{"childCategoryName":"Sling Bayi","childCategoryUrl":"https://valezaco.com//beli-sling-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"https://valezaco.com//beli-soft-carrier/"},{"childCategoryName":"Stroller","childCategoryUrl":"https://valezaco.com//beli-kereta-dorong-bayi/"},{"childCategoryName":"Car Seat","childCategoryUrl":"https://valezaco.com//beli-car-seat-bb/"},{"childCategoryName":"Playard","childCategoryUrl":"https://valezaco.com//beli-playard/"},{"childCategoryName":"Ayunan, Jumper & Bouncer Bayi","childCategoryUrl":"https://valezaco.com//beli-ayunan-jumper-bouncer-bayi/"},{"childCategoryName":"Walker","childCategoryUrl":"https://valezaco.com//beli-walker/"},{"childCategoryName":"Tempat Duduk & Trailer Sepeda","childCategoryUrl":"https://valezaco.com//beli-tempat-duduk-trailer-sepeda/"},{"childCategoryName":"Tas Anak","childCategoryUrl":"https://valezaco.com//beli-tas-anak/"},{"childCategoryName":"Koper Anak","childCategoryUrl":"https://valezaco.com//beli-koper-anak/"},{"childCategoryName":"Tali & Harness Bayi","childCategoryUrl":"https://valezaco.com//beli-tali-harness-bayi/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_7">
-    <a href="https://www.shirisunshineexim.com//jual-perlengkapan-kamar-bayi/">
+    <a href="https://valezaco.com//jual-perlengkapan-kamar-bayi/">
     <span>Kamar Bayi</span>
     </a>
     <script type="text" class="J_data_6_6">
-                                [{"childCategoryName":"Matras Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kasur-seprai-bayi/"},{"childCategoryName":"Selimut Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-selimut-bayi/"},{"childCategoryName":"Seprai Keranjang Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-seprai-keranjang-bayi/"},{"childCategoryName":"Kelengkapan Alat Tidur Balita","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kelengkapan-alat-tidur-balita/"},{"childCategoryName":"Selimut Tebal & Bed Cover Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-selimut-tebal-bed-cover-bayi/"},{"childCategoryName":"Bantal, Pelindung & Sarung Bantal Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-bantal-pelindung-sarung-bantal-bayi/"},{"childCategoryName":"Furnitur Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-furnitur-bayi/"},{"childCategoryName":"Ranjang Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//jual-ranjang-bayi/"},{"childCategoryName":"Keranjang Bayi Cradle","childCategoryUrl":"https://www.shirisunshineexim.com//beli-keranjang-bayi-cradle/"},{"childCategoryName":"Laci & Lemari Pakaian Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-laci-lemari-pakaian-bayi/"},{"childCategoryName":"Penyimpanan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tempat-pengatur-penyimpanan/"},{"childCategoryName":"Dekorasi Kamar Anak","childCategoryUrl":"https://www.shirisunshineexim.com//beli-dekorasi-kamar-anak/"}]
+                                [{"childCategoryName":"Matras Bayi","childCategoryUrl":"https://valezaco.com//beli-kasur-seprai-bayi/"},{"childCategoryName":"Selimut Bayi","childCategoryUrl":"https://valezaco.com//beli-selimut-bayi/"},{"childCategoryName":"Seprai Keranjang Bayi","childCategoryUrl":"https://valezaco.com//beli-seprai-keranjang-bayi/"},{"childCategoryName":"Kelengkapan Alat Tidur Balita","childCategoryUrl":"https://valezaco.com//beli-kelengkapan-alat-tidur-balita/"},{"childCategoryName":"Selimut Tebal & Bed Cover Bayi","childCategoryUrl":"https://valezaco.com//beli-selimut-tebal-bed-cover-bayi/"},{"childCategoryName":"Bantal, Pelindung & Sarung Bantal Bayi","childCategoryUrl":"https://valezaco.com//beli-bantal-pelindung-sarung-bantal-bayi/"},{"childCategoryName":"Furnitur Bayi","childCategoryUrl":"https://valezaco.com//beli-furnitur-bayi/"},{"childCategoryName":"Ranjang Bayi","childCategoryUrl":"https://valezaco.com//jual-ranjang-bayi/"},{"childCategoryName":"Keranjang Bayi Cradle","childCategoryUrl":"https://valezaco.com//beli-keranjang-bayi-cradle/"},{"childCategoryName":"Laci & Lemari Pakaian Bayi","childCategoryUrl":"https://valezaco.com//beli-laci-lemari-pakaian-bayi/"},{"childCategoryName":"Penyimpanan","childCategoryUrl":"https://valezaco.com//beli-tempat-pengatur-penyimpanan/"},{"childCategoryName":"Dekorasi Kamar Anak","childCategoryUrl":"https://valezaco.com//beli-dekorasi-kamar-anak/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_8">
-    <a href="https://www.shirisunshineexim.com//beli-perlengkapan-mandi-perawatan-kulit-anak/">
+    <a href="https://valezaco.com//beli-perlengkapan-mandi-perawatan-kulit-anak/">
     <span>Perawatan Bayi</span>
     </a>
     <script type="text" class="J_data_6_7">
-                                [{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perawatan-kulit-bayi/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sampo-kondisioner-bb/"},{"childCategoryName":"Sabun & Pembersih Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sabun-pembersih-bayi/"},{"childCategoryName":"Perawatan Mulut Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Sikat Gigi & Pasta Gigi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Tempat Duduk & Bak Mandi Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tempat-duduk-bak-mandi-bayi/"},{"childCategoryName":"Lap Mandi & Handuk Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//jual-handuk-bayi/"},{"childCategoryName":"Pelindung Matahari Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pelindung-matahari-bayi/"},{"childCategoryName":"Aromaterapi Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aromaterapi-bayi/"},{"childCategoryName":"Perlengkapan Mandi Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perlengkapan-mandi-bayi-bb/"},{"childCategoryName":"Alas Mandi Bayi Anti Slip","childCategoryUrl":"https://www.shirisunshineexim.com//beli-alas-mandi-bayi-anti-slip/"}]
+                                [{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"https://valezaco.com//beli-perawatan-kulit-bayi/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"https://valezaco.com//beli-sampo-kondisioner-bb/"},{"childCategoryName":"Sabun & Pembersih Bayi","childCategoryUrl":"https://valezaco.com//beli-sabun-pembersih-bayi/"},{"childCategoryName":"Perawatan Mulut Bayi","childCategoryUrl":"https://valezaco.com//beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Sikat Gigi & Pasta Gigi","childCategoryUrl":"https://valezaco.com//beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Tempat Duduk & Bak Mandi Bayi","childCategoryUrl":"https://valezaco.com//beli-tempat-duduk-bak-mandi-bayi/"},{"childCategoryName":"Lap Mandi & Handuk Bayi","childCategoryUrl":"https://valezaco.com//jual-handuk-bayi/"},{"childCategoryName":"Pelindung Matahari Bayi","childCategoryUrl":"https://valezaco.com//beli-pelindung-matahari-bayi/"},{"childCategoryName":"Aromaterapi Bayi","childCategoryUrl":"https://valezaco.com//beli-aromaterapi-bayi/"},{"childCategoryName":"Perlengkapan Mandi Bayi","childCategoryUrl":"https://valezaco.com//beli-perlengkapan-mandi-bayi-bb/"},{"childCategoryName":"Alas Mandi Bayi Anti Slip","childCategoryUrl":"https://valezaco.com//beli-alas-mandi-bayi-anti-slip/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_9">
-    <a href="https://www.shirisunshineexim.com//beli-mainan-anak/">
+    <a href="https://valezaco.com//beli-mainan-anak/">
     <span>Mainan</span>
     </a>
     <script type="text" class="J_data_6_8">
-                                [{"childCategoryName":"Action Figure & Mainan Koleksi","childCategoryUrl":"https://www.shirisunshineexim.com//jual-koleksi-mainan-action-figure/"},{"childCategoryName":"Mainan Koleksi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-koleksi-tg/"},{"childCategoryName":"Mini Figur","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mini-figure-tg/"},{"childCategoryName":"Kerajinan Tangan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kerajinan-tangan-kesenian-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-balok-bangunan/"},{"childCategoryName":"Boneka & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//beli-boneka-aksesori/"},{"childCategoryName":"Kostum Pesta","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-dress-up/"},{"childCategoryName":"Mainan Edukasi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-pembelajaran-edukasi/"},{"childCategoryName":"Puzzle & Games","childCategoryUrl":"https://www.shirisunshineexim.com//beli-permainan-tradisional/"},{"childCategoryName":"Hobi & Hiburan","childCategoryUrl":"https://www.shirisunshineexim.com//Shop-Hobbies-Entertainment/"},{"childCategoryName":"Perlengkapan Pesta","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perlengkapan-pesta/"}]
+                                [{"childCategoryName":"Action Figure & Mainan Koleksi","childCategoryUrl":"https://valezaco.com//jual-koleksi-mainan-action-figure/"},{"childCategoryName":"Mainan Koleksi","childCategoryUrl":"https://valezaco.com//beli-mainan-koleksi-tg/"},{"childCategoryName":"Mini Figur","childCategoryUrl":"https://valezaco.com//beli-mini-figure-tg/"},{"childCategoryName":"Kerajinan Tangan","childCategoryUrl":"https://valezaco.com//beli-kerajinan-tangan-kesenian-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"https://valezaco.com//beli-mainan-balok-bangunan/"},{"childCategoryName":"Boneka & Aksesoris","childCategoryUrl":"https://valezaco.com//beli-boneka-aksesori/"},{"childCategoryName":"Kostum Pesta","childCategoryUrl":"https://valezaco.com//beli-mainan-dress-up/"},{"childCategoryName":"Mainan Edukasi","childCategoryUrl":"https://valezaco.com//beli-mainan-pembelajaran-edukasi/"},{"childCategoryName":"Puzzle & Games","childCategoryUrl":"https://valezaco.com//beli-permainan-tradisional/"},{"childCategoryName":"Hobi & Hiburan","childCategoryUrl":"https://valezaco.com//Shop-Hobbies-Entertainment/"},{"childCategoryName":"Perlengkapan Pesta","childCategoryUrl":"https://valezaco.com//beli-perlengkapan-pesta/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_10">
-    <a href="https://www.shirisunshineexim.com//beli-remote-control-mainan-kendaraan/">
+    <a href="https://valezaco.com//beli-remote-control-mainan-kendaraan/">
     <span>Mainan Elektronik &amp; RC</span>
     </a>
     <script type="text" class="J_data_6_9">
-                                [{"childCategoryName":"Mobil Remote Control","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kendaraan-rc-baterai/"},{"childCategoryName":"Robot Remote Control","childCategoryUrl":"https://www.shirisunshineexim.com//beli-rc-figure-robot/"},{"childCategoryName":"Mobil Die Cast","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kendaraan-die-cast/"},{"childCategoryName":"Mainan Mobil","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-kendaraan-tg/"},{"childCategoryName":"Mainan Kereta Api & Rel","childCategoryUrl":"https://www.shirisunshineexim.com//beli-set-mainan-kereta/"},{"childCategoryName":"Drone Mainan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-drones-quadcopters/"},{"childCategoryName":"Helikopter","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-helikopter/"},{"childCategoryName":"Video Games & Hiburan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-hiburan-video-game/"},{"childCategoryName":"Walkie Talkies","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-walkie-talkie/"}]
+                                [{"childCategoryName":"Mobil Remote Control","childCategoryUrl":"https://valezaco.com//beli-kendaraan-rc-baterai/"},{"childCategoryName":"Robot Remote Control","childCategoryUrl":"https://valezaco.com//beli-rc-figure-robot/"},{"childCategoryName":"Mobil Die Cast","childCategoryUrl":"https://valezaco.com//beli-kendaraan-die-cast/"},{"childCategoryName":"Mainan Mobil","childCategoryUrl":"https://valezaco.com//beli-mainan-kendaraan-tg/"},{"childCategoryName":"Mainan Kereta Api & Rel","childCategoryUrl":"https://valezaco.com//beli-set-mainan-kereta/"},{"childCategoryName":"Drone Mainan","childCategoryUrl":"https://valezaco.com//beli-drones-quadcopters/"},{"childCategoryName":"Helikopter","childCategoryUrl":"https://valezaco.com//beli-mainan-helikopter/"},{"childCategoryName":"Video Games & Hiburan","childCategoryUrl":"https://valezaco.com//shop-hiburan-video-game/"},{"childCategoryName":"Walkie Talkies","childCategoryUrl":"https://valezaco.com//beli-mainan-walkie-talkie/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_11">
-    <a href="https://www.shirisunshineexim.com//beli-olahraga-permainan-luar-ruangan/">
+    <a href="https://valezaco.com//beli-olahraga-permainan-luar-ruangan/">
     <span>Mainan Olahraga &amp; Luar Ruangan</span>
     </a>
     <script type="text" class="J_data_6_10">
-                                [{"childCategoryName":"Kolam Renang & Mainan Air","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-air-kolam-renang/"},{"childCategoryName":"Mainan Olahraga","childCategoryUrl":"https://www.shirisunshineexim.com//shop-mainan-baseball-softball/"},{"childCategoryName":"Mainan Luar Ruangan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aktivitas-dan-olahraga-luar-ruangan/"},{"childCategoryName":"Mainan Blaster","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-blaster/"},{"childCategoryName":"Kolam Bola & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//beli-bola-pit-aksesori/"},{"childCategoryName":"Mainan Terbang","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-terbang/"},{"childCategoryName":"Layangan & Kincir Angin","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-layang-layang/"},{"childCategoryName":"Istana Balon","childCategoryUrl":"https://www.shirisunshineexim.com//beli-balon-loncat-istana-balon/"},{"childCategoryName":"Yoyo & Kendama","childCategoryUrl":"https://www.shirisunshineexim.com//beli-yo-yo-kendama/"},{"childCategoryName":"Set Mainan Taman Bermain","childCategoryUrl":"https://www.shirisunshineexim.com//beli-set-peralatan-permainan-playground/"},{"childCategoryName":"Kemah & Terowongan Mainan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-tenda-terowongan/"},{"childCategoryName":"Mainan Rumah-rumahan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-playhouses/"}]
+                                [{"childCategoryName":"Kolam Renang & Mainan Air","childCategoryUrl":"https://valezaco.com//beli-mainan-air-kolam-renang/"},{"childCategoryName":"Mainan Olahraga","childCategoryUrl":"https://valezaco.com//shop-mainan-baseball-softball/"},{"childCategoryName":"Mainan Luar Ruangan","childCategoryUrl":"https://valezaco.com//beli-aktivitas-dan-olahraga-luar-ruangan/"},{"childCategoryName":"Mainan Blaster","childCategoryUrl":"https://valezaco.com//beli-mainan-blaster/"},{"childCategoryName":"Kolam Bola & Aksesoris","childCategoryUrl":"https://valezaco.com//beli-bola-pit-aksesori/"},{"childCategoryName":"Mainan Terbang","childCategoryUrl":"https://valezaco.com//beli-mainan-terbang/"},{"childCategoryName":"Layangan & Kincir Angin","childCategoryUrl":"https://valezaco.com//beli-mainan-layang-layang/"},{"childCategoryName":"Istana Balon","childCategoryUrl":"https://valezaco.com//beli-balon-loncat-istana-balon/"},{"childCategoryName":"Yoyo & Kendama","childCategoryUrl":"https://valezaco.com//beli-yo-yo-kendama/"},{"childCategoryName":"Set Mainan Taman Bermain","childCategoryUrl":"https://valezaco.com//beli-set-peralatan-permainan-playground/"},{"childCategoryName":"Kemah & Terowongan Mainan","childCategoryUrl":"https://valezaco.com//beli-mainan-tenda-terowongan/"},{"childCategoryName":"Mainan Rumah-rumahan","childCategoryUrl":"https://valezaco.com//beli-playhouses/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_12">
-    <a href="https://www.shirisunshineexim.com//baby-toddler-toys/">
+    <a href="https://valezaco.com//baby-toddler-toys/">
     <span>Mainan Bayi &amp; Balita</span>
     </a>
     <script type="text" class="J_data_6_11">
-                                [{"childCategoryName":"Playgym & Playmat","childCategoryUrl":"https://www.shirisunshineexim.com//jual-mainan-gym-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-balok-bangunan/"},{"childCategoryName":"Mainan Mandi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-mandi-anak-tg/"},{"childCategoryName":"Mainan Tidur Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-keranjang-bayi-perlengkapannya-tg/"},{"childCategoryName":"Mainan Balita","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-edukatif-anak-tg/"},{"childCategoryName":"Mainan Musik & Suara","childCategoryUrl":"https://www.shirisunshineexim.com//beli-musik-suara-tg/"},{"childCategoryName":"Mainan Tarik Ulur","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-dorong-tarik-tg/"},{"childCategoryName":"Mainan Shape Sorting","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-shape-sorting-tg/"},{"childCategoryName":"Indoor Climbers & Play Structures","childCategoryUrl":"https://www.shirisunshineexim.com//beli-indoor-climbers-play-structure-tg/"},{"childCategoryName":"Rocking & Spring Ride-Ons","childCategoryUrl":"https://www.shirisunshineexim.com//beli-rocking-spring-ride-on-tg/"}]
+                                [{"childCategoryName":"Playgym & Playmat","childCategoryUrl":"https://valezaco.com//jual-mainan-gym-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"https://valezaco.com//beli-mainan-balok-bangunan/"},{"childCategoryName":"Mainan Mandi","childCategoryUrl":"https://valezaco.com//beli-mainan-mandi-anak-tg/"},{"childCategoryName":"Mainan Tidur Bayi","childCategoryUrl":"https://valezaco.com//beli-mainan-keranjang-bayi-perlengkapannya-tg/"},{"childCategoryName":"Mainan Balita","childCategoryUrl":"https://valezaco.com//beli-mainan-edukatif-anak-tg/"},{"childCategoryName":"Mainan Musik & Suara","childCategoryUrl":"https://valezaco.com//beli-musik-suara-tg/"},{"childCategoryName":"Mainan Tarik Ulur","childCategoryUrl":"https://valezaco.com//beli-mainan-dorong-tarik-tg/"},{"childCategoryName":"Mainan Shape Sorting","childCategoryUrl":"https://valezaco.com//beli-mainan-shape-sorting-tg/"},{"childCategoryName":"Indoor Climbers & Play Structures","childCategoryUrl":"https://valezaco.com//beli-indoor-climbers-play-structure-tg/"},{"childCategoryName":"Rocking & Spring Ride-Ons","childCategoryUrl":"https://valezaco.com//beli-rocking-spring-ride-on-tg/"}]
                             </script>
     </li>
     </ul>
     <ul class="lzd-site-menu-sub Level_1_Category_No8" data-spm="cate_8">
     <li class="lzd-site-menu-sub-item" data-cate="cate_8_1">
-    <a href="https://www.shirisunshineexim.com//beli-tv-audio-video-permainan-dan-gadget/">
+    <a href="https://valezaco.com//beli-tv-audio-video-permainan-dan-gadget/">
     <span>TV &amp; Perangkat Video</span>
     </a>
     <script type="text" class="J_data_7_0">
-                                [{"childCategoryName":""},{"childCategoryName":"TV LED","childCategoryUrl":"https://www.shirisunshineexim.com//shop-televisi-digital/"},{"childCategoryName":"TV Smart","childCategoryUrl":"https://www.shirisunshineexim.com//beli-smart-tv/"},{"childCategoryName":"Blu-Ray/DVD Player","childCategoryUrl":"https://www.shirisunshineexim.com//beli-blu-ray-player/"},{"childCategoryName":"Media Player","childCategoryUrl":"https://www.shirisunshineexim.com//shop-media-player/"},{"childCategoryName":"Proyektor","childCategoryUrl":"https://www.shirisunshineexim.com//beli-proyektor-3/"}]
+                                [{"childCategoryName":""},{"childCategoryName":"TV LED","childCategoryUrl":"https://valezaco.com//shop-televisi-digital/"},{"childCategoryName":"TV Smart","childCategoryUrl":"https://valezaco.com//beli-smart-tv/"},{"childCategoryName":"Blu-Ray/DVD Player","childCategoryUrl":"https://valezaco.com//beli-blu-ray-player/"},{"childCategoryName":"Media Player","childCategoryUrl":"https://valezaco.com//shop-media-player/"},{"childCategoryName":"Proyektor","childCategoryUrl":"https://valezaco.com//beli-proyektor-3/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_8_2">
-    <a href="https://www.shirisunshineexim.com//beli-perlengkapan-dapur/">
+    <a href="https://valezaco.com//beli-perlengkapan-dapur/">
     <span>Peralatan Dapur Kecil</span>
     </a>
     <script type="text" class="J_data_7_1">
-                                [{"childCategoryName":""},{"childCategoryName":"Rice Cooker","childCategoryUrl":"https://www.shirisunshineexim.com//beli-rice-cooker/"},{"childCategoryName":"Blender, Mixer & Grinder","childCategoryUrl":"https://www.shirisunshineexim.com//beli-blender-mixer-juicer/"},{"childCategoryName":"Kompor Gas","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kompor-gas/"},{"childCategoryName":"Teko Listrik","childCategoryUrl":"https://www.shirisunshineexim.com//beli-ketel-elektrik-2/"},{"childCategoryName":"Juicer","childCategoryUrl":"https://www.shirisunshineexim.com//beli-juicer-pengekstrak-buah/"},{"childCategoryName":"Mesin Kopi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mesin-kopi/"},{"childCategoryName":"Air Fryer","childCategoryUrl":"https://www.shirisunshineexim.com//beli-air-fryers/"},{"childCategoryName":"Peralatan Dapur Lainnya","childCategoryUrl":"https://www.shirisunshineexim.com//shop-ska-lainnya/"}]
+                                [{"childCategoryName":""},{"childCategoryName":"Rice Cooker","childCategoryUrl":"https://valezaco.com//beli-rice-cooker/"},{"childCategoryName":"Blender, Mixer & Grinder","childCategoryUrl":"https://valezaco.com//beli-blender-mixer-juicer/"},{"childCategoryName":"Kompor Gas","childCategoryUrl":"https://valezaco.com//beli-kompor-gas/"},{"childCategoryName":"Teko Listrik","childCategoryUrl":"https://valezaco.com//beli-ketel-elektrik-2/"},{"childCategoryName":"Juicer","childCategoryUrl":"https://valezaco.com//beli-juicer-pengekstrak-buah/"},{"childCategoryName":"Mesin Kopi","childCategoryUrl":"https://valezaco.com//beli-mesin-kopi/"},{"childCategoryName":"Air Fryer","childCategoryUrl":"https://valezaco.com//beli-air-fryers/"},{"childCategoryName":"Peralatan Dapur Lainnya","childCategoryUrl":"https://valezaco.com//shop-ska-lainnya/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_8_3">
-    <a href="https://www.shirisunshineexim.com//shop-perlatan-besar/">
+    <a href="https://valezaco.com//shop-perlatan-besar/">
     <span>Elektronik Rumah Besar</span>
     </a>
     <script type="text" class="J_data_7_2">
-                                [{"childCategoryName":""},{"childCategoryName":"Mesin Cuci","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mesin-cuci/"},{"childCategoryName":"Kulkas","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lemari-es/"},{"childCategoryName":"Microwave","childCategoryUrl":"https://www.shirisunshineexim.com//beli-microwave/"},{"childCategoryName":"Oven","childCategoryUrl":"https://www.shirisunshineexim.com//beli-ovens/"},{"childCategoryName":"Dispenser Air Minum","childCategoryUrl":"https://www.shirisunshineexim.com//beli-dispenser-air/"},{"childCategoryName":"AC","childCategoryUrl":"https://www.shirisunshineexim.com//beli-ac/"},{"childCategoryName":"Pemanas Air","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pemanas-air/"}]
+                                [{"childCategoryName":""},{"childCategoryName":"Mesin Cuci","childCategoryUrl":"https://valezaco.com//beli-mesin-cuci/"},{"childCategoryName":"Kulkas","childCategoryUrl":"https://valezaco.com//beli-lemari-es/"},{"childCategoryName":"Microwave","childCategoryUrl":"https://valezaco.com//beli-microwave/"},{"childCategoryName":"Oven","childCategoryUrl":"https://valezaco.com//beli-ovens/"},{"childCategoryName":"Dispenser Air Minum","childCategoryUrl":"https://valezaco.com//beli-dispenser-air/"},{"childCategoryName":"AC","childCategoryUrl":"https://valezaco.com//beli-ac/"},{"childCategoryName":"Pemanas Air","childCategoryUrl":"https://valezaco.com//beli-pemanas-air/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_8_4">
-    <a href="https://www.shirisunshineexim.com//shop-pendingin-pembersih-udara-mini/">
+    <a href="https://valezaco.com//shop-pendingin-pembersih-udara-mini/">
     <span>Penyejuk dan Pembersih Udara</span>
     </a>
     <script type="text" class="J_data_7_3">
-                                [{"childCategoryName":""},{"childCategoryName":"Kipas Angin","childCategoryUrl":"https://www.shirisunshineexim.com//shop-kipas/"},{"childCategoryName":"Air Cooler","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pendingin-udara-2/"},{"childCategoryName":"Air Purifier","childCategoryUrl":"https://www.shirisunshineexim.com//beli-penjernih-udara-2/"},{"childCategoryName":"Humidifier","childCategoryUrl":"https://www.shirisunshineexim.com//beli-humidifier/"},{"childCategoryName":"Dehumidifier","childCategoryUrl":"https://www.shirisunshineexim.com//beli-dehumidifier/"}]
+                                [{"childCategoryName":""},{"childCategoryName":"Kipas Angin","childCategoryUrl":"https://valezaco.com//shop-kipas/"},{"childCategoryName":"Air Cooler","childCategoryUrl":"https://valezaco.com//beli-pendingin-udara-2/"},{"childCategoryName":"Air Purifier","childCategoryUrl":"https://valezaco.com//beli-penjernih-udara-2/"},{"childCategoryName":"Humidifier","childCategoryUrl":"https://valezaco.com//beli-humidifier/"},{"childCategoryName":"Dehumidifier","childCategoryUrl":"https://valezaco.com//beli-dehumidifier/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_8_5">
-    <a href="https://www.shirisunshineexim.com//beli-perawatan-lantai/">
+    <a href="https://valezaco.com//beli-perawatan-lantai/">
     <span>Penghisap Debu &amp; Perawatan Lantai</span>
     </a>
     <script type="text" class="J_data_7_4">
-                                [{"childCategoryName":""},{"childCategoryName":"Penghisap Debu","childCategoryUrl":"https://www.shirisunshineexim.com//shop-penyedot-debu/"},{"childCategoryName":"Penghisap Debu Robotik","childCategoryUrl":"https://www.shirisunshineexim.com//shop-penyedot-debu-robot/"},{"childCategoryName":"Penghisap Debu dengan Tongkat","childCategoryUrl":"https://www.shirisunshineexim.com//shop-penyedot-debu-tongkat/"}]
+                                [{"childCategoryName":""},{"childCategoryName":"Penghisap Debu","childCategoryUrl":"https://valezaco.com//shop-penyedot-debu/"},{"childCategoryName":"Penghisap Debu Robotik","childCategoryUrl":"https://valezaco.com//shop-penyedot-debu-robot/"},{"childCategoryName":"Penghisap Debu dengan Tongkat","childCategoryUrl":"https://valezaco.com//shop-penyedot-debu-tongkat/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_8_6">
-    <a href="https://www.shirisunshineexim.com//shop-peralatan-perawatan-personal/">
+    <a href="https://valezaco.com//shop-peralatan-perawatan-personal/">
     <span>Alat Perawatan Diri</span>
     </a>
     <script type="text" class="J_data_7_5">
-                                [{"childCategoryName":""},{"childCategoryName":"Hair Dryer","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pengering-rambut/"},{"childCategoryName":"Alat Penata Rambut","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perlengkapan-styling-rambut/"},{"childCategoryName":"Shaver & Pencukur Kumis Jenggot","childCategoryUrl":"https://www.shirisunshineexim.com//beli-shaver/"},{"childCategoryName":"Sikat Gigi Elektrik","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sikat-gigi-elektrik/"}]
+                                [{"childCategoryName":""},{"childCategoryName":"Hair Dryer","childCategoryUrl":"https://valezaco.com//beli-pengering-rambut/"},{"childCategoryName":"Alat Penata Rambut","childCategoryUrl":"https://valezaco.com//beli-perlengkapan-styling-rambut/"},{"childCategoryName":"Shaver & Pencukur Kumis Jenggot","childCategoryUrl":"https://valezaco.com//beli-shaver/"},{"childCategoryName":"Sikat Gigi Elektrik","childCategoryUrl":"https://valezaco.com//beli-sikat-gigi-elektrik/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_8_7">
-    <a href="https://www.shirisunshineexim.com//jual-aksesoris-elektronik-rumah-tangga/">
+    <a href="https://valezaco.com//jual-aksesoris-elektronik-rumah-tangga/">
     <span>Aksesoris &amp; Suku Cadang</span>
     </a>
     <script type="text" class="J_data_7_6">
-                                [{"childCategoryName":""},{"childCategoryName":"Suku Cadang & Aksesoris Peralatan Dapur Kecil","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aksesoris-blender-dan-mixer/"},{"childCategoryName":"Suku Cadang & Aksesoris AC","childCategoryUrl":"https://www.shirisunshineexim.com//beli-suku-cadang-aksesoris-ac/"},{"childCategoryName":"Suku Cadang & Aksesoris Mesin Cuci","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aksesoris-mesin-cuci-dan-pengering-pakaian/"},{"childCategoryName":"Suku Cadang & Filter Pengganti","childCategoryUrl":"https://www.shirisunshineexim.com//beli-filter-air/"},{"childCategoryName":"Suku Cadang & Filter Penghisap Debu","childCategoryUrl":"https://www.shirisunshineexim.com//beli-suku-kadang-aksesoris-vacuum-cleaner/"}]
+                                [{"childCategoryName":""},{"childCategoryName":"Suku Cadang & Aksesoris Peralatan Dapur Kecil","childCategoryUrl":"https://valezaco.com//beli-aksesoris-blender-dan-mixer/"},{"childCategoryName":"Suku Cadang & Aksesoris AC","childCategoryUrl":"https://valezaco.com//beli-suku-cadang-aksesoris-ac/"},{"childCategoryName":"Suku Cadang & Aksesoris Mesin Cuci","childCategoryUrl":"https://valezaco.com//beli-aksesoris-mesin-cuci-dan-pengering-pakaian/"},{"childCategoryName":"Suku Cadang & Filter Pengganti","childCategoryUrl":"https://valezaco.com//beli-filter-air/"},{"childCategoryName":"Suku Cadang & Filter Penghisap Debu","childCategoryUrl":"https://valezaco.com//beli-suku-kadang-aksesoris-vacuum-cleaner/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_8_8">
-    <a href="https://www.shirisunshineexim.com//jual-aksesoris-televisi/">
+    <a href="https://valezaco.com//jual-aksesoris-televisi/">
     <span>Aksesoris Televisi</span>
     </a>
     <script type="text" class="J_data_7_7">
-                                [{"childCategoryName":""},{"childCategoryName":"TV Box","childCategoryUrl":"https://www.shirisunshineexim.com//jual-tv-receiver/"},{"childCategoryName":"Antena TV","childCategoryUrl":"https://www.shirisunshineexim.com//jual-antena-tv/"},{"childCategoryName":"Bracket Dinding TV & Pelindung","childCategoryUrl":"https://www.shirisunshineexim.com//jual-bracket-dinding-tv/"},{"childCategoryName":"Remote Control TV","childCategoryUrl":"https://www.shirisunshineexim.com//jual-remote-control-tv/"},{"childCategoryName":"Kabel TV","childCategoryUrl":"https://www.shirisunshineexim.com//jual-kabel-tv/"},{"childCategoryName":"Adaptor TV","childCategoryUrl":"https://www.shirisunshineexim.com//jual-adaptor-tv/"},{"childCategoryName":"Kacamata 3D TV","childCategoryUrl":"https://www.shirisunshineexim.com//jual-kacamata-3d-tv/"}]
+                                [{"childCategoryName":""},{"childCategoryName":"TV Box","childCategoryUrl":"https://valezaco.com//jual-tv-receiver/"},{"childCategoryName":"Antena TV","childCategoryUrl":"https://valezaco.com//jual-antena-tv/"},{"childCategoryName":"Bracket Dinding TV & Pelindung","childCategoryUrl":"https://valezaco.com//jual-bracket-dinding-tv/"},{"childCategoryName":"Remote Control TV","childCategoryUrl":"https://valezaco.com//jual-remote-control-tv/"},{"childCategoryName":"Kabel TV","childCategoryUrl":"https://valezaco.com//jual-kabel-tv/"},{"childCategoryName":"Adaptor TV","childCategoryUrl":"https://valezaco.com//jual-adaptor-tv/"},{"childCategoryName":"Kacamata 3D TV","childCategoryUrl":"https://valezaco.com//jual-kacamata-3d-tv/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_8_9">
-    <a href="https://www.shirisunshineexim.com//jual-home-entertainment/">
+    <a href="https://valezaco.com//jual-home-entertainment/">
     <span>Home Entertainment</span>
     </a>
     <script type="text" class="J_data_7_8">
-                                [{"childCategoryName":""},{"childCategoryName":"Soundbar","childCategoryUrl":"https://www.shirisunshineexim.com//jual-soundbar/"},{"childCategoryName":"Sistem Karaoke","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sistem-karaoke/"},{"childCategoryName":"Sistem Hi-Fi","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sistem-hi-fi/"},{"childCategoryName":"Sound System Panggung","childCategoryUrl":"https://www.shirisunshineexim.com//sound-system-panggung/"},{"childCategoryName":"Player Portabel","childCategoryUrl":"https://www.shirisunshineexim.com//beli-audio-player/"}]
+                                [{"childCategoryName":""},{"childCategoryName":"Soundbar","childCategoryUrl":"https://valezaco.com//jual-soundbar/"},{"childCategoryName":"Sistem Karaoke","childCategoryUrl":"https://valezaco.com//jual-sistem-karaoke/"},{"childCategoryName":"Sistem Hi-Fi","childCategoryUrl":"https://valezaco.com//jual-sistem-hi-fi/"},{"childCategoryName":"Sound System Panggung","childCategoryUrl":"https://valezaco.com//sound-system-panggung/"},{"childCategoryName":"Player Portabel","childCategoryUrl":"https://valezaco.com//beli-audio-player/"}]
                             </script>
     </li>
     </ul>
     <ul class="lzd-site-menu-sub Level_1_Category_No9" data-spm="cate_9">
     <li class="lzd-site-menu-sub-item" data-cate="cate_9_1">
-    <a href="https://www.shirisunshineexim.com//beli-dekorasi-rumah/">
+    <a href="https://valezaco.com//beli-dekorasi-rumah/">
     <span>Dekorasi Rumah</span>
     </a>
     <script type="text" class="J_data_8_0">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Stiker Dinding","childCategoryUrl":"https://www.shirisunshineexim.com//beli-stiker-dinding/"},{"childCategoryName":"Gorden","childCategoryUrl":"https://www.shirisunshineexim.com//gorden-dan-kerai/"},{"childCategoryName":"Tikar & Karpet","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tikar-karpet/"},{"childCategoryName":"Hiasan Dinding","childCategoryUrl":"https://www.shirisunshineexim.com//beli-hiasan-dinding/"},{"childCategoryName":"Dekorasi Aksen","childCategoryUrl":"https://www.shirisunshineexim.com//shop-aksesoris-dekor/"},{"childCategoryName":"Bunga & Tanaman Artifisial","childCategoryUrl":"https://www.shirisunshineexim.com//beli-bunga-tanaman-artifisial/"},{"childCategoryName":"Jam","childCategoryUrl":"https://www.shirisunshineexim.com//beli-jam/"},{"childCategoryName":"Dalaman & Sarung Bantal","childCategoryUrl":"https://www.shirisunshineexim.com//shop-dalaman-sarung-bantal/"},{"childCategoryName":"Bingkai","childCategoryUrl":"https://www.shirisunshineexim.com//beli-bingkai/"},{"childCategoryName":"Wewangian Rumah","childCategoryUrl":"https://www.shirisunshineexim.com//beli-wewangian-rumah/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Stiker Dinding","childCategoryUrl":"https://valezaco.com//beli-stiker-dinding/"},{"childCategoryName":"Gorden","childCategoryUrl":"https://valezaco.com//gorden-dan-kerai/"},{"childCategoryName":"Tikar & Karpet","childCategoryUrl":"https://valezaco.com//beli-tikar-karpet/"},{"childCategoryName":"Hiasan Dinding","childCategoryUrl":"https://valezaco.com//beli-hiasan-dinding/"},{"childCategoryName":"Dekorasi Aksen","childCategoryUrl":"https://valezaco.com//shop-aksesoris-dekor/"},{"childCategoryName":"Bunga & Tanaman Artifisial","childCategoryUrl":"https://valezaco.com//beli-bunga-tanaman-artifisial/"},{"childCategoryName":"Jam","childCategoryUrl":"https://valezaco.com//beli-jam/"},{"childCategoryName":"Dalaman & Sarung Bantal","childCategoryUrl":"https://valezaco.com//shop-dalaman-sarung-bantal/"},{"childCategoryName":"Bingkai","childCategoryUrl":"https://valezaco.com//beli-bingkai/"},{"childCategoryName":"Wewangian Rumah","childCategoryUrl":"https://valezaco.com//beli-wewangian-rumah/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_9_2">
-    <a href="https://www.shirisunshineexim.com//beli-furnitur/">
+    <a href="https://valezaco.com//beli-furnitur/">
     <span>Furnitur</span>
     </a>
     <script type="text" class="J_data_8_1">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tempat Penyimpanan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tempat-penyimpanan/"},{"childCategoryName":"Lemari Pakaian","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lemari-pakaian/"},{"childCategoryName":"Kasur","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kasur/"},{"childCategoryName":"Kamar Tidur","childCategoryUrl":"https://www.shirisunshineexim.com//beli-furnitur-kamar-tidur/"},{"childCategoryName":"Rak","childCategoryUrl":"https://www.shirisunshineexim.com//rak/"},{"childCategoryName":"Rak TV dan Media","childCategoryUrl":"https://www.shirisunshineexim.com//tempat-penyimpanan-media-dan-tv/"},{"childCategoryName":"Sofa","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sofa/"},{"childCategoryName":"Ruang Tamu","childCategoryUrl":"https://www.shirisunshineexim.com//beli-furnitur-ruang-tamu/"},{"childCategoryName":"Ruang Kerja Rumah","childCategoryUrl":"https://www.shirisunshineexim.com//beli-furnitur-ruang-kerja-rumah/"},{"childCategoryName":"Dapur & Ruang Makan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-furnitur-dapur-ruang-makan/"},{"childCategoryName":"Ruang Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-furnitur-ruang-bayi/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tempat Penyimpanan","childCategoryUrl":"https://valezaco.com//beli-tempat-penyimpanan/"},{"childCategoryName":"Lemari Pakaian","childCategoryUrl":"https://valezaco.com//beli-lemari-pakaian/"},{"childCategoryName":"Kasur","childCategoryUrl":"https://valezaco.com//beli-kasur/"},{"childCategoryName":"Kamar Tidur","childCategoryUrl":"https://valezaco.com//beli-furnitur-kamar-tidur/"},{"childCategoryName":"Rak","childCategoryUrl":"https://valezaco.com//rak/"},{"childCategoryName":"Rak TV dan Media","childCategoryUrl":"https://valezaco.com//tempat-penyimpanan-media-dan-tv/"},{"childCategoryName":"Sofa","childCategoryUrl":"https://valezaco.com//beli-sofa/"},{"childCategoryName":"Ruang Tamu","childCategoryUrl":"https://valezaco.com//beli-furnitur-ruang-tamu/"},{"childCategoryName":"Ruang Kerja Rumah","childCategoryUrl":"https://valezaco.com//beli-furnitur-ruang-kerja-rumah/"},{"childCategoryName":"Dapur & Ruang Makan","childCategoryUrl":"https://valezaco.com//beli-furnitur-dapur-ruang-makan/"},{"childCategoryName":"Ruang Bayi","childCategoryUrl":"https://valezaco.com//beli-furnitur-ruang-bayi/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_9_3">
-    <a href="https://www.shirisunshineexim.com//beli-peralatan-ranjang/">
+    <a href="https://valezaco.com//beli-peralatan-ranjang/">
     <span>Kelengkapan Tempat Tidur</span>
     </a>
     <script type="text" class="J_data_8_2">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Seprai","childCategoryUrl":"https://www.shirisunshineexim.com//seprei-ranjang/"},{"childCategoryName":"Seprai Set","childCategoryUrl":"https://www.shirisunshineexim.com//perangkat-seprei/"},{"childCategoryName":"Selimut","childCategoryUrl":"https://www.shirisunshineexim.com//selimut-dan-selimut-panjang/"},{"childCategoryName":"Bantal","childCategoryUrl":"https://www.shirisunshineexim.com//beli-bantal/"},{"childCategoryName":"Aksesoris Tempat Tidur","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aksesoris-ranjang/"},{"childCategoryName":"Sarung Bantal","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sarung-bantal/"},{"childCategoryName":"Selimut Tebal","childCategoryUrl":"https://www.shirisunshineexim.com//seprei-dan-selimut-tebal/"},{"childCategoryName":"Pelindung Kasur","childCategoryUrl":"https://www.shirisunshineexim.com//kasur-pelindung/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Seprai","childCategoryUrl":"https://valezaco.com//seprei-ranjang/"},{"childCategoryName":"Seprai Set","childCategoryUrl":"https://valezaco.com//perangkat-seprei/"},{"childCategoryName":"Selimut","childCategoryUrl":"https://valezaco.com//selimut-dan-selimut-panjang/"},{"childCategoryName":"Bantal","childCategoryUrl":"https://valezaco.com//beli-bantal/"},{"childCategoryName":"Aksesoris Tempat Tidur","childCategoryUrl":"https://valezaco.com//beli-aksesoris-ranjang/"},{"childCategoryName":"Sarung Bantal","childCategoryUrl":"https://valezaco.com//beli-sarung-bantal/"},{"childCategoryName":"Selimut Tebal","childCategoryUrl":"https://valezaco.com//seprei-dan-selimut-tebal/"},{"childCategoryName":"Pelindung Kasur","childCategoryUrl":"https://valezaco.com//kasur-pelindung/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_9_4">
-    <a href="https://www.shirisunshineexim.com//penerangan/">
+    <a href="https://valezaco.com//penerangan/">
     <span>Penerangan</span>
     </a>
     <script type="text" class="J_data_8_3">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam Lampu","childCategoryUrl":"https://www.shirisunshineexim.com//shop-bohlam-lampu/"},{"childCategoryName":"Lampu Khusus","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lampu-khusus/"},{"childCategoryName":"Lampu Langit-langit","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lampu-langit-langit-hias/"},{"childCategoryName":"Penerangan Outdoor","childCategoryUrl":"https://www.shirisunshineexim.com//beli-penerangan-outdoor/"},{"childCategoryName":"Lampu Dinding & Tempel","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lampu-dinding-tempel/"},{"childCategoryName":"Lampu Meja","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lampu-meja/"},{"childCategoryName":"Komponen Lampu","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lampu-komponen/"},{"childCategoryName":"Kap Lampu","childCategoryUrl":"https://www.shirisunshineexim.com//kap-lampu/"},{"childCategoryName":"Lampu Lantai","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lampu-lantai/"},{"childCategoryName":"Lampu Rechargeable & Senter","childCategoryUrl":"https://www.shirisunshineexim.com//beli-senter/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam Lampu","childCategoryUrl":"https://valezaco.com//shop-bohlam-lampu/"},{"childCategoryName":"Lampu Khusus","childCategoryUrl":"https://valezaco.com//beli-lampu-khusus/"},{"childCategoryName":"Lampu Langit-langit","childCategoryUrl":"https://valezaco.com//beli-lampu-langit-langit-hias/"},{"childCategoryName":"Penerangan Outdoor","childCategoryUrl":"https://valezaco.com//beli-penerangan-outdoor/"},{"childCategoryName":"Lampu Dinding & Tempel","childCategoryUrl":"https://valezaco.com//beli-lampu-dinding-tempel/"},{"childCategoryName":"Lampu Meja","childCategoryUrl":"https://valezaco.com//beli-lampu-meja/"},{"childCategoryName":"Komponen Lampu","childCategoryUrl":"https://valezaco.com//beli-lampu-komponen/"},{"childCategoryName":"Kap Lampu","childCategoryUrl":"https://valezaco.com//kap-lampu/"},{"childCategoryName":"Lampu Lantai","childCategoryUrl":"https://valezaco.com//beli-lampu-lantai/"},{"childCategoryName":"Lampu Rechargeable & Senter","childCategoryUrl":"https://valezaco.com//beli-senter/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_9_5">
-    <a href="https://www.shirisunshineexim.com//beli-peralatan-mandi/">
+    <a href="https://valezaco.com//beli-peralatan-mandi/">
     <span>Peralatan Mandi</span>
     </a>
     <script type="text" class="J_data_8_4">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Handuk Mandi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-handuk-mandi/"},{"childCategoryName":"Timbangan Kamar Mandi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-timbangan-kamar-mandi/"},{"childCategoryName":"Wadah Penyimpanan Kamar Mandi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tempat-penyimpan-kamar-mandi/"},{"childCategoryName":"Rak Kamar Mandi","childCategoryUrl":"https://www.shirisunshineexim.com//jual-laci-kamar-mandi/"},{"childCategoryName":"Gantungan Handuk & Penghangat","childCategoryUrl":"https://www.shirisunshineexim.com//gantungan-handuk-dan-penghangat/"},{"childCategoryName":"Tempat & Gantungan Shower","childCategoryUrl":"https://www.shirisunshineexim.com//tempat-dan-gantungan-shower/"},{"childCategoryName":"Keset Kamar Mandi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-alas-mandi/"},{"childCategoryName":"Jubah & Kimono Mandi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-jubah-mandi/"},{"childCategoryName":"Tirai Shower","childCategoryUrl":"https://www.shirisunshineexim.com//shop-tirai-mandi-aksesoris/"},{"childCategoryName":"Cermin Kamar Mandi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-cermin-kamar-mandi/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Handuk Mandi","childCategoryUrl":"https://valezaco.com//beli-handuk-mandi/"},{"childCategoryName":"Timbangan Kamar Mandi","childCategoryUrl":"https://valezaco.com//beli-timbangan-kamar-mandi/"},{"childCategoryName":"Wadah Penyimpanan Kamar Mandi","childCategoryUrl":"https://valezaco.com//beli-tempat-penyimpan-kamar-mandi/"},{"childCategoryName":"Rak Kamar Mandi","childCategoryUrl":"https://valezaco.com//jual-laci-kamar-mandi/"},{"childCategoryName":"Gantungan Handuk & Penghangat","childCategoryUrl":"https://valezaco.com//gantungan-handuk-dan-penghangat/"},{"childCategoryName":"Tempat & Gantungan Shower","childCategoryUrl":"https://valezaco.com//tempat-dan-gantungan-shower/"},{"childCategoryName":"Keset Kamar Mandi","childCategoryUrl":"https://valezaco.com//beli-alas-mandi/"},{"childCategoryName":"Jubah & Kimono Mandi","childCategoryUrl":"https://valezaco.com//beli-jubah-mandi/"},{"childCategoryName":"Tirai Shower","childCategoryUrl":"https://valezaco.com//shop-tirai-mandi-aksesoris/"},{"childCategoryName":"Cermin Kamar Mandi","childCategoryUrl":"https://valezaco.com//beli-cermin-kamar-mandi/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_9_6">
-    <a href="https://www.shirisunshineexim.com//beli-perlengkapan-dapur-makan/">
+    <a href="https://valezaco.com//beli-perlengkapan-dapur-makan/">
     <span>Alat Dapur</span>
     </a>
     <script type="text" class="J_data_8_5">
-                                [{"childCategoryName":"Botol minum","childCategoryUrl":"https://www.shirisunshineexim.com//botol-minum/"},{"childCategoryName":"Tempat Penyimpanan Makanan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-wadah-penyimpan-makanan/"},{"childCategoryName":"Alas Meja & Aksesoris Dapur","childCategoryUrl":"https://www.shirisunshineexim.com//beli-alas-meja-aksesoris-dapur/"},{"childCategoryName":"Kopi & Teh","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kopi-dan-teh/"},{"childCategoryName":"Rak Piring & Aksesoris Wastafel","childCategoryUrl":"https://www.shirisunshineexim.com//beli-rak-piring-aksesoris-bak/"},{"childCategoryName":"Panci & Wajan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-peralatan-masak/"},{"childCategoryName":"Perangkat Minum","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perangkat-minum-gelas/"},{"childCategoryName":"Perangkat Makan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-peralatan-penyajian-makanan/"},{"childCategoryName":"Perangkat Pemanggang","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perangkat-pemanggang/"},{"childCategoryName":"Perangkat Penyajian","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perangkat-penyaji/"},{"childCategoryName":"Pisau & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pisau-dan-aksesoris/"},{"childCategoryName":"Alat Dapur Lainnya","childCategoryUrl":"https://www.shirisunshineexim.com//beli-peralatan-dapur/"}]
+                                [{"childCategoryName":"Botol minum","childCategoryUrl":"https://valezaco.com//botol-minum/"},{"childCategoryName":"Tempat Penyimpanan Makanan","childCategoryUrl":"https://valezaco.com//beli-wadah-penyimpan-makanan/"},{"childCategoryName":"Alas Meja & Aksesoris Dapur","childCategoryUrl":"https://valezaco.com//beli-alas-meja-aksesoris-dapur/"},{"childCategoryName":"Kopi & Teh","childCategoryUrl":"https://valezaco.com//beli-kopi-dan-teh/"},{"childCategoryName":"Rak Piring & Aksesoris Wastafel","childCategoryUrl":"https://valezaco.com//beli-rak-piring-aksesoris-bak/"},{"childCategoryName":"Panci & Wajan","childCategoryUrl":"https://valezaco.com//beli-peralatan-masak/"},{"childCategoryName":"Perangkat Minum","childCategoryUrl":"https://valezaco.com//beli-perangkat-minum-gelas/"},{"childCategoryName":"Perangkat Makan","childCategoryUrl":"https://valezaco.com//beli-peralatan-penyajian-makanan/"},{"childCategoryName":"Perangkat Pemanggang","childCategoryUrl":"https://valezaco.com//beli-perangkat-pemanggang/"},{"childCategoryName":"Perangkat Penyajian","childCategoryUrl":"https://valezaco.com//beli-perangkat-penyaji/"},{"childCategoryName":"Pisau & Aksesoris","childCategoryUrl":"https://valezaco.com//beli-pisau-dan-aksesoris/"},{"childCategoryName":"Alat Dapur Lainnya","childCategoryUrl":"https://valezaco.com//beli-peralatan-dapur/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_9_7">
-    <a href="https://www.shirisunshineexim.com//beli-binatu-kebersihan/">
+    <a href="https://valezaco.com//beli-binatu-kebersihan/">
     <span>Binatu &amp; Alat Kebersihan</span>
     </a>
     <script type="text" class="J_data_8_6">
-                                [{"childCategoryName":"Gantungan Baju","childCategoryUrl":"https://www.shirisunshineexim.com//gantungan-baju/"},{"childCategoryName":"Keranjang Baju","childCategoryUrl":"https://www.shirisunshineexim.com//keranjang-cucian/"},{"childCategoryName":"Jemuran Pakaian","childCategoryUrl":"https://www.shirisunshineexim.com//rak-pengering/"},{"childCategoryName":"Alat Binatu & Setrika","childCategoryUrl":"https://www.shirisunshineexim.com//beli-alat-binatu-setrika/"},{"childCategoryName":"Meja Setrika","childCategoryUrl":"https://www.shirisunshineexim.com//papan-setrika/"},{"childCategoryName":"Produk Kebersihan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Sapu & Alat Pel","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sapu-pel/"},{"childCategoryName":"Lap Kain Penghilang Debu","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Sapu-Sikat-Kemoceng/"},{"childCategoryName":"Sikat Pembersih","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-aksesoris-pembersih/"},{"childCategoryName":"Tempat Sampah","childCategoryUrl":"https://www.shirisunshineexim.com//tempat-sampah/"}]
+                                [{"childCategoryName":"Gantungan Baju","childCategoryUrl":"https://valezaco.com//gantungan-baju/"},{"childCategoryName":"Keranjang Baju","childCategoryUrl":"https://valezaco.com//keranjang-cucian/"},{"childCategoryName":"Jemuran Pakaian","childCategoryUrl":"https://valezaco.com//rak-pengering/"},{"childCategoryName":"Alat Binatu & Setrika","childCategoryUrl":"https://valezaco.com//beli-alat-binatu-setrika/"},{"childCategoryName":"Meja Setrika","childCategoryUrl":"https://valezaco.com//papan-setrika/"},{"childCategoryName":"Produk Kebersihan","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Sapu & Alat Pel","childCategoryUrl":"https://valezaco.com//beli-sapu-pel/"},{"childCategoryName":"Lap Kain Penghilang Debu","childCategoryUrl":"https://valezaco.com//shop-Sapu-Sikat-Kemoceng/"},{"childCategoryName":"Sikat Pembersih","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-aksesoris-pembersih/"},{"childCategoryName":"Tempat Sampah","childCategoryUrl":"https://valezaco.com//tempat-sampah/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_9_8">
-    <a href="https://www.shirisunshineexim.com//beli-perawatan-rumah/">
+    <a href="https://valezaco.com//beli-perawatan-rumah/">
     <span>Perkakas &amp; Perbaikan Rumah</span>
     </a>
     <script type="text" class="J_data_8_7">
-                                [{"childCategoryName":"Alat Penyimpanan & Rak","childCategoryUrl":"https://www.shirisunshineexim.com//beli-garasi-penyimpanan-alat-alat/"},{"childCategoryName":"Kabel & Perlengkapan Elektrik","childCategoryUrl":"https://www.shirisunshineexim.com//beli-peralatan-elektrik/"},{"childCategoryName":"Pengecatan & Dekorasi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pengecatan-dekorasi/"},{"childCategoryName":"Perkakas","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perkakas/"},{"childCategoryName":"Perkakas Listrik","childCategoryUrl":"https://www.shirisunshineexim.com//jual-perkakas-listrik/"},{"childCategoryName":"Perkakas Portabel","childCategoryUrl":"https://www.shirisunshineexim.com//beli-peralatan-genggam/"},{"childCategoryName":"Pipa Saluran Air & Kelengkapan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-ledeng/"},{"childCategoryName":"Senter","childCategoryUrl":"https://www.shirisunshineexim.com//beli-senter"},{"childCategoryName":"Tangga & Kursi Peninggi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tangga-kursi-peninggi/"},{"childCategoryName":"perlengkapan keamanan","childCategoryUrl":"https://www.shirisunshineexim.com//lampu-penerangan-tempat-kerja/"}]
+                                [{"childCategoryName":"Alat Penyimpanan & Rak","childCategoryUrl":"https://valezaco.com//beli-garasi-penyimpanan-alat-alat/"},{"childCategoryName":"Kabel & Perlengkapan Elektrik","childCategoryUrl":"https://valezaco.com//beli-peralatan-elektrik/"},{"childCategoryName":"Pengecatan & Dekorasi","childCategoryUrl":"https://valezaco.com//beli-pengecatan-dekorasi/"},{"childCategoryName":"Perkakas","childCategoryUrl":"https://valezaco.com//beli-perkakas/"},{"childCategoryName":"Perkakas Listrik","childCategoryUrl":"https://valezaco.com//jual-perkakas-listrik/"},{"childCategoryName":"Perkakas Portabel","childCategoryUrl":"https://valezaco.com//beli-peralatan-genggam/"},{"childCategoryName":"Pipa Saluran Air & Kelengkapan","childCategoryUrl":"https://valezaco.com//beli-ledeng/"},{"childCategoryName":"Senter","childCategoryUrl":"https://valezaco.com//beli-senter"},{"childCategoryName":"Tangga & Kursi Peninggi","childCategoryUrl":"https://valezaco.com//beli-tangga-kursi-peninggi/"},{"childCategoryName":"perlengkapan keamanan","childCategoryUrl":"https://valezaco.com//lampu-penerangan-tempat-kerja/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_9_9">
-    <a href="https://www.shirisunshineexim.com//Kebun &amp; Luar Ruangan/">
+    <a href="https://valezaco.com//Kebun &amp; Luar Ruangan/">
     <span>Kebun &amp; Luar Ruangan</span>
     </a>
     <script type="text" class="J_data_8_8">
-                                [{"childCategoryName":"Peralatan Listrik Taman & Kebun","childCategoryUrl":"https://www.shirisunshineexim.com//beli-peralatan-listrik-taman-luar-ruangan/"},{"childCategoryName":"Peralatan Kebun","childCategoryUrl":"https://www.shirisunshineexim.com//beli-peralatan-kebun/"},{"childCategoryName":"Sistem Pengairan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sistem-pengairan/"},{"childCategoryName":"Bibit & Biji Bijian","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tumbuhan-biji-bijian/"},{"childCategoryName":"Pembasmi Hama","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pembasmi-rumput-liar-hama/"},{"childCategoryName":"Aksesoris Genset","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aksesoris-peralatan-listrik-luar-ruangan/"},{"childCategoryName":"Genset","childCategoryUrl":"https://www.shirisunshineexim.com//shop-generator/"},{"childCategoryName":"Pemanggang","childCategoryUrl":"https://www.shirisunshineexim.com//pemanggang-dan-penyajian-masakan-outdoor/"},{"childCategoryName":"Alat Pembunuh Serangga","childCategoryUrl":"https://www.shirisunshineexim.com//alat-pembunuh-serangga/"},{"childCategoryName":"Aksesoris Luar Ruangan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-luar-ruangan/"},{"childCategoryName":"Taman & Kebun","childCategoryUrl":"https://www.shirisunshineexim.com//perlengkapan-taman-dan-kebun/"},{"childCategoryName":"","childCategoryUrl":""}]
+                                [{"childCategoryName":"Peralatan Listrik Taman & Kebun","childCategoryUrl":"https://valezaco.com//beli-peralatan-listrik-taman-luar-ruangan/"},{"childCategoryName":"Peralatan Kebun","childCategoryUrl":"https://valezaco.com//beli-peralatan-kebun/"},{"childCategoryName":"Sistem Pengairan","childCategoryUrl":"https://valezaco.com//beli-sistem-pengairan/"},{"childCategoryName":"Bibit & Biji Bijian","childCategoryUrl":"https://valezaco.com//beli-tumbuhan-biji-bijian/"},{"childCategoryName":"Pembasmi Hama","childCategoryUrl":"https://valezaco.com//beli-pembasmi-rumput-liar-hama/"},{"childCategoryName":"Aksesoris Genset","childCategoryUrl":"https://valezaco.com//beli-aksesoris-peralatan-listrik-luar-ruangan/"},{"childCategoryName":"Genset","childCategoryUrl":"https://valezaco.com//shop-generator/"},{"childCategoryName":"Pemanggang","childCategoryUrl":"https://valezaco.com//pemanggang-dan-penyajian-masakan-outdoor/"},{"childCategoryName":"Alat Pembunuh Serangga","childCategoryUrl":"https://valezaco.com//alat-pembunuh-serangga/"},{"childCategoryName":"Aksesoris Luar Ruangan","childCategoryUrl":"https://valezaco.com//beli-luar-ruangan/"},{"childCategoryName":"Taman & Kebun","childCategoryUrl":"https://valezaco.com//perlengkapan-taman-dan-kebun/"},{"childCategoryName":"","childCategoryUrl":""}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_9_10">
-    <a href="https://www.shirisunshineexim.com//beli-alat-tulis-kerajinan/">
+    <a href="https://valezaco.com//beli-alat-tulis-kerajinan/">
     <span>Alat Tulis &amp; Kerajinan</span>
     </a>
     <script type="text" class="J_data_8_9">
-                                [{"childCategoryName":"Peralatan Kesenian dan Kerajinan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-peralatan-seni/"},{"childCategoryName":"Peralatan Mewarnai dan Copic","childCategoryUrl":"https://www.shirisunshineexim.com//beli-alat-mewarnai-copic/"},{"childCategoryName":"Kerajinan Umum","childCategoryUrl":"https://www.shirisunshineexim.com//beli-alat-kerajinan-umum/"},{"childCategoryName":"Pernak Pernik Hadiah dan Kado","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pernak-pernik-hadiah/"},{"childCategoryName":"Tas Belanja","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tas-belanjaan/"},{"childCategoryName":"Buku Catatan","childCategoryUrl":"https://www.shirisunshineexim.com//buku-catatan/"},{"childCategoryName":"Kertas Komputer","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kertas-komputer/"},{"childCategoryName":"Perlengkapan Sekolah","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perlengkapan-sekolah/"},{"childCategoryName":"Perlengkapan Meja Kerja","childCategoryUrl":"https://www.shirisunshineexim.com//beli-wadah-alat-alat-kantor/"},{"childCategoryName":"Perlengkapan Jahit","childCategoryUrl":"https://www.shirisunshineexim.com//beli-bahan-bahan-kerajinan-tangan/"},{"childCategoryName":"Pulpen","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pulpen/"},{"childCategoryName":"Pensil","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pensil-2/"}]
+                                [{"childCategoryName":"Peralatan Kesenian dan Kerajinan","childCategoryUrl":"https://valezaco.com//beli-peralatan-seni/"},{"childCategoryName":"Peralatan Mewarnai dan Copic","childCategoryUrl":"https://valezaco.com//beli-alat-mewarnai-copic/"},{"childCategoryName":"Kerajinan Umum","childCategoryUrl":"https://valezaco.com//beli-alat-kerajinan-umum/"},{"childCategoryName":"Pernak Pernik Hadiah dan Kado","childCategoryUrl":"https://valezaco.com//beli-pernak-pernik-hadiah/"},{"childCategoryName":"Tas Belanja","childCategoryUrl":"https://valezaco.com//beli-tas-belanjaan/"},{"childCategoryName":"Buku Catatan","childCategoryUrl":"https://valezaco.com//buku-catatan/"},{"childCategoryName":"Kertas Komputer","childCategoryUrl":"https://valezaco.com//beli-kertas-komputer/"},{"childCategoryName":"Perlengkapan Sekolah","childCategoryUrl":"https://valezaco.com//beli-perlengkapan-sekolah/"},{"childCategoryName":"Perlengkapan Meja Kerja","childCategoryUrl":"https://valezaco.com//beli-wadah-alat-alat-kantor/"},{"childCategoryName":"Perlengkapan Jahit","childCategoryUrl":"https://valezaco.com//beli-bahan-bahan-kerajinan-tangan/"},{"childCategoryName":"Pulpen","childCategoryUrl":"https://valezaco.com//beli-pulpen/"},{"childCategoryName":"Pensil","childCategoryUrl":"https://valezaco.com//beli-pensil-2/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_9_11">
-    <a href="https://www.shirisunshineexim.com//beli-media-musik-dan-buku/">
+    <a href="https://valezaco.com//beli-media-musik-dan-buku/">
     <span>Media, Musik &amp; Buku</span>
     </a>
     <script type="text" class="J_data_8_10">
-                                [{"childCategoryName":"Instrumen Musik","childCategoryUrl":"https://www.shirisunshineexim.com//instrumen-musik/"},{"childCategoryName":"Buku","childCategoryUrl":"https://www.shirisunshineexim.com//buku/"},{"childCategoryName":"Musik","childCategoryUrl":"https://www.shirisunshineexim.com//lagu/"},{"childCategoryName":"Majalah","childCategoryUrl":"https://www.shirisunshineexim.com//majalah/"},{"childCategoryName":"Film","childCategoryUrl":"https://www.shirisunshineexim.com//film/"}]
+                                [{"childCategoryName":"Instrumen Musik","childCategoryUrl":"https://valezaco.com//instrumen-musik/"},{"childCategoryName":"Buku","childCategoryUrl":"https://valezaco.com//buku/"},{"childCategoryName":"Musik","childCategoryUrl":"https://valezaco.com//lagu/"},{"childCategoryName":"Majalah","childCategoryUrl":"https://valezaco.com//majalah/"},{"childCategoryName":"Film","childCategoryUrl":"https://valezaco.com//film/"}]
                             </script>
     </li>
     </ul>
     <ul class="lzd-site-menu-sub Level_1_Category_No10" data-spm="cate_10">
     <li class="lzd-site-menu-sub-item" data-cate="cate_10_1">
-    <a href="https://www.shirisunshineexim.com//beli-minuman/">
+    <a href="https://valezaco.com//beli-minuman/">
     <span>Minuman</span>
     </a>
     <script type="text" class="J_data_9_0">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"UHT, Susu & Susu Bubuk","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-uht-milk-milk-powder/"},{"childCategoryName":"Kopi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kopi/"},{"childCategoryName":"Minuman Serbuk","childCategoryUrl":"https://www.shirisunshineexim.com//beli-minuman-serbuk/"},{"childCategoryName":"Minuman Berenergi","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Minuman-Olahraga-Energi/"},{"childCategoryName":"Teh","childCategoryUrl":"https://www.shirisunshineexim.com//beli-teh/"},{"childCategoryName":"Chocolate, Malt & Hot Cereals","childCategoryUrl":"https://www.shirisunshineexim.com//coklat-panas/"},{"childCategoryName":"Air Mineral","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-air/"},{"childCategoryName":"Minuman Berkarbonasi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-minuman-ringan/"},{"childCategoryName":"Jus","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-jus/"},{"childCategoryName":"Sirup","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sirup/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"UHT, Susu & Susu Bubuk","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-uht-milk-milk-powder/"},{"childCategoryName":"Kopi","childCategoryUrl":"https://valezaco.com//beli-kopi/"},{"childCategoryName":"Minuman Serbuk","childCategoryUrl":"https://valezaco.com//beli-minuman-serbuk/"},{"childCategoryName":"Minuman Berenergi","childCategoryUrl":"https://valezaco.com//shop-Minuman-Olahraga-Energi/"},{"childCategoryName":"Teh","childCategoryUrl":"https://valezaco.com//beli-teh/"},{"childCategoryName":"Chocolate, Malt & Hot Cereals","childCategoryUrl":"https://valezaco.com//coklat-panas/"},{"childCategoryName":"Air Mineral","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-air/"},{"childCategoryName":"Minuman Berkarbonasi","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-minuman-ringan/"},{"childCategoryName":"Jus","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-jus/"},{"childCategoryName":"Sirup","childCategoryUrl":"https://valezaco.com//beli-sirup/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_10_2">
-    <a href="https://www.shirisunshineexim.com//shop-Bahan-Utama-Pelengkap-Masakan">
+    <a href="https://valezaco.com//shop-Bahan-Utama-Pelengkap-Masakan">
     <span>Bahan &amp; Bumbu Masakan</span>
     </a>
     <script type="text" class="J_data_9_1">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan Instant & Siap santap","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Makanan-Instan-Siap-Santap/"},{"childCategoryName":"Bahan Pembuat Kue","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Bahan-Pembuat-Kue/"},{"childCategoryName":"Beras","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Beras/"},{"childCategoryName":"Garam & Bumbu Dapur","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Bumbu-Dapur/"},{"childCategoryName":"Mie & Bihun","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Mi-Bihun/"},{"childCategoryName":"Makanan Kering","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Makanan-Kering/"},{"childCategoryName":"Minyak","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Minyak/"},{"childCategoryName":"Makanan Kaleng","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Makanan-Kaleng/"},{"childCategoryName":"Pasta","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Pasta/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan Instant & Siap santap","childCategoryUrl":"https://valezaco.com//shop-Makanan-Instan-Siap-Santap/"},{"childCategoryName":"Bahan Pembuat Kue","childCategoryUrl":"https://valezaco.com//shop-Bahan-Pembuat-Kue/"},{"childCategoryName":"Beras","childCategoryUrl":"https://valezaco.com//shop-Beras/"},{"childCategoryName":"Garam & Bumbu Dapur","childCategoryUrl":"https://valezaco.com//shop-Bumbu-Dapur/"},{"childCategoryName":"Mie & Bihun","childCategoryUrl":"https://valezaco.com//shop-Mi-Bihun/"},{"childCategoryName":"Makanan Kering","childCategoryUrl":"https://valezaco.com//shop-Makanan-Kering/"},{"childCategoryName":"Minyak","childCategoryUrl":"https://valezaco.com//shop-Minyak/"},{"childCategoryName":"Makanan Kaleng","childCategoryUrl":"https://valezaco.com//shop-Makanan-Kaleng/"},{"childCategoryName":"Pasta","childCategoryUrl":"https://valezaco.com//shop-Pasta/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_10_3">
-    <a href="https://www.shirisunshineexim.com//shop-Cokelat-Camilan-Permen/">
+    <a href="https://valezaco.com//shop-Cokelat-Camilan-Permen/">
     <span>Cokelat, Camilan &amp; Permen</span>
     </a>
     <script type="text" class="J_data_9_2">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Camilan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Camilan/"},{"childCategoryName":"Cokelat","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Cokelat/"},{"childCategoryName":"Biskuit & Kerupuk","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Biskuit-Manis/"},{"childCategoryName":"Permen","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Manisan/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Camilan","childCategoryUrl":"https://valezaco.com//shop-Camilan/"},{"childCategoryName":"Cokelat","childCategoryUrl":"https://valezaco.com//shop-Cokelat/"},{"childCategoryName":"Biskuit & Kerupuk","childCategoryUrl":"https://valezaco.com//shop-Biskuit-Manis/"},{"childCategoryName":"Permen","childCategoryUrl":"https://valezaco.com//shop-Manisan/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_10_4">
-    <a href="https://www.shirisunshineexim.com//beli-makanan-sarapan">
+    <a href="https://valezaco.com//beli-makanan-sarapan">
     <span>Makanan Sarapan, Sereal &amp; Selai</span>
     </a>
     <script type="text" class="J_data_9_3">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Selai & Madu","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-selai-madu-spread/"},{"childCategoryName":"Oatmeal","childCategoryUrl":"https://www.shirisunshineexim.com//beli-oatmeal/"},{"childCategoryName":"Sereal Sarapan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sereal/"},{"childCategoryName":"Tepung Pancake & Waffle","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pancake-waffle/"},{"childCategoryName":"Bars","childCategoryUrl":"https://www.shirisunshineexim.com//shop-bar/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Selai & Madu","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-selai-madu-spread/"},{"childCategoryName":"Oatmeal","childCategoryUrl":"https://valezaco.com//beli-oatmeal/"},{"childCategoryName":"Sereal Sarapan","childCategoryUrl":"https://valezaco.com//beli-sereal/"},{"childCategoryName":"Tepung Pancake & Waffle","childCategoryUrl":"https://valezaco.com//beli-pancake-waffle/"},{"childCategoryName":"Bars","childCategoryUrl":"https://valezaco.com//shop-bar/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_10_5">
-    <a href="https://www.shirisunshineexim.com//beli-makanan-minuman-hasil-segar">
+    <a href="https://valezaco.com//beli-makanan-minuman-hasil-segar">
     <span>Buah &amp; Sayur</span>
     </a>
     <script type="text" class="J_data_9_4">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Buah Segar","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-buah/"},{"childCategoryName":"Sayur Segar","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-sayuran-segar/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Buah Segar","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-buah/"},{"childCategoryName":"Sayur Segar","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-sayuran-segar/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_10_6">
-    <a href="https://www.shirisunshineexim.com//shop-kebutuhan-rumah-tangga">
+    <a href="https://valezaco.com//shop-kebutuhan-rumah-tangga">
     <span>Kebutuhan Rumah Tangga</span>
     </a>
     <script type="text" class="J_data_9_5">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengharum Ruangan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-perawatan-udara/"},{"childCategoryName":"Kebutuhan Kebersihan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Pengendalian Hama","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-pengendalian-hama/"},{"childCategoryName":"Sabun Pencuci Piring","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-mencuci-piring/"},{"childCategoryName":"Kebutuhan Laundry","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-cucian/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengharum Ruangan","childCategoryUrl":"https://valezaco.com//shop-perawatan-udara/"},{"childCategoryName":"Kebutuhan Kebersihan","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Pengendalian Hama","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-pengendalian-hama/"},{"childCategoryName":"Sabun Pencuci Piring","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-mencuci-piring/"},{"childCategoryName":"Kebutuhan Laundry","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-cucian/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_10_7">
-    <a href="https://www.shirisunshineexim.com//shop-makanan-hewan">
+    <a href="https://valezaco.com//shop-makanan-hewan">
     <span>Makanan Hewan Peliharaan</span>
     </a>
     <script type="text" class="J_data_9_6">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan & Camilan Kucing","childCategoryUrl":"https://www.shirisunshineexim.com//jual-makanan-kucing/"},{"childCategoryName":"Makanan Burung","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-burung/"},{"childCategoryName":"Makanan Ikan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-ikan/"},{"childCategoryName":"Makanan & Camilan Anjing","childCategoryUrl":"https://www.shirisunshineexim.com//jual-makanan-anjing/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan & Camilan Kucing","childCategoryUrl":"https://valezaco.com//jual-makanan-kucing/"},{"childCategoryName":"Makanan Burung","childCategoryUrl":"https://valezaco.com//beli-makanan-burung/"},{"childCategoryName":"Makanan Ikan","childCategoryUrl":"https://valezaco.com//beli-makanan-ikan/"},{"childCategoryName":"Makanan & Camilan Anjing","childCategoryUrl":"https://valezaco.com//jual-makanan-anjing/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_10_8">
-    <a href="https://www.shirisunshineexim.com//shop-aksesoris-hewan">
+    <a href="https://valezaco.com//shop-aksesoris-hewan">
     <span>Aksesoris Hewan Peliharaan</span>
     </a>
     <script type="text" class="J_data_9_7">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Keperluan Akuarium","childCategoryUrl":"https://www.shirisunshineexim.com//shop-keperluan-akuarium/"},{"childCategoryName":"Kandang & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kandang-terbuka-pintu-anjing/"},{"childCategoryName":"Peralatan Grooming","childCategoryUrl":"https://www.shirisunshineexim.com//jual-persediaan-grooming-hewan/"},{"childCategoryName":"Rumah,Alas & Tempat tidur","childCategoryUrl":"https://www.shirisunshineexim.com//beli-ranjang-alas-tidur-rumah-anjing/"},{"childCategoryName":"Alat Makan Hewan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mangkuk-makan-anjing/"},{"childCategoryName":"Tali dan Kalung Hewan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tali-kalung-moncong-anjing/"},{"childCategoryName":"Kebutuhan Travel Hewan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pengangkut-perjalanan-anjing/"},{"childCategoryName":"Mainan Hewan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-mainan/"},{"childCategoryName":"Alat Pelatihan Anjing","childCategoryUrl":"https://www.shirisunshineexim.com//beli-alat-latih-olahraga-anjing/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Keperluan Akuarium","childCategoryUrl":"https://valezaco.com//shop-keperluan-akuarium/"},{"childCategoryName":"Kandang & Aksesoris","childCategoryUrl":"https://valezaco.com//beli-kandang-terbuka-pintu-anjing/"},{"childCategoryName":"Peralatan Grooming","childCategoryUrl":"https://valezaco.com//jual-persediaan-grooming-hewan/"},{"childCategoryName":"Rumah,Alas & Tempat tidur","childCategoryUrl":"https://valezaco.com//beli-ranjang-alas-tidur-rumah-anjing/"},{"childCategoryName":"Alat Makan Hewan","childCategoryUrl":"https://valezaco.com//beli-mangkuk-makan-anjing/"},{"childCategoryName":"Tali dan Kalung Hewan","childCategoryUrl":"https://valezaco.com//beli-tali-kalung-moncong-anjing/"},{"childCategoryName":"Kebutuhan Travel Hewan","childCategoryUrl":"https://valezaco.com//beli-pengangkut-perjalanan-anjing/"},{"childCategoryName":"Mainan Hewan","childCategoryUrl":"https://valezaco.com//shop-mainan/"},{"childCategoryName":"Alat Pelatihan Anjing","childCategoryUrl":"https://valezaco.com//beli-alat-latih-olahraga-anjing/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_10_9">
-    <a href="https://www.shirisunshineexim.com//shop-kesehatan-hewan-peliharaan">
+    <a href="https://valezaco.com//shop-kesehatan-hewan-peliharaan">
     <span>Kesehatan Hewan Peliharaan</span>
     </a>
     <script type="text" class="J_data_9_8">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Gigi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kesehatan-gigi-anjing/"},{"childCategoryName":"Pembasmi Kutu Hewan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kutu-anjing/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Gigi","childCategoryUrl":"https://valezaco.com//beli-kesehatan-gigi-anjing/"},{"childCategoryName":"Pembasmi Kutu Hewan","childCategoryUrl":"https://valezaco.com//beli-kutu-anjing/"}]
                             </script>
     </li>
     </ul>
     <ul class="lzd-site-menu-sub Level_1_Category_No11" data-spm="cate_11">
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_1">
-    <a href="https://www.shirisunshineexim.com//baju-olahraga-pria/">
+    <a href="https://valezaco.com//baju-olahraga-pria/">
     <span>Baju Olahraga Pria</span>
     </a>
     <script type="text" class="J_data_10_0">
-                                [{"childCategoryName":"Celana Olahraga Pria","childCategoryUrl":"https://www.shirisunshineexim.com//celana-panjang-dan-pendek-olahraga-pria/"},{"childCategoryName":"Kaos Olahraga Pria","childCategoryUrl":"https://www.shirisunshineexim.com//kaos-olahraga-pria/"},{"childCategoryName":"Jaket Olahraga Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jaket-dan-parka-olahraga-pria/"},{"childCategoryName":"Pakaian Renang Pria","childCategoryUrl":"https://www.shirisunshineexim.com//pakaian-renang-dan-selancar-pria/"},{"childCategoryName":"Jersey Olahraga Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-jersey-olahraga-pria/"},{"childCategoryName":"Celana Pendek Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-celana-pendek-olahraga-pria/"},{"childCategoryName":"Hoodies Pria","childCategoryUrl":"https://www.shirisunshineexim.com//hoodies-pria/"},{"childCategoryName":"Topi Olahraga Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-topi-olahraga-pria/"},{"childCategoryName":"Tas Ransel Sport Pria","childCategoryUrl":"https://www.shirisunshineexim.com//tas-ransel-sport-pria/"},{"childCategoryName":"Tas Serut Pria","childCategoryUrl":"https://www.shirisunshineexim.com//tas-serut-pria/"},{"childCategoryName":"Tas Duffel Pria","childCategoryUrl":"https://www.shirisunshineexim.com//tas-duffel-pria/"},{"childCategoryName":"Gym Tote Pria","childCategoryUrl":"https://www.shirisunshineexim.com//gym-tote-pria/"}]
+                                [{"childCategoryName":"Celana Olahraga Pria","childCategoryUrl":"https://valezaco.com//celana-panjang-dan-pendek-olahraga-pria/"},{"childCategoryName":"Kaos Olahraga Pria","childCategoryUrl":"https://valezaco.com//kaos-olahraga-pria/"},{"childCategoryName":"Jaket Olahraga Pria","childCategoryUrl":"https://valezaco.com//jaket-dan-parka-olahraga-pria/"},{"childCategoryName":"Pakaian Renang Pria","childCategoryUrl":"https://valezaco.com//pakaian-renang-dan-selancar-pria/"},{"childCategoryName":"Jersey Olahraga Pria","childCategoryUrl":"https://valezaco.com//jual-jersey-olahraga-pria/"},{"childCategoryName":"Celana Pendek Pria","childCategoryUrl":"https://valezaco.com//jual-celana-pendek-olahraga-pria/"},{"childCategoryName":"Hoodies Pria","childCategoryUrl":"https://valezaco.com//hoodies-pria/"},{"childCategoryName":"Topi Olahraga Pria","childCategoryUrl":"https://valezaco.com//jual-topi-olahraga-pria/"},{"childCategoryName":"Tas Ransel Sport Pria","childCategoryUrl":"https://valezaco.com//tas-ransel-sport-pria/"},{"childCategoryName":"Tas Serut Pria","childCategoryUrl":"https://valezaco.com//tas-serut-pria/"},{"childCategoryName":"Tas Duffel Pria","childCategoryUrl":"https://valezaco.com//tas-duffel-pria/"},{"childCategoryName":"Gym Tote Pria","childCategoryUrl":"https://valezaco.com//gym-tote-pria/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_2">
-    <a href="https://www.shirisunshineexim.com//pakaian-olahraga-wanita/">
+    <a href="https://valezaco.com//pakaian-olahraga-wanita/">
     <span>Baju Olahraga Wanita</span>
     </a>
     <script type="text" class="J_data_10_1">
-                                [{"childCategoryName":"Celana Panjang Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//celana-panjang-dan-pendek-olahraga-wanita/"},{"childCategoryName":"Kaos Olahraga Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//kaos-dan-atasan-olahraga-wanita/"},{"childCategoryName":"Jaket Olahraga Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//jaket-dan-parka-sport-wanita/"},{"childCategoryName":"Sport Bra Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sport-bra-wanita/"},{"childCategoryName":"Celana Pendek Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//jual-celana-pendek-olahraga-wanita/"},{"childCategoryName":"Rok Olahraga Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//jual-rok-olahraga-wanita/"},{"childCategoryName":"Hoodies Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//hoodies-wanita/"},{"childCategoryName":"Pakaian Renang Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//pakaian-renang-dan-selancar-wanita/"},{"childCategoryName":"Tas Ransel Sport Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//tas-ransel-sport-wanita/"},{"childCategoryName":"Tas Serut Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//tas-serut-wanita/"},{"childCategoryName":"Tas Duffel Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//tas-duffel-wanita/"},{"childCategoryName":"Gym Tote Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//gym-tote-wanita/"}]
+                                [{"childCategoryName":"Celana Panjang Wanita","childCategoryUrl":"https://valezaco.com//celana-panjang-dan-pendek-olahraga-wanita/"},{"childCategoryName":"Kaos Olahraga Wanita","childCategoryUrl":"https://valezaco.com//kaos-dan-atasan-olahraga-wanita/"},{"childCategoryName":"Jaket Olahraga Wanita","childCategoryUrl":"https://valezaco.com//jaket-dan-parka-sport-wanita/"},{"childCategoryName":"Sport Bra Wanita","childCategoryUrl":"https://valezaco.com//jual-sport-bra-wanita/"},{"childCategoryName":"Celana Pendek Wanita","childCategoryUrl":"https://valezaco.com//jual-celana-pendek-olahraga-wanita/"},{"childCategoryName":"Rok Olahraga Wanita","childCategoryUrl":"https://valezaco.com//jual-rok-olahraga-wanita/"},{"childCategoryName":"Hoodies Wanita","childCategoryUrl":"https://valezaco.com//hoodies-wanita/"},{"childCategoryName":"Pakaian Renang Wanita","childCategoryUrl":"https://valezaco.com//pakaian-renang-dan-selancar-wanita/"},{"childCategoryName":"Tas Ransel Sport Wanita","childCategoryUrl":"https://valezaco.com//tas-ransel-sport-wanita/"},{"childCategoryName":"Tas Serut Wanita","childCategoryUrl":"https://valezaco.com//tas-serut-wanita/"},{"childCategoryName":"Tas Duffel Wanita","childCategoryUrl":"https://valezaco.com//tas-duffel-wanita/"},{"childCategoryName":"Gym Tote Wanita","childCategoryUrl":"https://valezaco.com//gym-tote-wanita/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_3">
-    <a href="https://www.shirisunshineexim.com//sepatu-dan-pakaian-olahraga-pria/">
+    <a href="https://valezaco.com//sepatu-dan-pakaian-olahraga-pria/">
     <span>Sepatu Olahraga Pria</span>
     </a>
     <script type="text" class="J_data_10_2">
-                                [{"childCategoryName":"Sepatu Sepakbola Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-futsal-pria/"},{"childCategoryName":"Sepatu Lari Pria","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-lari-pria/"},{"childCategoryName":"Sepatu Hiking Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-hiking-pria/"},{"childCategoryName":"Sepatu Basket Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-basket-pria/"},{"childCategoryName":"Sepatu Olahraga Air Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-olahraga-air-pria/"},{"childCategoryName":"Sepatu Badminton ria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-badminton-pria/"},{"childCategoryName":"Sepatu Training Pira","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-fitness-training-pria/"},{"childCategoryName":"Sepatu Skateboard Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-skateboard-pria/"},{"childCategoryName":"Sepatu Sneakers Pria","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sepatu-sneakers-pria/"},{"childCategoryName":"Sandal Olahraga Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sandal-olahraga-pria/"},{"childCategoryName":"Sepatu Jalan Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-jalan-pria/"}]
+                                [{"childCategoryName":"Sepatu Sepakbola Pria","childCategoryUrl":"https://valezaco.com//jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal Pria","childCategoryUrl":"https://valezaco.com//jual-sepatu-futsal-pria/"},{"childCategoryName":"Sepatu Lari Pria","childCategoryUrl":"https://valezaco.com//sepatu-lari-pria/"},{"childCategoryName":"Sepatu Hiking Pria","childCategoryUrl":"https://valezaco.com//jual-sepatu-hiking-pria/"},{"childCategoryName":"Sepatu Basket Pria","childCategoryUrl":"https://valezaco.com//jual-sepatu-basket-pria/"},{"childCategoryName":"Sepatu Olahraga Air Pria","childCategoryUrl":"https://valezaco.com//jual-sepatu-olahraga-air-pria/"},{"childCategoryName":"Sepatu Badminton ria","childCategoryUrl":"https://valezaco.com//jual-sepatu-badminton-pria/"},{"childCategoryName":"Sepatu Training Pira","childCategoryUrl":"https://valezaco.com//jual-sepatu-fitness-training-pria/"},{"childCategoryName":"Sepatu Skateboard Pria","childCategoryUrl":"https://valezaco.com//jual-sepatu-skateboard-pria/"},{"childCategoryName":"Sepatu Sneakers Pria","childCategoryUrl":"https://valezaco.com//beli-sepatu-sneakers-pria/"},{"childCategoryName":"Sandal Olahraga Pria","childCategoryUrl":"https://valezaco.com//jual-sandal-olahraga-pria/"},{"childCategoryName":"Sepatu Jalan Pria","childCategoryUrl":"https://valezaco.com//jual-sepatu-jalan-pria/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_4">
-    <a href="https://www.shirisunshineexim.com//sepatu-dan-pakaian-olahraga-wanita/">
+    <a href="https://valezaco.com//sepatu-dan-pakaian-olahraga-wanita/">
     <span>Sepatu Olahraga Wanita</span>
     </a>
     <script type="text" class="J_data_10_3">
-                                [{"childCategoryName":"Sepatu Badminton Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-badminton-wanita/"},{"childCategoryName":"Sepatu Lari Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-lari-wanita/"},{"childCategoryName":"Sepatu Futsal Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-futsal-wanita/"},{"childCategoryName":"Sepatu Basket Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-basket-wanita/"},{"childCategoryName":"Sepatu Sepakbola Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-sepakbola-wanita/"},{"childCategoryName":"Sepatu Olahraga Air Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-olaraga-air-wanita/"},{"childCategoryName":"Sepatu Hiking Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-hiking-wanita/"},{"childCategoryName":"Sepatu Training Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-fitness-training-wanita/"},{"childCategoryName":"Septu Skateboard Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-skateboard-wanita/"},{"childCategoryName":"Sepatu Sneakers Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sepatu-sneakers-wanita/"},{"childCategoryName":"Sandal Olahraga Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sandal-olahraga-wanita/"},{"childCategoryName":"Sepatu Jalan Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-jalan-wanita/"}]
+                                [{"childCategoryName":"Sepatu Badminton Wanita","childCategoryUrl":"https://valezaco.com//sepatu-badminton-wanita/"},{"childCategoryName":"Sepatu Lari Wanita","childCategoryUrl":"https://valezaco.com//sepatu-lari-wanita/"},{"childCategoryName":"Sepatu Futsal Wanita","childCategoryUrl":"https://valezaco.com//sepatu-futsal-wanita/"},{"childCategoryName":"Sepatu Basket Wanita","childCategoryUrl":"https://valezaco.com//sepatu-basket-wanita/"},{"childCategoryName":"Sepatu Sepakbola Wanita","childCategoryUrl":"https://valezaco.com//sepatu-sepakbola-wanita/"},{"childCategoryName":"Sepatu Olahraga Air Wanita","childCategoryUrl":"https://valezaco.com//sepatu-olaraga-air-wanita/"},{"childCategoryName":"Sepatu Hiking Wanita","childCategoryUrl":"https://valezaco.com//sepatu-hiking-wanita/"},{"childCategoryName":"Sepatu Training Wanita","childCategoryUrl":"https://valezaco.com//jual-sepatu-fitness-training-wanita/"},{"childCategoryName":"Septu Skateboard Wanita","childCategoryUrl":"https://valezaco.com//jual-sepatu-skateboard-wanita/"},{"childCategoryName":"Sepatu Sneakers Wanita","childCategoryUrl":"https://valezaco.com//beli-sepatu-sneakers-wanita/"},{"childCategoryName":"Sandal Olahraga Wanita","childCategoryUrl":"https://valezaco.com//jual-sandal-olahraga-wanita/"},{"childCategoryName":"Sepatu Jalan Wanita","childCategoryUrl":"https://valezaco.com//jual-sepatu-jalan-wanita/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_5">
-    <a href="https://www.shirisunshineexim.com//camping-dan-hiking/">
+    <a href="https://valezaco.com//camping-dan-hiking/">
     <span>Camping dan Hiking</span>
     </a>
     <script type="text" class="J_data_10_4">
-                                [{"childCategoryName":"Tenda dan furniture Camping","childCategoryUrl":"https://www.shirisunshineexim.com//tenda-dan-furniture/"},{"childCategoryName":"Perlengkapan Tidur Camping","childCategoryUrl":"https://www.shirisunshineexim.com//perlengkapan-tidur-camping/"},{"childCategoryName":"Tas Camping","childCategoryUrl":"https://www.shirisunshineexim.com//jual-tas-ransel/"},{"childCategoryName":"Tempat berteduh Camping","childCategoryUrl":"https://www.shirisunshineexim.com//jual-tempat-berteduh-dan-kanopi/"},{"childCategoryName":"Perabotan Kemah","childCategoryUrl":"https://www.shirisunshineexim.com//jual-perabotan-kemah/"},{"childCategoryName":"Alat Dapur Kemah","childCategoryUrl":"https://www.shirisunshineexim.com//jual-dapur-kemah/"},{"childCategoryName":"Alat penerangan Hiking","childCategoryUrl":"https://www.shirisunshineexim.com//jual-penerangan/"},{"childCategoryName":"Navigasi Elektroning Hiking","childCategoryUrl":"https://www.shirisunshineexim.com//jual-navigasi-elektronik/"},{"childCategoryName":"Tongkat Hiking","childCategoryUrl":"https://www.shirisunshineexim.com//jual-tongkat-hiking/"},{"childCategoryName":"Pisau Kemah","childCategoryUrl":"https://www.shirisunshineexim.com//jual-pisau-alat-multifungsi/"},{"childCategoryName":"Peralatan Survival Camping","childCategoryUrl":"https://www.shirisunshineexim.com//jual-peralatan-survival-dan-keamanan/"},{"childCategoryName":"Perlengkapan Panjat Tebing","childCategoryUrl":"https://www.shirisunshineexim.com//panjat-tebing/"}]
+                                [{"childCategoryName":"Tenda dan furniture Camping","childCategoryUrl":"https://valezaco.com//tenda-dan-furniture/"},{"childCategoryName":"Perlengkapan Tidur Camping","childCategoryUrl":"https://valezaco.com//perlengkapan-tidur-camping/"},{"childCategoryName":"Tas Camping","childCategoryUrl":"https://valezaco.com//jual-tas-ransel/"},{"childCategoryName":"Tempat berteduh Camping","childCategoryUrl":"https://valezaco.com//jual-tempat-berteduh-dan-kanopi/"},{"childCategoryName":"Perabotan Kemah","childCategoryUrl":"https://valezaco.com//jual-perabotan-kemah/"},{"childCategoryName":"Alat Dapur Kemah","childCategoryUrl":"https://valezaco.com//jual-dapur-kemah/"},{"childCategoryName":"Alat penerangan Hiking","childCategoryUrl":"https://valezaco.com//jual-penerangan/"},{"childCategoryName":"Navigasi Elektroning Hiking","childCategoryUrl":"https://valezaco.com//jual-navigasi-elektronik/"},{"childCategoryName":"Tongkat Hiking","childCategoryUrl":"https://valezaco.com//jual-tongkat-hiking/"},{"childCategoryName":"Pisau Kemah","childCategoryUrl":"https://valezaco.com//jual-pisau-alat-multifungsi/"},{"childCategoryName":"Peralatan Survival Camping","childCategoryUrl":"https://valezaco.com//jual-peralatan-survival-dan-keamanan/"},{"childCategoryName":"Perlengkapan Panjat Tebing","childCategoryUrl":"https://valezaco.com//panjat-tebing/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_6">
-    <a href="https://www.shirisunshineexim.com//jual-peralatan-memancing/">
+    <a href="https://valezaco.com//jual-peralatan-memancing/">
     <span>Peralatan Memancing</span>
     </a>
     <script type="text" class="J_data_10_5">
-                                [{"childCategoryName":"Tongkat Pancing","childCategoryUrl":"https://www.shirisunshineexim.com//jual-tongkat-pancing/"},{"childCategoryName":"Alat Gulungan Pancing","childCategoryUrl":"https://www.shirisunshineexim.com//alat-gulungan-pancing/"},{"childCategoryName":"Set Tongkat dan Gulungan Pancing","childCategoryUrl":"https://www.shirisunshineexim.com//set-tongkat-dan-gulungan-pancing/"},{"childCategoryName":"Senar Pancing","childCategoryUrl":"https://www.shirisunshineexim.com//jual-senar-pancing/"},{"childCategoryName":"Umpan Pancing","childCategoryUrl":"https://www.shirisunshineexim.com//jual-umpan/"},{"childCategoryName":"Peralatan Pancing","childCategoryUrl":"https://www.shirisunshineexim.com//jual-peralatan-pancing/"},{"childCategoryName":"GPS alat pencari ikan","childCategoryUrl":"https://www.shirisunshineexim.com//jual-gps-alat-pencari-ikan/"},{"childCategoryName":"Jaring Penangkap Ikan","childCategoryUrl":"https://www.shirisunshineexim.com//jual-jaring-penangkap-ikan/"},{"childCategoryName":"Aksesoris Memancing","childCategoryUrl":"https://www.shirisunshineexim.com//jual-aksesoris-memancing/"}]
+                                [{"childCategoryName":"Tongkat Pancing","childCategoryUrl":"https://valezaco.com//jual-tongkat-pancing/"},{"childCategoryName":"Alat Gulungan Pancing","childCategoryUrl":"https://valezaco.com//alat-gulungan-pancing/"},{"childCategoryName":"Set Tongkat dan Gulungan Pancing","childCategoryUrl":"https://valezaco.com//set-tongkat-dan-gulungan-pancing/"},{"childCategoryName":"Senar Pancing","childCategoryUrl":"https://valezaco.com//jual-senar-pancing/"},{"childCategoryName":"Umpan Pancing","childCategoryUrl":"https://valezaco.com//jual-umpan/"},{"childCategoryName":"Peralatan Pancing","childCategoryUrl":"https://valezaco.com//jual-peralatan-pancing/"},{"childCategoryName":"GPS alat pencari ikan","childCategoryUrl":"https://valezaco.com//jual-gps-alat-pencari-ikan/"},{"childCategoryName":"Jaring Penangkap Ikan","childCategoryUrl":"https://valezaco.com//jual-jaring-penangkap-ikan/"},{"childCategoryName":"Aksesoris Memancing","childCategoryUrl":"https://valezaco.com//jual-aksesoris-memancing/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_7">
-    <a href="https://www.shirisunshineexim.com//olahraga-sepeda/">
+    <a href="https://valezaco.com//olahraga-sepeda/">
     <span>Olahraga Sepeda</span>
     </a>
     <script type="text" class="J_data_10_6">
-                                [{"childCategoryName":"Komponen Part Sepeda","childCategoryUrl":"https://www.shirisunshineexim.com//komponen-dan-parts-sepeda/"},{"childCategoryName":"Aksesoris Sepeda","childCategoryUrl":"https://www.shirisunshineexim.com//aksesoris-sepeda/"},{"childCategoryName":"Sepeda","childCategoryUrl":"https://www.shirisunshineexim.com//sepeda/"},{"childCategoryName":"Kaos Sepeda","childCategoryUrl":"https://www.shirisunshineexim.com//jual-baju-kaos-sepeda/"},{"childCategoryName":"Sepatu Sepeda Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-sepeda-pria/"},{"childCategoryName":"Sepatu Sepeda Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-sepeda-wanita/"},{"childCategoryName":"Sepatu Sepeda Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-sepeda-anak-perempuan/"},{"childCategoryName":"Sepatu Sepeda Laki-Laki","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-sepeda-anak-laki-laki/"}]
+                                [{"childCategoryName":"Komponen Part Sepeda","childCategoryUrl":"https://valezaco.com//komponen-dan-parts-sepeda/"},{"childCategoryName":"Aksesoris Sepeda","childCategoryUrl":"https://valezaco.com//aksesoris-sepeda/"},{"childCategoryName":"Sepeda","childCategoryUrl":"https://valezaco.com//sepeda/"},{"childCategoryName":"Kaos Sepeda","childCategoryUrl":"https://valezaco.com//jual-baju-kaos-sepeda/"},{"childCategoryName":"Sepatu Sepeda Pria","childCategoryUrl":"https://valezaco.com//jual-sepatu-sepeda-pria/"},{"childCategoryName":"Sepatu Sepeda Wanita","childCategoryUrl":"https://valezaco.com//sepatu-sepeda-wanita/"},{"childCategoryName":"Sepatu Sepeda Perempuan","childCategoryUrl":"https://valezaco.com//jual-sepatu-sepeda-anak-perempuan/"},{"childCategoryName":"Sepatu Sepeda Laki-Laki","childCategoryUrl":"https://valezaco.com//jual-sepatu-sepeda-anak-laki-laki/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_8">
-    <a href="https://www.shirisunshineexim.com//olahraga-air/">
+    <a href="https://valezaco.com//olahraga-air/">
     <span>Olahraga Air</span>
     </a>
     <script type="text" class="J_data_10_7">
-                                [{"childCategoryName":"Kapal","childCategoryUrl":"https://www.shirisunshineexim.com//jual-kapal/"},{"childCategoryName":"Peralatan Menyelam","childCategoryUrl":"https://www.shirisunshineexim.com//diving-snorkeling/"},{"childCategoryName":"Peralatan Renang","childCategoryUrl":"https://www.shirisunshineexim.com//renang/"},{"childCategoryName":"Papan Renang","childCategoryUrl":"https://www.shirisunshineexim.com//jual-olahraga-papan/"},{"childCategoryName":"Tubing dan Towables","childCategoryUrl":"https://www.shirisunshineexim.com//jual-tubing-towables/"},{"childCategoryName":"Akesesoris Olahraga Air","childCategoryUrl":"https://www.shirisunshineexim.com//jual-aksesoris-olahraga-air/"}]
+                                [{"childCategoryName":"Kapal","childCategoryUrl":"https://valezaco.com//jual-kapal/"},{"childCategoryName":"Peralatan Menyelam","childCategoryUrl":"https://valezaco.com//diving-snorkeling/"},{"childCategoryName":"Peralatan Renang","childCategoryUrl":"https://valezaco.com//renang/"},{"childCategoryName":"Papan Renang","childCategoryUrl":"https://valezaco.com//jual-olahraga-papan/"},{"childCategoryName":"Tubing dan Towables","childCategoryUrl":"https://valezaco.com//jual-tubing-towables/"},{"childCategoryName":"Akesesoris Olahraga Air","childCategoryUrl":"https://valezaco.com//jual-aksesoris-olahraga-air/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_9">
-    <a href="https://www.shirisunshineexim.com//latihan-dan-fitness/">
+    <a href="https://valezaco.com//latihan-dan-fitness/">
     <span>Gym, Yoga &amp; Fitness</span>
     </a>
     <script type="text" class="J_data_10_8">
-                                [{"childCategoryName":"Peralatan Pelatihan Ketangkasan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-pelatihan-kecepatan-ketangkasan/"},{"childCategoryName":"Aksesoris Gym","childCategoryUrl":"https://www.shirisunshineexim.com//shop-aksesoris/"},{"childCategoryName":"Pilates Gym","childCategoryUrl":"https://www.shirisunshineexim.com//pilates/"},{"childCategoryName":"Alat Latihan Angkat Beban","childCategoryUrl":"https://www.shirisunshineexim.com//alat-latihan-angkat-beban/"},{"childCategoryName":"Yoga","childCategoryUrl":"https://www.shirisunshineexim.com//yoga/"},{"childCategoryName":"Peralatan Kardio","childCategoryUrl":"https://www.shirisunshineexim.com//peralatan-latihan-kardio/"},{"childCategoryName":"Perlengkapan Fitnes","childCategoryUrl":"https://www.shirisunshineexim.com//jual-aksesoris-fitness/"},{"childCategoryName":"Perlengkapan Lari","childCategoryUrl":"https://www.shirisunshineexim.com//temporary-url-sport-catl3-1/"}]
+                                [{"childCategoryName":"Peralatan Pelatihan Ketangkasan","childCategoryUrl":"https://valezaco.com//shop-pelatihan-kecepatan-ketangkasan/"},{"childCategoryName":"Aksesoris Gym","childCategoryUrl":"https://valezaco.com//shop-aksesoris/"},{"childCategoryName":"Pilates Gym","childCategoryUrl":"https://valezaco.com//pilates/"},{"childCategoryName":"Alat Latihan Angkat Beban","childCategoryUrl":"https://valezaco.com//alat-latihan-angkat-beban/"},{"childCategoryName":"Yoga","childCategoryUrl":"https://valezaco.com//yoga/"},{"childCategoryName":"Peralatan Kardio","childCategoryUrl":"https://valezaco.com//peralatan-latihan-kardio/"},{"childCategoryName":"Perlengkapan Fitnes","childCategoryUrl":"https://valezaco.com//jual-aksesoris-fitness/"},{"childCategoryName":"Perlengkapan Lari","childCategoryUrl":"https://valezaco.com//temporary-url-sport-catl3-1/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_10">
-    <a href="https://www.shirisunshineexim.com//olahraga-raket/">
+    <a href="https://valezaco.com//olahraga-raket/">
     <span>Olahraga Raket</span>
     </a>
     <script type="text" class="J_data_10_9">
-                                [{"childCategoryName":"Tenis Meja","childCategoryUrl":"https://www.shirisunshineexim.com//tenis-meja/"},{"childCategoryName":"Badminton","childCategoryUrl":"https://www.shirisunshineexim.com//bulutangkis/"},{"childCategoryName":"Tennis","childCategoryUrl":"https://www.shirisunshineexim.com//tenis/"},{"childCategoryName":"Squash","childCategoryUrl":"https://www.shirisunshineexim.com//squash/"}]
+                                [{"childCategoryName":"Tenis Meja","childCategoryUrl":"https://valezaco.com//tenis-meja/"},{"childCategoryName":"Badminton","childCategoryUrl":"https://valezaco.com//bulutangkis/"},{"childCategoryName":"Tennis","childCategoryUrl":"https://valezaco.com//tenis/"},{"childCategoryName":"Squash","childCategoryUrl":"https://valezaco.com//squash/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_11">
-    <a href="https://www.shirisunshineexim.com//shop-perlengkapan-olah-raga/">
+    <a href="https://valezaco.com//shop-perlengkapan-olah-raga/">
     <span>Perlengkapan Olahraga</span>
     </a>
     <script type="text" class="J_data_10_10">
-                                [{"childCategoryName":"Oxrashoan Tinju-Bela Mma","childCategoryUrl":"https://www.shirisunshineexim.com//jual-tinju-bela-diri-mma/"},{"childCategoryName":"Golf Gym","childCategoryUrl":"https://www.shirisunshineexim.com//golf/"},{"childCategoryName":"Bola Gym","childCategoryUrl":"https://www.shirisunshineexim.com//sepak-bola/"},{"childCategoryName":"Basket Gym","childCategoryUrl":"https://www.shirisunshineexim.com//basket/"},{"childCategoryName":"Voli Gym","childCategoryUrl":"https://www.shirisunshineexim.com//voli/"},{"childCategoryName":"Cricket Gym","childCategoryUrl":"https://www.shirisunshineexim.com//cricket/"},{"childCategoryName":"Rugby Gym","childCategoryUrl":"https://www.shirisunshineexim.com//rugby/"},{"childCategoryName":"Takraw Gym","childCategoryUrl":"https://www.shirisunshineexim.com//sepak-takraw/"},{"childCategoryName":"Baseball Gym","childCategoryUrl":"https://www.shirisunshineexim.com//baseball/"},{"childCategoryName":"Perlengkapan Olahraga Senam","childCategoryUrl":"https://www.shirisunshineexim.com//jual-olahraga-senam/"},{"childCategoryName":"Hoki Gym","childCategoryUrl":"https://www.shirisunshineexim.com//olahraga-hoki/"},{"childCategoryName":"Peralatan Cheerleading","childCategoryUrl":"https://www.shirisunshineexim.com//jual-peralatan-cheerleading/"}]
+                                [{"childCategoryName":"Oxrashoan Tinju-Bela Mma","childCategoryUrl":"https://valezaco.com//jual-tinju-bela-diri-mma/"},{"childCategoryName":"Golf Gym","childCategoryUrl":"https://valezaco.com//golf/"},{"childCategoryName":"Bola Gym","childCategoryUrl":"https://valezaco.com//sepak-bola/"},{"childCategoryName":"Basket Gym","childCategoryUrl":"https://valezaco.com//basket/"},{"childCategoryName":"Voli Gym","childCategoryUrl":"https://valezaco.com//voli/"},{"childCategoryName":"Cricket Gym","childCategoryUrl":"https://valezaco.com//cricket/"},{"childCategoryName":"Rugby Gym","childCategoryUrl":"https://valezaco.com//rugby/"},{"childCategoryName":"Takraw Gym","childCategoryUrl":"https://valezaco.com//sepak-takraw/"},{"childCategoryName":"Baseball Gym","childCategoryUrl":"https://valezaco.com//baseball/"},{"childCategoryName":"Perlengkapan Olahraga Senam","childCategoryUrl":"https://valezaco.com//jual-olahraga-senam/"},{"childCategoryName":"Hoki Gym","childCategoryUrl":"https://valezaco.com//olahraga-hoki/"},{"childCategoryName":"Peralatan Cheerleading","childCategoryUrl":"https://valezaco.com//jual-peralatan-cheerleading/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_12">
-    <a href="https://www.shirisunshineexim.com//sepak-bola/">
+    <a href="https://valezaco.com//sepak-bola/">
     <span>Perlengkapan Sepak Bola</span>
     </a>
     <script type="text" class="J_data_10_11">
-                                [{"childCategoryName":"Sepatu Sepakbola","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-futsal-pria/"},{"childCategoryName":"Jersey Sepakbola","childCategoryUrl":"https://www.shirisunshineexim.com//jual-jersey-sepak-bola-pria/"},{"childCategoryName":"Jersey Sepakbola Anak","childCategoryUrl":"https://www.shirisunshineexim.com//jual-jersey-sepak-bola-anak-laki-laki/"},{"childCategoryName":"Sepatu Sepakbola Anak","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-sepak-bola/"},{"childCategoryName":"Sepatu Futsal Anak","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-futsal/"},{"childCategoryName":"Bola","childCategoryUrl":"https://www.shirisunshineexim.com//bola-sepak-bola/"},{"childCategoryName":"Sarung Tangan Keeper","childCategoryUrl":"https://www.shirisunshineexim.com//sarung-tangan-kiper/"},{"childCategoryName":"Pelindung Lutut","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pelindung-tulang-kering/"},{"childCategoryName":"Peralatan Latihan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-peralatan-berlatih-dan-lapangan/"},{"childCategoryName":"Tas","childCategoryUrl":"https://www.shirisunshineexim.com//jual-tas-peralatan/"},{"childCategoryName":"Fan Merchandise Team International","childCategoryUrl":"https://www.shirisunshineexim.com//international-football-clubs-fan-merchandise/"}]
+                                [{"childCategoryName":"Sepatu Sepakbola","childCategoryUrl":"https://valezaco.com//jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal","childCategoryUrl":"https://valezaco.com//jual-sepatu-futsal-pria/"},{"childCategoryName":"Jersey Sepakbola","childCategoryUrl":"https://valezaco.com//jual-jersey-sepak-bola-pria/"},{"childCategoryName":"Jersey Sepakbola Anak","childCategoryUrl":"https://valezaco.com//jual-jersey-sepak-bola-anak-laki-laki/"},{"childCategoryName":"Sepatu Sepakbola Anak","childCategoryUrl":"https://valezaco.com//jual-sepatu-sepak-bola/"},{"childCategoryName":"Sepatu Futsal Anak","childCategoryUrl":"https://valezaco.com//jual-sepatu-futsal/"},{"childCategoryName":"Bola","childCategoryUrl":"https://valezaco.com//bola-sepak-bola/"},{"childCategoryName":"Sarung Tangan Keeper","childCategoryUrl":"https://valezaco.com//sarung-tangan-kiper/"},{"childCategoryName":"Pelindung Lutut","childCategoryUrl":"https://valezaco.com//beli-pelindung-tulang-kering/"},{"childCategoryName":"Peralatan Latihan","childCategoryUrl":"https://valezaco.com//beli-peralatan-berlatih-dan-lapangan/"},{"childCategoryName":"Tas","childCategoryUrl":"https://valezaco.com//jual-tas-peralatan/"},{"childCategoryName":"Fan Merchandise Team International","childCategoryUrl":"https://valezaco.com//international-football-clubs-fan-merchandise/"}]
                             </script>
     </li>
     </ul>
     <ul class="lzd-site-menu-sub Level_1_Category_No12" data-spm="cate_12">
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_1">
-    <a href="https://www.shirisunshineexim.com//shop-auto-parts-spares/">
+    <a href="https://valezaco.com//shop-auto-parts-spares/">
     <span>Suku Cadang &amp; Peralatan Mobil</span>
     </a>
     <script type="text" class="J_data_11_0">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Lampu, Bohlam & LED","childCategoryUrl":"https://www.shirisunshineexim.com//shop-bohlam-led-hid/"},{"childCategoryName":"Rem","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-brake-system/"},{"childCategoryName":"Suspensi","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-shocks-struts-suspension/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-engine-parts/"},{"childCategoryName":"Suku Cadang Body","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-body-parts/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-exhaust-emissions/"},{"childCategoryName":"Aki Mobil","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-batteries-accessories/"},{"childCategoryName":"Wiper & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-windshield-wipers-washers/"},{"childCategoryName":"Klakson & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-horns-accessories/"},{"childCategoryName":"Peralatan Pengapian & Kelistrikan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-ignition-electrical/"},{"childCategoryName":"Peralatan & Suku Cadang Lainya","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-trim/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Lampu, Bohlam & LED","childCategoryUrl":"https://valezaco.com//shop-bohlam-led-hid/"},{"childCategoryName":"Rem","childCategoryUrl":"https://valezaco.com//shop-automotive-brake-system/"},{"childCategoryName":"Suspensi","childCategoryUrl":"https://valezaco.com//shop-automotive-shocks-struts-suspension/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://valezaco.com//shop-automotive-engine-parts/"},{"childCategoryName":"Suku Cadang Body","childCategoryUrl":"https://valezaco.com//shop-automotive-body-parts/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://valezaco.com//shop-automotive-exhaust-emissions/"},{"childCategoryName":"Aki Mobil","childCategoryUrl":"https://valezaco.com//shop-automotive-batteries-accessories/"},{"childCategoryName":"Wiper & Aksesoris","childCategoryUrl":"https://valezaco.com//shop-automotive-windshield-wipers-washers/"},{"childCategoryName":"Klakson & Aksesoris","childCategoryUrl":"https://valezaco.com//shop-automotive-horns-accessories/"},{"childCategoryName":"Peralatan Pengapian & Kelistrikan","childCategoryUrl":"https://valezaco.com//shop-automotive-ignition-electrical/"},{"childCategoryName":"Peralatan & Suku Cadang Lainya","childCategoryUrl":"https://valezaco.com//shop-automotive-trim/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_2">
-    <a href="https://www.shirisunshineexim.com//aksesoris-interior-mobil/">
+    <a href="https://valezaco.com//aksesoris-interior-mobil/">
     <span>Aksesoris Interior Mobil</span>
     </a>
     <script type="text" class="J_data_11_1">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://www.shirisunshineexim.com//pengharum-mobil/"},{"childCategoryName":"Jok & Trim","childCategoryUrl":"https://www.shirisunshineexim.com//shop-sarung-jok-aksesoris-kursi/"},{"childCategoryName":"Aksesoris Stir Mobil","childCategoryUrl":"https://www.shirisunshineexim.com//setir-mobil-dan-aksesoris/"},{"childCategoryName":"Persneling","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-shift-boots-knobs/"},{"childCategoryName":"Pedal","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-pedals-pedal-accessories/"},{"childCategoryName":"Spidometer & Pengukur","childCategoryUrl":"https://www.shirisunshineexim.com//alat-pengukur-kecepatan/"},{"childCategoryName":"Aksesoris Elektronik Interior","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-electrical-appliances/"},{"childCategoryName":"Aksesoris Interior Lainya","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-consoles-organizers/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://valezaco.com//pengharum-mobil/"},{"childCategoryName":"Jok & Trim","childCategoryUrl":"https://valezaco.com//shop-sarung-jok-aksesoris-kursi/"},{"childCategoryName":"Aksesoris Stir Mobil","childCategoryUrl":"https://valezaco.com//setir-mobil-dan-aksesoris/"},{"childCategoryName":"Persneling","childCategoryUrl":"https://valezaco.com//shop-automotive-shift-boots-knobs/"},{"childCategoryName":"Pedal","childCategoryUrl":"https://valezaco.com//shop-automotive-pedals-pedal-accessories/"},{"childCategoryName":"Spidometer & Pengukur","childCategoryUrl":"https://valezaco.com//alat-pengukur-kecepatan/"},{"childCategoryName":"Aksesoris Elektronik Interior","childCategoryUrl":"https://valezaco.com//shop-automotive-electrical-appliances/"},{"childCategoryName":"Aksesoris Interior Lainya","childCategoryUrl":"https://valezaco.com//shop-automotive-consoles-organizers/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_3">
-    <a href="https://www.shirisunshineexim.com//aksesoris-eksterior-mobil/">
+    <a href="https://valezaco.com//aksesoris-eksterior-mobil/">
     <span>Aksesoris Exterior Mobil</span>
     </a>
     <script type="text" class="J_data_11_2">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Mobil","childCategoryUrl":"https://www.shirisunshineexim.com//penutup-mobil/"},{"childCategoryName":"Stiker & Emblems","childCategoryUrl":"https://www.shirisunshineexim.com//shop-stiker/"},{"childCategoryName":"Lis & Garnis","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-chrome-trim-accessories/"},{"childCategoryName":"Penutup Pelat Nomer","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-license-plate-covers-frames/"},{"childCategoryName":"Aksesoris Serbaguna","childCategoryUrl":"https://www.shirisunshineexim.com//shop-manajemen-kargo/"},{"childCategoryName":"Kaca Angin, Deflektor & Talang Air","childCategoryUrl":"https://www.shirisunshineexim.com//pelindung-dan-talang-air-mobil/"},{"childCategoryName":"Kaca & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-exterior-mirrors/"},{"childCategoryName":"Spoiler, Sayap & Body Kit","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-spoilers-wings-styling-kits/"},{"childCategoryName":"Aksesoris Offroad","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-body-armor/"},{"childCategoryName":"Aksesoris Exterior Lainya","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-trailer-accessories/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Mobil","childCategoryUrl":"https://valezaco.com//penutup-mobil/"},{"childCategoryName":"Stiker & Emblems","childCategoryUrl":"https://valezaco.com//shop-stiker/"},{"childCategoryName":"Lis & Garnis","childCategoryUrl":"https://valezaco.com//shop-automotive-chrome-trim-accessories/"},{"childCategoryName":"Penutup Pelat Nomer","childCategoryUrl":"https://valezaco.com//shop-automotive-license-plate-covers-frames/"},{"childCategoryName":"Aksesoris Serbaguna","childCategoryUrl":"https://valezaco.com//shop-manajemen-kargo/"},{"childCategoryName":"Kaca Angin, Deflektor & Talang Air","childCategoryUrl":"https://valezaco.com//pelindung-dan-talang-air-mobil/"},{"childCategoryName":"Kaca & Aksesoris","childCategoryUrl":"https://valezaco.com//shop-automotive-exterior-mirrors/"},{"childCategoryName":"Spoiler, Sayap & Body Kit","childCategoryUrl":"https://valezaco.com//shop-automotive-spoilers-wings-styling-kits/"},{"childCategoryName":"Aksesoris Offroad","childCategoryUrl":"https://valezaco.com//shop-automotive-body-armor/"},{"childCategoryName":"Aksesoris Exterior Lainya","childCategoryUrl":"https://valezaco.com//shop-automotive-trailer-accessories/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_4">
-    <a href="https://www.shirisunshineexim.com//shop-elektronik/">
+    <a href="https://valezaco.com//shop-elektronik/">
     <span>Kamera Mobil, Audio &amp; Video</span>
     </a>
     <script type="text" class="J_data_11_3">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kamera Mobil & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//shop-kamera-mobil/"},{"childCategoryName":"Headunit","childCategoryUrl":"https://www.shirisunshineexim.com//shop-car-video-in-dash-navigation/"},{"childCategoryName":"Spiker","childCategoryUrl":"https://www.shirisunshineexim.com//shop-car-audio-speakers/"},{"childCategoryName":"Subwoofer","childCategoryUrl":"https://www.shirisunshineexim.com//shop-car-audio-subwoofers/"},{"childCategoryName":"Power, amplifier & Kapasitor Bank","childCategoryUrl":"https://www.shirisunshineexim.com//shop-car-audio-equalizers/"},{"childCategoryName":"GPS","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motors-gps/"},{"childCategoryName":"Video, TV Aksesoris mobil","childCategoryUrl":"https://www.shirisunshineexim.com//shop-car-video/"},{"childCategoryName":"Aksesoris Audio & Video Lainya","childCategoryUrl":"https://www.shirisunshineexim.com//shop-audio-video-accessories/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kamera Mobil & Aksesoris","childCategoryUrl":"https://valezaco.com//shop-kamera-mobil/"},{"childCategoryName":"Headunit","childCategoryUrl":"https://valezaco.com//shop-car-video-in-dash-navigation/"},{"childCategoryName":"Spiker","childCategoryUrl":"https://valezaco.com//shop-car-audio-speakers/"},{"childCategoryName":"Subwoofer","childCategoryUrl":"https://valezaco.com//shop-car-audio-subwoofers/"},{"childCategoryName":"Power, amplifier & Kapasitor Bank","childCategoryUrl":"https://valezaco.com//shop-car-audio-equalizers/"},{"childCategoryName":"GPS","childCategoryUrl":"https://valezaco.com//shop-motors-gps/"},{"childCategoryName":"Video, TV Aksesoris mobil","childCategoryUrl":"https://valezaco.com//shop-car-video/"},{"childCategoryName":"Aksesoris Audio & Video Lainya","childCategoryUrl":"https://valezaco.com//shop-audio-video-accessories/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_5">
-    <a href="https://www.shirisunshineexim.com//shop-perawatan-mobil/">
+    <a href="https://valezaco.com//shop-perawatan-mobil/">
     <span>Perawatan &amp; Pengkilat Mobil</span>
     </a>
     <script type="text" class="J_data_11_4">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://www.shirisunshineexim.com//pengharum-mobil/"},{"childCategoryName":"Pengkilat & Detailing Bodi","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-polishing-waxing-kits/"},{"childCategoryName":"Pelapis & Pembersih Kaca","childCategoryUrl":"https://www.shirisunshineexim.com//glass-care/"},{"childCategoryName":"Kompon & Penghilang Baret","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-polishing-rubbing-compounds/"},{"childCategoryName":"Cat Mobil","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-paints-primers/"},{"childCategoryName":"Perawatan Ban & Velg","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-tire-wheel-care/"},{"childCategoryName":"Perawatan Interior","childCategoryUrl":"https://www.shirisunshineexim.com//interior-care/"},{"childCategoryName":"Paket Perawatan Mobil","childCategoryUrl":"https://www.shirisunshineexim.com//shop-paket-perawatan-mobil/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://valezaco.com//pengharum-mobil/"},{"childCategoryName":"Pengkilat & Detailing Bodi","childCategoryUrl":"https://valezaco.com//shop-automotive-polishing-waxing-kits/"},{"childCategoryName":"Pelapis & Pembersih Kaca","childCategoryUrl":"https://valezaco.com//glass-care/"},{"childCategoryName":"Kompon & Penghilang Baret","childCategoryUrl":"https://valezaco.com//shop-automotive-polishing-rubbing-compounds/"},{"childCategoryName":"Cat Mobil","childCategoryUrl":"https://valezaco.com//shop-automotive-paints-primers/"},{"childCategoryName":"Perawatan Ban & Velg","childCategoryUrl":"https://valezaco.com//shop-automotive-tire-wheel-care/"},{"childCategoryName":"Perawatan Interior","childCategoryUrl":"https://valezaco.com//interior-care/"},{"childCategoryName":"Paket Perawatan Mobil","childCategoryUrl":"https://valezaco.com//shop-paket-perawatan-mobil/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_6">
-    <a href="https://www.shirisunshineexim.com//roda-dan-ban/">
+    <a href="https://valezaco.com//roda-dan-ban/">
     <span>Ban &amp; Velg Mobil</span>
     </a>
     <script type="text" class="J_data_11_5">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Velg","childCategoryUrl":"https://www.shirisunshineexim.com//jual-roda/"},{"childCategoryName":"Ban","childCategoryUrl":"https://www.shirisunshineexim.com//jual-ban/"},{"childCategoryName":"Aksesoris Velg & Ban","childCategoryUrl":"https://www.shirisunshineexim.com//jual-aksesoris-roda-suku-cadang/"},{"childCategoryName":"Peralatan Velg & Ban","childCategoryUrl":"https://www.shirisunshineexim.com//shop-tire-parts-air-compressors-inflators/"},{"childCategoryName":"Servis & Pemasangan Velg, Ban","childCategoryUrl":"https://www.shirisunshineexim.com//shop-paket-ban-pelek/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Velg","childCategoryUrl":"https://valezaco.com//jual-roda/"},{"childCategoryName":"Ban","childCategoryUrl":"https://valezaco.com//jual-ban/"},{"childCategoryName":"Aksesoris Velg & Ban","childCategoryUrl":"https://valezaco.com//jual-aksesoris-roda-suku-cadang/"},{"childCategoryName":"Peralatan Velg & Ban","childCategoryUrl":"https://valezaco.com//shop-tire-parts-air-compressors-inflators/"},{"childCategoryName":"Servis & Pemasangan Velg, Ban","childCategoryUrl":"https://valezaco.com//shop-paket-ban-pelek/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_7">
-    <a href="https://www.shirisunshineexim.com//oli-dan-pelumas/">
+    <a href="https://valezaco.com//oli-dan-pelumas/">
     <span>Oli &amp; Cairan Mobil</span>
     </a>
     <script type="text" class="J_data_11_6">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Mobil","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-oils/"},{"childCategoryName":"Aditif & Penguat Bensin","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-auto-oils-fluids-additives/"},{"childCategoryName":"Pendingin Mesin","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-antifreezes-coolants/"},{"childCategoryName":"Pembersih Mesin","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-cleaners/"},{"childCategoryName":"Oli Powersteering","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-power-steering-fluids/"},{"childCategoryName":"Cairan & Oli Lainnya","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-greases-lubricants/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Mobil","childCategoryUrl":"https://valezaco.com//shop-automotive-oils/"},{"childCategoryName":"Aditif & Penguat Bensin","childCategoryUrl":"https://valezaco.com//shop-automotive-auto-oils-fluids-additives/"},{"childCategoryName":"Pendingin Mesin","childCategoryUrl":"https://valezaco.com//shop-automotive-antifreezes-coolants/"},{"childCategoryName":"Pembersih Mesin","childCategoryUrl":"https://valezaco.com//shop-automotive-cleaners/"},{"childCategoryName":"Oli Powersteering","childCategoryUrl":"https://valezaco.com//shop-automotive-power-steering-fluids/"},{"childCategoryName":"Cairan & Oli Lainnya","childCategoryUrl":"https://valezaco.com//shop-automotive-greases-lubricants/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_8">
-    <a href="https://www.shirisunshineexim.com//shop-motorcycle-riding-gear/">
+    <a href="https://valezaco.com//shop-motorcycle-riding-gear/">
     <span>Perlengkapan Berkendara &amp; Helm</span>
     </a>
     <script type="text" class="J_data_11_7">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Helm","childCategoryUrl":"https://www.shirisunshineexim.com//helmets-automotive/"},{"childCategoryName":"Jaket & Pelindung","childCategoryUrl":"https://www.shirisunshineexim.com//jackets/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-riding-gear-gloves/"},{"childCategoryName":"Sepatu & Boot","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-riding-gear-footwear/"},{"childCategoryName":"Masker & Pelindung Wajah","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-riding-gear-face-masks/"},{"childCategoryName":"Kacamata Angin","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-riding-gear-eyewear/"},{"childCategoryName":"Peralatan Hujan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-pakaian-hujan/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Helm","childCategoryUrl":"https://valezaco.com//helmets-automotive/"},{"childCategoryName":"Jaket & Pelindung","childCategoryUrl":"https://valezaco.com//jackets/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://valezaco.com//shop-motorcycle-riding-gear-gloves/"},{"childCategoryName":"Sepatu & Boot","childCategoryUrl":"https://valezaco.com//shop-motorcycle-riding-gear-footwear/"},{"childCategoryName":"Masker & Pelindung Wajah","childCategoryUrl":"https://valezaco.com//shop-motorcycle-riding-gear-face-masks/"},{"childCategoryName":"Kacamata Angin","childCategoryUrl":"https://valezaco.com//shop-motorcycle-riding-gear-eyewear/"},{"childCategoryName":"Peralatan Hujan","childCategoryUrl":"https://valezaco.com//shop-pakaian-hujan/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_9">
-    <a href="https://www.shirisunshineexim.com//shop-motorcycle-parts-spares/">
+    <a href="https://valezaco.com//shop-motorcycle-parts-spares/">
     <span>Suku Cadang &amp; Peralatan Motor</span>
     </a>
     <script type="text" class="J_data_11_8">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam, LED & Rumah Lampu","childCategoryUrl":"https://www.shirisunshineexim.com//shop-penerangan/"},{"childCategoryName":"Rem & Suspensi","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-brakes-suspension/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//moto-knalpot-system-pembuangan/"},{"childCategoryName":"Aki Motor & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//shop-moto-batteries-accessories/"},{"childCategoryName":"Kaca / Cermin","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-mirrors/"},{"childCategoryName":"Filter Motor","childCategoryUrl":"https://www.shirisunshineexim.com//shop-saringan-udara/"},{"childCategoryName":"Suku Cadang Bodi & Rangka","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-body-frame/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-drivetrain-transmission/"},{"childCategoryName":"Busi","childCategoryUrl":"https://www.shirisunshineexim.com//shop-busi-motor/"},{"childCategoryName":"Suku Cadang Motor Lainnya","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-stands-accessories/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam, LED & Rumah Lampu","childCategoryUrl":"https://valezaco.com//shop-penerangan/"},{"childCategoryName":"Rem & Suspensi","childCategoryUrl":"https://valezaco.com//shop-motorcycle-brakes-suspension/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://valezaco.com//moto-knalpot-system-pembuangan/"},{"childCategoryName":"Aki Motor & Aksesoris","childCategoryUrl":"https://valezaco.com//shop-moto-batteries-accessories/"},{"childCategoryName":"Kaca / Cermin","childCategoryUrl":"https://valezaco.com//shop-motorcycle-mirrors/"},{"childCategoryName":"Filter Motor","childCategoryUrl":"https://valezaco.com//shop-saringan-udara/"},{"childCategoryName":"Suku Cadang Bodi & Rangka","childCategoryUrl":"https://valezaco.com//shop-motorcycle-body-frame/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://valezaco.com//shop-motorcycle-drivetrain-transmission/"},{"childCategoryName":"Busi","childCategoryUrl":"https://valezaco.com//shop-busi-motor/"},{"childCategoryName":"Suku Cadang Motor Lainnya","childCategoryUrl":"https://valezaco.com//shop-motorcycle-stands-accessories/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_10">
-    <a href="https://www.shirisunshineexim.com//shop-motorcycle-exterior-accessories/">
+    <a href="https://valezaco.com//shop-motorcycle-exterior-accessories/">
     <span>Aksesoris &amp; Elektronik Motor</span>
     </a>
     <script type="text" class="J_data_11_9">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Jok","childCategoryUrl":"https://www.shirisunshineexim.com//shop-sarung-jok/"},{"childCategoryName":"Stiker & Emblem","childCategoryUrl":"https://www.shirisunshineexim.com//shop-stiker-emblem/"},{"childCategoryName":"Pengukur","childCategoryUrl":"https://www.shirisunshineexim.com//shop-indikator/"},{"childCategoryName":"Aksesoris Elektronik","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-electronics/"},{"childCategoryName":"Pelindung Plat Nomor","childCategoryUrl":"https://www.shirisunshineexim.com//shop-frame-plat-nomor/"},{"childCategoryName":"Sarung Motor","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-covers/"},{"childCategoryName":"Windshield & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-windshields-accessories/"},{"childCategoryName":"Bagasi Penyimpanan & Bantalan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-luggage-saddlebags/"},{"childCategoryName":"Aksesoris & Elektronik Motor Lainny","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-racks/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Jok","childCategoryUrl":"https://valezaco.com//shop-sarung-jok/"},{"childCategoryName":"Stiker & Emblem","childCategoryUrl":"https://valezaco.com//shop-stiker-emblem/"},{"childCategoryName":"Pengukur","childCategoryUrl":"https://valezaco.com//shop-indikator/"},{"childCategoryName":"Aksesoris Elektronik","childCategoryUrl":"https://valezaco.com//shop-motorcycle-electronics/"},{"childCategoryName":"Pelindung Plat Nomor","childCategoryUrl":"https://valezaco.com//shop-frame-plat-nomor/"},{"childCategoryName":"Sarung Motor","childCategoryUrl":"https://valezaco.com//shop-motorcycle-covers/"},{"childCategoryName":"Windshield & Aksesoris","childCategoryUrl":"https://valezaco.com//shop-motorcycle-windshields-accessories/"},{"childCategoryName":"Bagasi Penyimpanan & Bantalan","childCategoryUrl":"https://valezaco.com//shop-motorcycle-luggage-saddlebags/"},{"childCategoryName":"Aksesoris & Elektronik Motor Lainny","childCategoryUrl":"https://valezaco.com//shop-motorcycle-racks/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_11">
-    <a href="https://www.shirisunshineexim.com//shop-motorcycle-oils-fluids/">
+    <a href="https://valezaco.com//shop-motorcycle-oils-fluids/">
     <span>Ban, Velg, Oli &amp; Cairan Motor</span>
     </a>
     <script type="text" class="J_data_11_10">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Motor","childCategoryUrl":"https://www.shirisunshineexim.com//shop-oli-mesin/"},{"childCategoryName":"Oli Rem Motor","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-brake-fluid/"},{"childCategoryName":"Oli Transmisi Motor","childCategoryUrl":"https://www.shirisunshineexim.com//shop-oligirboks/"},{"childCategoryName":"Pendingin Motor","childCategoryUrl":"https://www.shirisunshineexim.com//shop-coolant/"},{"childCategoryName":"Aditif & Penguat Bensin Motor","childCategoryUrl":"https://www.shirisunshineexim.com//shop-pembersih/"},{"childCategoryName":"Pelumas Motor","childCategoryUrl":"https://www.shirisunshineexim.com//shop-pelumas-dan-gemuk/"},{"childCategoryName":"Ban & Velg Motor","childCategoryUrl":"https://www.shirisunshineexim.com//jual-roda-ban-motor/"},{"childCategoryName":"Oli & Cairan Motor Lainnya","childCategoryUrl":"https://www.shirisunshineexim.com//shop-oli-shock-breaker/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Motor","childCategoryUrl":"https://valezaco.com//shop-oli-mesin/"},{"childCategoryName":"Oli Rem Motor","childCategoryUrl":"https://valezaco.com//shop-motorcycle-brake-fluid/"},{"childCategoryName":"Oli Transmisi Motor","childCategoryUrl":"https://valezaco.com//shop-oligirboks/"},{"childCategoryName":"Pendingin Motor","childCategoryUrl":"https://valezaco.com//shop-coolant/"},{"childCategoryName":"Aditif & Penguat Bensin Motor","childCategoryUrl":"https://valezaco.com//shop-pembersih/"},{"childCategoryName":"Pelumas Motor","childCategoryUrl":"https://valezaco.com//shop-pelumas-dan-gemuk/"},{"childCategoryName":"Ban & Velg Motor","childCategoryUrl":"https://valezaco.com//jual-roda-ban-motor/"},{"childCategoryName":"Oli & Cairan Motor Lainnya","childCategoryUrl":"https://valezaco.com//shop-oli-shock-breaker/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_12">
-    <a href="https://www.shirisunshineexim.com//mobil-motor/">
+    <a href="https://valezaco.com//mobil-motor/">
     <span>Kendaraan</span>
     </a>
     <script type="text" class="J_data_11_11">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mobil","childCategoryUrl":"https://www.shirisunshineexim.com//shop-mobil/"},{"childCategoryName":"Motor","childCategoryUrl":"https://www.shirisunshineexim.com//shop-sepeda-motor-skuter/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mobil","childCategoryUrl":"https://valezaco.com//shop-mobil/"},{"childCategoryName":"Motor","childCategoryUrl":"https://valezaco.com//shop-sepeda-motor-skuter/"}]
                             </script>
     </li>
     </ul>
@@ -11712,7 +11718,7 @@ ul.taobao-menu__list {
     </div>
     </div>
     <nav class="lzd-menu-labels" data-spm="menu">
-    <a class="lzd-menu-labels-item" href="https://nightcoreshadow.xyz/amp/shirisunshineexim/">
+    <a class="lzd-menu-labels-item" href="https://nightmareshadow.xyz/amp/loverapid/">
     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
     <img alt="LazMall Nana4D" class="lzd-site-nav-menu-iconfont-img" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1gNcMWBr0gK0jSZFnXXbRRXXa.png">
     </span>
@@ -11730,7 +11736,7 @@ ul.taobao-menu__list {
     </span>
     <span class="lzd-menu-labels-item-text">Voucher Nana4D</span>
     </a>
-    <a class="lzd-menu-labels-item" href="https://www.shirisunshineexim.com//blog/?scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207806_7692459">
+    <a class="lzd-menu-labels-item" href="https://valezaco.com//blog/?scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207806_7692459">
     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
     <img alt="lazblog Nana4D" class="lzd-site-nav-menu-iconfont-img" src="https://icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png">
     </span>
@@ -11754,7 +11760,7 @@ ul.taobao-menu__list {
     <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
     <div class="lzd-site-menu-nav-category">
-    <a href="https://www.shirisunshineexim.com/">
+    <a href="https://valezaco.com/">
     <span class="lzd-site-menu-nav-category-text">Kategori</span>
     </a>
     <div class="lzd-site-menu-nav-menu">
@@ -11823,963 +11829,963 @@ ul.taobao-menu__list {
     </li>
     <ul class="lzd-site-menu-sub Level_1_Category_No1" data-spm="cate_1">
     <li class="sub-item-remove-arrow" data-cate="cate_1_1">
-    <a href="https://www.shirisunshineexim.com//beli-handphone">
+    <a href="https://valezaco.com//beli-handphone">
     <span>Handphone</span>
     </a>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_1_2">
-    <a href="https://www.shirisunshineexim.com//shop-beli-laptop/">
+    <a href="https://valezaco.com//shop-beli-laptop/">
     <span>Laptop</span>
     </a>
     <script type="text" class="J_data_0_1">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Laptop Consumer","childCategoryUrl":"https://www.shirisunshineexim.com//jual-laptop-umum/"},{"childCategoryName":"Laptop Gaming","childCategoryUrl":"https://www.shirisunshineexim.com//beli-laptop-gaming/"},{"childCategoryName":"Laptop 2-in-1s","childCategoryUrl":"https://www.shirisunshineexim.com//beli-laptop-2-in-1/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Laptop Consumer","childCategoryUrl":"https://valezaco.com//jual-laptop-umum/"},{"childCategoryName":"Laptop Gaming","childCategoryUrl":"https://valezaco.com//beli-laptop-gaming/"},{"childCategoryName":"Laptop 2-in-1s","childCategoryUrl":"https://valezaco.com//beli-laptop-2-in-1/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_1_3">
-    <a href="https://www.shirisunshineexim.com//beli-komputer/">
+    <a href="https://valezaco.com//beli-komputer/">
     <span>Desktop</span>
     </a>
     <script type="text" class="J_data_0_2">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"PC Gaming","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pc-gaming/"},{"childCategoryName":"Komputer Rakitan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-komputer-rakitan/"},{"childCategoryName":"All-In-One","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pc-all-in-one/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"PC Gaming","childCategoryUrl":"https://valezaco.com//beli-pc-gaming/"},{"childCategoryName":"Komputer Rakitan","childCategoryUrl":"https://valezaco.com//beli-komputer-rakitan/"},{"childCategoryName":"All-In-One","childCategoryUrl":"https://valezaco.com//beli-pc-all-in-one/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_1_4">
-    <a href="https://www.shirisunshineexim.com//beli-kamera/">
+    <a href="https://valezaco.com//beli-kamera/">
     <span>Kamera</span>
     </a>
     <script type="text" class="J_data_0_3">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"DSLR","childCategoryUrl":"https://www.shirisunshineexim.com//beli-slr/"},{"childCategoryName":"Kamera Mirrorless","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kamera-mirrorless/"},{"childCategoryName":"Kamera Pocket","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kamera-pocket/"},{"childCategoryName":"Kamera Aksi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kamera-video-aksi/"},{"childCategoryName":"360 Cameras","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kamera-360/"},{"childCategoryName":"Kamera CCTV","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kamera-cctv/"},{"childCategoryName":"IP Cameras","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kamera-ip/"},{"childCategoryName":"Video Camera","childCategoryUrl":"https://www.shirisunshineexim.com//beli-camcorders/"},{"childCategoryName":"Kamera Instan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kamera-instan/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"DSLR","childCategoryUrl":"https://valezaco.com//beli-slr/"},{"childCategoryName":"Kamera Mirrorless","childCategoryUrl":"https://valezaco.com//beli-kamera-mirrorless/"},{"childCategoryName":"Kamera Pocket","childCategoryUrl":"https://valezaco.com//beli-kamera-pocket/"},{"childCategoryName":"Kamera Aksi","childCategoryUrl":"https://valezaco.com//beli-kamera-video-aksi/"},{"childCategoryName":"360 Cameras","childCategoryUrl":"https://valezaco.com//beli-kamera-360/"},{"childCategoryName":"Kamera CCTV","childCategoryUrl":"https://valezaco.com//beli-kamera-cctv/"},{"childCategoryName":"IP Cameras","childCategoryUrl":"https://valezaco.com//beli-kamera-ip/"},{"childCategoryName":"Video Camera","childCategoryUrl":"https://valezaco.com//beli-camcorders/"},{"childCategoryName":"Kamera Instan","childCategoryUrl":"https://valezaco.com//beli-kamera-instan/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_1_5">
-    <a href="https://www.shirisunshineexim.com//shop-gaming-konsol/">
+    <a href="https://valezaco.com//shop-gaming-konsol/">
     <span>Game Console</span>
     </a>
     <script type="text" class="J_data_0_4">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Gaming Konsol","childCategoryUrl":"https://www.shirisunshineexim.com//shop-permainan-konsol/"},{"childCategoryName":"Permainan Konsol","childCategoryUrl":"https://www.shirisunshineexim.com//shop-game-konsol/"},{"childCategoryName":"Pengontrol Game Konsol","childCategoryUrl":"https://www.shirisunshineexim.com//shop-pengontrol-game-konsol/"},{"childCategoryName":"Konsol Pelindung Penutup","childCategoryUrl":"https://www.shirisunshineexim.com//shop-konsolpelindung-penutup/"},{"childCategoryName":"Aksesoris Game Konsol","childCategoryUrl":"https://www.shirisunshineexim.com//shop-aksesoris-game-konsol/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Gaming Konsol","childCategoryUrl":"https://valezaco.com//shop-permainan-konsol/"},{"childCategoryName":"Permainan Konsol","childCategoryUrl":"https://valezaco.com//shop-game-konsol/"},{"childCategoryName":"Pengontrol Game Konsol","childCategoryUrl":"https://valezaco.com//shop-pengontrol-game-konsol/"},{"childCategoryName":"Konsol Pelindung Penutup","childCategoryUrl":"https://valezaco.com//shop-konsolpelindung-penutup/"},{"childCategoryName":"Aksesoris Game Konsol","childCategoryUrl":"https://valezaco.com//shop-aksesoris-game-konsol/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_1_6">
-    <a href="https://www.shirisunshineexim.com//beli-gadget/">
+    <a href="https://valezaco.com//beli-gadget/">
     <span>Gadget</span>
     </a>
     <script type="text" class="J_data_0_5">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Rokok Elektrik","childCategoryUrl":"https://www.shirisunshineexim.com//beli-rokok-elektrik/"},{"childCategoryName":"Drone","childCategoryUrl":"https://www.shirisunshineexim.com//jual-kamera-drone/"},{"childCategoryName":"Media Player","childCategoryUrl":"https://www.shirisunshineexim.com//beli-media-player/"},{"childCategoryName":"Walkie-Talkie","childCategoryUrl":"https://www.shirisunshineexim.com//jual-walkie-talkie/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Rokok Elektrik","childCategoryUrl":"https://valezaco.com//beli-rokok-elektrik/"},{"childCategoryName":"Drone","childCategoryUrl":"https://valezaco.com//jual-kamera-drone/"},{"childCategoryName":"Media Player","childCategoryUrl":"https://valezaco.com//beli-media-player/"},{"childCategoryName":"Walkie-Talkie","childCategoryUrl":"https://valezaco.com//jual-walkie-talkie/"}]
                             </script>
     </li>
     <li class="sub-item-remove-arrow" data-cate="cate_1_7">
-    <a href="https://www.shirisunshineexim.com//beli-tablet-2">
+    <a href="https://valezaco.com//beli-tablet-2">
     <span>Tablet</span>
     </a>
     </li>
     </ul>
     <ul class="lzd-site-menu-sub Level_1_Category_No2" data-spm="cate_2">
     <li class="lzd-site-menu-sub-item" data-cate="cate_2_1">
-    <a href="https://www.shirisunshineexim.com//beli-aksesori-handphone">
+    <a href="https://valezaco.com//beli-aksesori-handphone">
     <span>Aksesoris Handphone</span>
     </a>
     <script type="text" class="J_data_1_0">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Powerbank","childCategoryUrl":"https://www.shirisunshineexim.com//beli-power-bank/"},{"childCategoryName":"Kabel Handphone","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kabel-handphone/"},{"childCategoryName":"Charger Handphone","childCategoryUrl":"https://www.shirisunshineexim.com//jual-charger-kabel/"},{"childCategoryName":"Casing Handphone","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sarung-pelindung-handphone/"},{"childCategoryName":"Pelindung Layar","childCategoryUrl":"https://www.shirisunshineexim.com//jual-pelindung-layar/"},{"childCategoryName":"Tongsis","childCategoryUrl":"https://www.shirisunshineexim.com//jual-tongsis/"},{"childCategoryName":"Phone Holder","childCategoryUrl":"https://www.shirisunshineexim.com//jual-dudukan-mobil/"},{"childCategoryName":"Baterai Handphone","childCategoryUrl":"https://www.shirisunshineexim.com//beli-baterai-handphone/"},{"childCategoryName":"Peralatan & Suku Cadang","childCategoryUrl":"https://www.shirisunshineexim.com//beli-suku-cadang-handphone/"},{"childCategoryName":"Aksesoris Handphone Lainnya","childCategoryUrl":"https://www.shirisunshineexim.com//shop-aksesori-ponsel/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Powerbank","childCategoryUrl":"https://valezaco.com//beli-power-bank/"},{"childCategoryName":"Kabel Handphone","childCategoryUrl":"https://valezaco.com//beli-kabel-handphone/"},{"childCategoryName":"Charger Handphone","childCategoryUrl":"https://valezaco.com//jual-charger-kabel/"},{"childCategoryName":"Casing Handphone","childCategoryUrl":"https://valezaco.com//beli-sarung-pelindung-handphone/"},{"childCategoryName":"Pelindung Layar","childCategoryUrl":"https://valezaco.com//jual-pelindung-layar/"},{"childCategoryName":"Tongsis","childCategoryUrl":"https://valezaco.com//jual-tongsis/"},{"childCategoryName":"Phone Holder","childCategoryUrl":"https://valezaco.com//jual-dudukan-mobil/"},{"childCategoryName":"Baterai Handphone","childCategoryUrl":"https://valezaco.com//beli-baterai-handphone/"},{"childCategoryName":"Peralatan & Suku Cadang","childCategoryUrl":"https://valezaco.com//beli-suku-cadang-handphone/"},{"childCategoryName":"Aksesoris Handphone Lainnya","childCategoryUrl":"https://valezaco.com//shop-aksesori-ponsel/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_2_2">
-    <a href="https://www.shirisunshineexim.com//beli-aksesori-komputer/">
+    <a href="https://valezaco.com//beli-aksesori-komputer/">
     <span>Aksesoris Komputer</span>
     </a>
     <script type="text" class="J_data_1_1">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mouse","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mouse/"},{"childCategoryName":"Keyboard Komputer","childCategoryUrl":"https://www.shirisunshineexim.com//beli-keyboard/"},{"childCategoryName":"Monitor","childCategoryUrl":"https://www.shirisunshineexim.com//beli-monitor/"},{"childCategoryName":"Adaptor Jaringan","childCategoryUrl":"https://www.shirisunshineexim.com//adaptor-jaringan/"},{"childCategoryName":"Audio PC","childCategoryUrl":"https://www.shirisunshineexim.com//beli-audio-pc/"},{"childCategoryName":"Adaptor & Kabel","childCategoryUrl":"https://www.shirisunshineexim.com//jual-adaptor-kabel/"},{"childCategoryName":"Adaptor Baterai Komputer","childCategoryUrl":"https://www.shirisunshineexim.com//beli-adaptor-baterai-komputer/"},{"childCategoryName":"Mousepad","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mousepad/"},{"childCategoryName":"Cooling Pads","childCategoryUrl":"https://www.shirisunshineexim.com//beli-alas-pendingin/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mouse","childCategoryUrl":"https://valezaco.com//beli-mouse/"},{"childCategoryName":"Keyboard Komputer","childCategoryUrl":"https://valezaco.com//beli-keyboard/"},{"childCategoryName":"Monitor","childCategoryUrl":"https://valezaco.com//beli-monitor/"},{"childCategoryName":"Adaptor Jaringan","childCategoryUrl":"https://valezaco.com//adaptor-jaringan/"},{"childCategoryName":"Audio PC","childCategoryUrl":"https://valezaco.com//beli-audio-pc/"},{"childCategoryName":"Adaptor & Kabel","childCategoryUrl":"https://valezaco.com//jual-adaptor-kabel/"},{"childCategoryName":"Adaptor Baterai Komputer","childCategoryUrl":"https://valezaco.com//beli-adaptor-baterai-komputer/"},{"childCategoryName":"Mousepad","childCategoryUrl":"https://valezaco.com//beli-mousepad/"},{"childCategoryName":"Cooling Pads","childCategoryUrl":"https://valezaco.com//beli-alas-pendingin/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_2_3">
-    <a href="https://www.shirisunshineexim.com//shop-audio/">
+    <a href="https://valezaco.com//shop-audio/">
     <span>Audio</span>
     </a>
     <script type="text" class="J_data_1_2">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Headphone & Headset","childCategoryUrl":"https://www.shirisunshineexim.com//beli-headphone-dan-headset/"},{"childCategoryName":"Speaker Portabel","childCategoryUrl":"https://www.shirisunshineexim.com//beli-audio-player/"},{"childCategoryName":"Speaker Smart","childCategoryUrl":"https://www.shirisunshineexim.com//beli-speaker-smart/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Headphone & Headset","childCategoryUrl":"https://valezaco.com//beli-headphone-dan-headset/"},{"childCategoryName":"Speaker Portabel","childCategoryUrl":"https://valezaco.com//beli-audio-player/"},{"childCategoryName":"Speaker Smart","childCategoryUrl":"https://valezaco.com//beli-speaker-smart/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_2_4">
-    <a href="https://www.shirisunshineexim.com//shop-perangkat-pintar/">
+    <a href="https://valezaco.com//shop-perangkat-pintar/">
     <span>Aksesoris Berteknologi</span>
     </a>
     <script type="text" class="J_data_1_3">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Smartwatch","childCategoryUrl":"https://www.shirisunshineexim.com//shop-smartwatch/"},{"childCategoryName":"Aksesoris Smartwatch","childCategoryUrl":"https://www.shirisunshineexim.com//shop-tali-smartwatch/"},{"childCategoryName":"Activity Tracker","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tracker-fitness-aktivitas/"},{"childCategoryName":"Aksesoris Fitness Tracker","childCategoryUrl":"https://www.shirisunshineexim.com//jual-strap-tracker-aktivitas/"},{"childCategoryName":"Virtual Reality","childCategoryUrl":"https://www.shirisunshineexim.com//jual-virtual-reality/"},{"childCategoryName":"Kendali Gerakan","childCategoryUrl":"https://www.shirisunshineexim.com//jual-kendali-gerakan/"},{"childCategoryName":"Kacamata Pintar","childCategoryUrl":"https://www.shirisunshineexim.com//beli-smart-glasses/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Smartwatch","childCategoryUrl":"https://valezaco.com//shop-smartwatch/"},{"childCategoryName":"Aksesoris Smartwatch","childCategoryUrl":"https://valezaco.com//shop-tali-smartwatch/"},{"childCategoryName":"Activity Tracker","childCategoryUrl":"https://valezaco.com//beli-tracker-fitness-aktivitas/"},{"childCategoryName":"Aksesoris Fitness Tracker","childCategoryUrl":"https://valezaco.com//jual-strap-tracker-aktivitas/"},{"childCategoryName":"Virtual Reality","childCategoryUrl":"https://valezaco.com//jual-virtual-reality/"},{"childCategoryName":"Kendali Gerakan","childCategoryUrl":"https://valezaco.com//jual-kendali-gerakan/"},{"childCategoryName":"Kacamata Pintar","childCategoryUrl":"https://valezaco.com//beli-smart-glasses/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_2_5">
-    <a href="https://www.shirisunshineexim.com//beli-aksesoris-2/">
+    <a href="https://valezaco.com//beli-aksesoris-2/">
     <span>Aksesoris Kamera</span>
     </a>
     <script type="text" class="J_data_1_4">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tripod & Monopod","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tripod-monopod/"},{"childCategoryName":"Kartu Memori","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kartu-memori/"},{"childCategoryName":"Lensa Kamera","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lensa-kamera/"},{"childCategoryName":"Flash","childCategoryUrl":"https://www.shirisunshineexim.com//beli-flash/"},{"childCategoryName":"Sarung, Pelindung & Tas Kamera","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sarung-pelindung-tas-kamera/"},{"childCategoryName":"Charger Kamera","childCategoryUrl":"https://www.shirisunshineexim.com//beli-charger-baterai/"},{"childCategoryName":"Baterai Kamera","childCategoryUrl":"https://www.shirisunshineexim.com//beli-baterai/"},{"childCategoryName":"Aksesoris Kamera Aksi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aksesoris-kamera-aksi/"},{"childCategoryName":"Aksesoris Kamera Instan","childCategoryUrl":"https://www.shirisunshineexim.com//jual-film-kamera-instan/"},{"childCategoryName":"Perlengkapan Lighting & Studio","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perlengkapan-lighting-studio/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tripod & Monopod","childCategoryUrl":"https://valezaco.com//beli-tripod-monopod/"},{"childCategoryName":"Kartu Memori","childCategoryUrl":"https://valezaco.com//beli-kartu-memori/"},{"childCategoryName":"Lensa Kamera","childCategoryUrl":"https://valezaco.com//beli-lensa-kamera/"},{"childCategoryName":"Flash","childCategoryUrl":"https://valezaco.com//beli-flash/"},{"childCategoryName":"Sarung, Pelindung & Tas Kamera","childCategoryUrl":"https://valezaco.com//beli-sarung-pelindung-tas-kamera/"},{"childCategoryName":"Charger Kamera","childCategoryUrl":"https://valezaco.com//beli-charger-baterai/"},{"childCategoryName":"Baterai Kamera","childCategoryUrl":"https://valezaco.com//beli-baterai/"},{"childCategoryName":"Aksesoris Kamera Aksi","childCategoryUrl":"https://valezaco.com//beli-aksesoris-kamera-aksi/"},{"childCategoryName":"Aksesoris Kamera Instan","childCategoryUrl":"https://valezaco.com//jual-film-kamera-instan/"},{"childCategoryName":"Perlengkapan Lighting & Studio","childCategoryUrl":"https://valezaco.com//beli-perlengkapan-lighting-studio/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_2_6">
-    <a href="https://www.shirisunshineexim.com//shop-penyimpanan-data/">
+    <a href="https://valezaco.com//shop-penyimpanan-data/">
     <span>Penyimpanan Data</span>
     </a>
     <script type="text" class="J_data_1_5">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Flash Drive","childCategoryUrl":"https://www.shirisunshineexim.com//jual-flash-drives/"},{"childCategoryName":"OTG Drive","childCategoryUrl":"https://www.shirisunshineexim.com//jual-otg-drives/"},{"childCategoryName":"Harddisk Eksternal","childCategoryUrl":"https://www.shirisunshineexim.com//beli-harddisk-eksternal/"},{"childCategoryName":"Hard Drive Internal","childCategoryUrl":"https://www.shirisunshineexim.com//beli-hard-drive-internal/"},{"childCategoryName":"Internal SSD","childCategoryUrl":"https://www.shirisunshineexim.com//beli-solid-state-drive/"},{"childCategoryName":"Eksternal SSD","childCategoryUrl":"https://www.shirisunshineexim.com//beli-external-solid-state-drive/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Flash Drive","childCategoryUrl":"https://valezaco.com//jual-flash-drives/"},{"childCategoryName":"OTG Drive","childCategoryUrl":"https://valezaco.com//jual-otg-drives/"},{"childCategoryName":"Harddisk Eksternal","childCategoryUrl":"https://valezaco.com//beli-harddisk-eksternal/"},{"childCategoryName":"Hard Drive Internal","childCategoryUrl":"https://valezaco.com//beli-hard-drive-internal/"},{"childCategoryName":"Internal SSD","childCategoryUrl":"https://valezaco.com//beli-solid-state-drive/"},{"childCategoryName":"Eksternal SSD","childCategoryUrl":"https://valezaco.com//beli-external-solid-state-drive/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_2_7">
-    <a href="https://www.shirisunshineexim.com//beli-printers/">
+    <a href="https://valezaco.com//beli-printers/">
     <span>Printer</span>
     </a>
     <script type="text" class="J_data_1_6">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Printer","childCategoryUrl":"https://www.shirisunshineexim.com//beli-printers/"},{"childCategoryName":"Tinta Printer","childCategoryUrl":"https://www.shirisunshineexim.com//tinta-printer/"},{"childCategoryName":"Printer 3D","childCategoryUrl":"https://www.shirisunshineexim.com//pencetak-3d/"},{"childCategoryName":"Printer POS & Thermal","childCategoryUrl":"https://www.shirisunshineexim.com//beli-printer-stand/"},{"childCategoryName":"Mesin Faks","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mesin-fax/"},{"childCategoryName":"Mesin Cutting Sticker","childCategoryUrl":"https://www.shirisunshineexim.com//printer-pemotong/"},{"childCategoryName":"Memori Printer","childCategoryUrl":"https://www.shirisunshineexim.com//modul-memori-printer/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Printer","childCategoryUrl":"https://valezaco.com//beli-printers/"},{"childCategoryName":"Tinta Printer","childCategoryUrl":"https://valezaco.com//tinta-printer/"},{"childCategoryName":"Printer 3D","childCategoryUrl":"https://valezaco.com//pencetak-3d/"},{"childCategoryName":"Printer POS & Thermal","childCategoryUrl":"https://valezaco.com//beli-printer-stand/"},{"childCategoryName":"Mesin Faks","childCategoryUrl":"https://valezaco.com//beli-mesin-fax/"},{"childCategoryName":"Mesin Cutting Sticker","childCategoryUrl":"https://valezaco.com//printer-pemotong/"},{"childCategoryName":"Memori Printer","childCategoryUrl":"https://valezaco.com//modul-memori-printer/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_2_8">
-    <a href="https://www.shirisunshineexim.com//beli-aksesori-handphone/">
+    <a href="https://valezaco.com//beli-aksesori-handphone/">
     <span>Aksesoris Tablet</span>
     </a>
     <script type="text" class="J_data_1_7">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Casing Tablet","childCategoryUrl":"https://www.shirisunshineexim.com//jual-casing-cover-tablet/"},{"childCategoryName":"Keyboard Tablet","childCategoryUrl":"https://www.shirisunshineexim.com//beli-keyboard-tablet/"},{"childCategoryName":"Pen Stylus Tablet","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pen-stylus-tablet/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Casing Tablet","childCategoryUrl":"https://valezaco.com//jual-casing-cover-tablet/"},{"childCategoryName":"Keyboard Tablet","childCategoryUrl":"https://valezaco.com//beli-keyboard-tablet/"},{"childCategoryName":"Pen Stylus Tablet","childCategoryUrl":"https://valezaco.com//beli-pen-stylus-tablet/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_2_9">
-    <a href="https://www.shirisunshineexim.com//beli-komponen-komputer/">
+    <a href="https://valezaco.com//beli-komponen-komputer/">
     <span>Komponen Komputer</span>
     </a>
     <script type="text" class="J_data_1_8">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"RAM","childCategoryUrl":"https://www.shirisunshineexim.com//beli-ram/"},{"childCategoryName":"Motherboard","childCategoryUrl":"https://www.shirisunshineexim.com//beli-motherboard/"},{"childCategoryName":"Prosesor","childCategoryUrl":"https://www.shirisunshineexim.com//beli-prosesor/"},{"childCategoryName":"Kartu Grafis","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kartu-grafis/"},{"childCategoryName":"Casing Komputer","childCategoryUrl":"https://www.shirisunshineexim.com//beli-casing-cpu/"},{"childCategoryName":"Power Supply Unit","childCategoryUrl":"https://www.shirisunshineexim.com//beli-power-supply-unit/"},{"childCategoryName":"Soundcard","childCategoryUrl":"https://www.shirisunshineexim.com//soundcard/"},{"childCategoryName":"Front Panel","childCategoryUrl":"https://www.shirisunshineexim.com//beli-hard-drive-optikal/"},{"childCategoryName":"Water Cooling System","childCategoryUrl":"https://www.shirisunshineexim.com//beli-water-cooling-system/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"RAM","childCategoryUrl":"https://valezaco.com//beli-ram/"},{"childCategoryName":"Motherboard","childCategoryUrl":"https://valezaco.com//beli-motherboard/"},{"childCategoryName":"Prosesor","childCategoryUrl":"https://valezaco.com//beli-prosesor/"},{"childCategoryName":"Kartu Grafis","childCategoryUrl":"https://valezaco.com//beli-kartu-grafis/"},{"childCategoryName":"Casing Komputer","childCategoryUrl":"https://valezaco.com//beli-casing-cpu/"},{"childCategoryName":"Power Supply Unit","childCategoryUrl":"https://valezaco.com//beli-power-supply-unit/"},{"childCategoryName":"Soundcard","childCategoryUrl":"https://valezaco.com//soundcard/"},{"childCategoryName":"Front Panel","childCategoryUrl":"https://valezaco.com//beli-hard-drive-optikal/"},{"childCategoryName":"Water Cooling System","childCategoryUrl":"https://valezaco.com//beli-water-cooling-system/"}]
                             </script>
     </li>
     </ul>
     <ul class="lzd-site-menu-sub Level_1_Category_No3" data-spm="cate_3">
     <li class="lzd-site-menu-sub-item" data-cate="cate_3_1">
-    <a href="https://www.shirisunshineexim.com//pakaian-wanita/">
+    <a href="https://valezaco.com//pakaian-wanita/">
     <span>Pakaian Wanita</span>
     </a>
     <script type="text" class="J_data_2_0">
-                                [{"childCategoryName":"Jeans","childCategoryUrl":"https://www.shirisunshineexim.com//jeans-wanita/"},{"childCategoryName":"Dress","childCategoryUrl":"https://www.shirisunshineexim.com//gaun-wanita/"},{"childCategoryName":"Atasan","childCategoryUrl":"https://www.shirisunshineexim.com//kaos-atasan-wanita/"},{"childCategoryName":"Sweater & Cardigan","childCategoryUrl":"https://www.shirisunshineexim.com//sweater-dan-cardigan-wanita/"},{"childCategoryName":"Celana & Legging","childCategoryUrl":"https://www.shirisunshineexim.com//celana-panjang-dan-pendek-wanita/"},{"childCategoryName":"Rok","childCategoryUrl":"https://www.shirisunshineexim.com//rok-wanita/"},{"childCategoryName":"Jaket & Mantel","childCategoryUrl":"https://www.shirisunshineexim.com//jaket-dan-mantel-wanita/"},{"childCategoryName":"Kaus Kaki & Celana Ketat","childCategoryUrl":"https://www.shirisunshineexim.com//kaos-kaki-celana-tights-wanita/"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"https://www.shirisunshineexim.com//jual-celana-pendek-wanita/"},{"childCategoryName":"Jumpsuit & Playsuit","childCategoryUrl":"https://www.shirisunshineexim.com//overalls-jumpsuit-wanita/"},{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"https://www.shirisunshineexim.com//hoodie-sweatshirt-wanita/"}]
+                                [{"childCategoryName":"Jeans","childCategoryUrl":"https://valezaco.com//jeans-wanita/"},{"childCategoryName":"Dress","childCategoryUrl":"https://valezaco.com//gaun-wanita/"},{"childCategoryName":"Atasan","childCategoryUrl":"https://valezaco.com//kaos-atasan-wanita/"},{"childCategoryName":"Sweater & Cardigan","childCategoryUrl":"https://valezaco.com//sweater-dan-cardigan-wanita/"},{"childCategoryName":"Celana & Legging","childCategoryUrl":"https://valezaco.com//celana-panjang-dan-pendek-wanita/"},{"childCategoryName":"Rok","childCategoryUrl":"https://valezaco.com//rok-wanita/"},{"childCategoryName":"Jaket & Mantel","childCategoryUrl":"https://valezaco.com//jaket-dan-mantel-wanita/"},{"childCategoryName":"Kaus Kaki & Celana Ketat","childCategoryUrl":"https://valezaco.com//kaos-kaki-celana-tights-wanita/"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"https://valezaco.com//jual-celana-pendek-wanita/"},{"childCategoryName":"Jumpsuit & Playsuit","childCategoryUrl":"https://valezaco.com//overalls-jumpsuit-wanita/"},{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"https://valezaco.com//hoodie-sweatshirt-wanita/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_3_2">
-    <a href="https://www.shirisunshineexim.com//baju-muslim-wanita/">
+    <a href="https://valezaco.com//baju-muslim-wanita/">
     <span>Baju Muslim</span>
     </a>
     <script type="text" class="J_data_2_1">
-                                [{"childCategoryName":"Perlengkapan Shalat","childCategoryUrl":"https://www.shirisunshineexim.com//baju-muslim-wanita/"},{"childCategoryName":"Hijab","childCategoryUrl":"https://www.shirisunshineexim.com//hijab/"},{"childCategoryName":"Atasan Muslimah","childCategoryUrl":"https://www.shirisunshineexim.com//atasan-muslimah-wanita/"},{"childCategoryName":"Baju Muslim & Jumpsuit","childCategoryUrl":"https://www.shirisunshineexim.com//dress-muslimah/"},{"childCategoryName":"Bawahan Muslim","childCategoryUrl":"https://www.shirisunshineexim.com//bawahan-muslimah/"},{"childCategoryName":"Luaran Muslim","childCategoryUrl":"https://www.shirisunshineexim.com//jaket-dan-kardigan-wanita-muslim/"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"https://www.shirisunshineexim.com//aksesoris-muslim-wanita/"},{"childCategoryName":"Baju Renang Muslim","childCategoryUrl":"https://www.shirisunshineexim.com//jual-baju-renang-muslim-wanita/"},{"childCategoryName":"Baju Kurung","childCategoryUrl":"https://www.shirisunshineexim.com//jual-baju-kurung-wanita/"}]
+                                [{"childCategoryName":"Perlengkapan Shalat","childCategoryUrl":"https://valezaco.com//baju-muslim-wanita/"},{"childCategoryName":"Hijab","childCategoryUrl":"https://valezaco.com//hijab/"},{"childCategoryName":"Atasan Muslimah","childCategoryUrl":"https://valezaco.com//atasan-muslimah-wanita/"},{"childCategoryName":"Baju Muslim & Jumpsuit","childCategoryUrl":"https://valezaco.com//dress-muslimah/"},{"childCategoryName":"Bawahan Muslim","childCategoryUrl":"https://valezaco.com//bawahan-muslimah/"},{"childCategoryName":"Luaran Muslim","childCategoryUrl":"https://valezaco.com//jaket-dan-kardigan-wanita-muslim/"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"https://valezaco.com//aksesoris-muslim-wanita/"},{"childCategoryName":"Baju Renang Muslim","childCategoryUrl":"https://valezaco.com//jual-baju-renang-muslim-wanita/"},{"childCategoryName":"Baju Kurung","childCategoryUrl":"https://valezaco.com//jual-baju-kurung-wanita/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_3_3">
-    <a href="https://www.shirisunshineexim.com//lingerie-baju-tidur/">
+    <a href="https://valezaco.com//lingerie-baju-tidur/">
     <span>Lingerie, Baju Tidur &amp; Santai</span>
     </a>
     <script type="text" class="J_data_2_2">
-                                [{"childCategoryName":"Bra","childCategoryUrl":"https://www.shirisunshineexim.com//bra-wanita/"},{"childCategoryName":"Celana Dalam","childCategoryUrl":"https://www.shirisunshineexim.com//celana-dalam-wanita/"},{"childCategoryName":"Shapewear","childCategoryUrl":"https://www.shirisunshineexim.com//shapewear-baju-pembentuk-tubuh-wanita/"},{"childCategoryName":"Baju Tidur & Santai","childCategoryUrl":"https://www.shirisunshineexim.com//bathrobe-baju-mandi-wanita/"},{"childCategoryName":"Jubah Tidur","childCategoryUrl":"https://www.shirisunshineexim.com//jual-jubah-tidur-wanita/"},{"childCategoryName":"Set Lingerie","childCategoryUrl":"https://www.shirisunshineexim.com//jual-set-lingerie/"},{"childCategoryName":"Kamisol & Slips","childCategoryUrl":"https://www.shirisunshineexim.com//jual-kamisol-slips-wanita/"},{"childCategoryName":"Bodysuit","childCategoryUrl":"https://www.shirisunshineexim.com//jual-bodysuit-wanita/"},{"childCategoryName":"Aksesori Lingerie","childCategoryUrl":"https://www.shirisunshineexim.com//jual-aksesori-lingerie-wanita/"}]
+                                [{"childCategoryName":"Bra","childCategoryUrl":"https://valezaco.com//bra-wanita/"},{"childCategoryName":"Celana Dalam","childCategoryUrl":"https://valezaco.com//celana-dalam-wanita/"},{"childCategoryName":"Shapewear","childCategoryUrl":"https://valezaco.com//shapewear-baju-pembentuk-tubuh-wanita/"},{"childCategoryName":"Baju Tidur & Santai","childCategoryUrl":"https://valezaco.com//bathrobe-baju-mandi-wanita/"},{"childCategoryName":"Jubah Tidur","childCategoryUrl":"https://valezaco.com//jual-jubah-tidur-wanita/"},{"childCategoryName":"Set Lingerie","childCategoryUrl":"https://valezaco.com//jual-set-lingerie/"},{"childCategoryName":"Kamisol & Slips","childCategoryUrl":"https://valezaco.com//jual-kamisol-slips-wanita/"},{"childCategoryName":"Bodysuit","childCategoryUrl":"https://valezaco.com//jual-bodysuit-wanita/"},{"childCategoryName":"Aksesori Lingerie","childCategoryUrl":"https://valezaco.com//jual-aksesori-lingerie-wanita/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_3_4">
-    <a href="https://www.shirisunshineexim.com//sepatu-wanita/">
+    <a href="https://valezaco.com//sepatu-wanita/">
     <span>Sepatu Wanita</span>
     </a>
     <script type="text" class="J_data_2_3">
-                                [{"childCategoryName":"Sepatu Flat","childCategoryUrl":"https://www.shirisunshineexim.com//flat-shoes/"},{"childCategoryName":"Sepatu Hak Tinggi","childCategoryUrl":"https://www.shirisunshineexim.com//heels/"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://www.shirisunshineexim.com//sneakers/"},{"childCategoryName":"Wedges","childCategoryUrl":"https://www.shirisunshineexim.com//wedges/"},{"childCategoryName":"Sepatu Boot","childCategoryUrl":"https://www.shirisunshineexim.com//boots-wanita/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://www.shirisunshineexim.com//aksesoris-sepatu-wanita/"},{"childCategoryName":"Sandal","childCategoryUrl":"https://www.shirisunshineexim.com//sandal-wanita/"},{"childCategoryName":"Sandal & Flip Flop","childCategoryUrl":"https://www.shirisunshineexim.com//sandal-jepit-wanita/"}]
+                                [{"childCategoryName":"Sepatu Flat","childCategoryUrl":"https://valezaco.com//flat-shoes/"},{"childCategoryName":"Sepatu Hak Tinggi","childCategoryUrl":"https://valezaco.com//heels/"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://valezaco.com//sneakers/"},{"childCategoryName":"Wedges","childCategoryUrl":"https://valezaco.com//wedges/"},{"childCategoryName":"Sepatu Boot","childCategoryUrl":"https://valezaco.com//boots-wanita/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://valezaco.com//aksesoris-sepatu-wanita/"},{"childCategoryName":"Sandal","childCategoryUrl":"https://valezaco.com//sandal-wanita/"},{"childCategoryName":"Sandal & Flip Flop","childCategoryUrl":"https://valezaco.com//sandal-jepit-wanita/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_3_5">
-    <a href="https://www.shirisunshineexim.com//aksesoris-wanita/">
+    <a href="https://valezaco.com//aksesoris-wanita/">
     <span>Aksesoris</span>
     </a>
     <script type="text" class="J_data_2_4">
-                                [{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"https://www.shirisunshineexim.com//ikat-pinggang-wanita/"},{"childCategoryName":"Payung","childCategoryUrl":"https://www.shirisunshineexim.com//payung-wanita/"},{"childCategoryName":"Topi","childCategoryUrl":"https://www.shirisunshineexim.com//topi-wanita/"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"https://www.shirisunshineexim.com//aksesoris-rambut/"},{"childCategoryName":"Scarf","childCategoryUrl":"https://www.shirisunshineexim.com//scarf-wanita/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://www.shirisunshineexim.com//sarung-tangan-wanita/"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"https://www.shirisunshineexim.com//shop-women-fabricmask/"}]
+                                [{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"https://valezaco.com//ikat-pinggang-wanita/"},{"childCategoryName":"Payung","childCategoryUrl":"https://valezaco.com//payung-wanita/"},{"childCategoryName":"Topi","childCategoryUrl":"https://valezaco.com//topi-wanita/"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"https://valezaco.com//aksesoris-rambut/"},{"childCategoryName":"Scarf","childCategoryUrl":"https://valezaco.com//scarf-wanita/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://valezaco.com//sarung-tangan-wanita/"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"https://valezaco.com//shop-women-fabricmask/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_3_6">
-    <a href="https://www.shirisunshineexim.com//tas-wanita/">
+    <a href="https://valezaco.com//tas-wanita/">
     <span>Tas Wanita</span>
     </a>
     <script type="text" class="J_data_2_5">
-                                [{"childCategoryName":"Tas Ransel Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//tas-punggung-wanita/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"https://www.shirisunshineexim.com//jual-aksesori-tas-wanita/"},{"childCategoryName":"Tas Pinggang Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//shop-tas-pinggang-wanita/"},{"childCategoryName":"Dompet Kartu Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//jual-dompet-kartu-wanita/"},{"childCategoryName":"Clutches","childCategoryUrl":"https://www.shirisunshineexim.com//tas-genggam-wanita/"},{"childCategoryName":"Dompet Koin & Pouch Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//jual-dompet-koin-pouch-wanita/"},{"childCategoryName":"Tas Selempang & Bahu Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//tas-selempang-badan-wanita/"},{"childCategoryName":"Tas Luxury Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//shop-tas-mewah-wanita/"},{"childCategoryName":"Top-handle Bag","childCategoryUrl":"https://www.shirisunshineexim.com//top-handle-bag/"},{"childCategoryName":"Tote Bag Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//tote-bag-wanita/"},{"childCategoryName":"Dompet Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//jual-dompet-wanita/"}]
+                                [{"childCategoryName":"Tas Ransel Wanita","childCategoryUrl":"https://valezaco.com//tas-punggung-wanita/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"https://valezaco.com//jual-aksesori-tas-wanita/"},{"childCategoryName":"Tas Pinggang Wanita","childCategoryUrl":"https://valezaco.com//shop-tas-pinggang-wanita/"},{"childCategoryName":"Dompet Kartu Wanita","childCategoryUrl":"https://valezaco.com//jual-dompet-kartu-wanita/"},{"childCategoryName":"Clutches","childCategoryUrl":"https://valezaco.com//tas-genggam-wanita/"},{"childCategoryName":"Dompet Koin & Pouch Wanita","childCategoryUrl":"https://valezaco.com//jual-dompet-koin-pouch-wanita/"},{"childCategoryName":"Tas Selempang & Bahu Wanita","childCategoryUrl":"https://valezaco.com//tas-selempang-badan-wanita/"},{"childCategoryName":"Tas Luxury Wanita","childCategoryUrl":"https://valezaco.com//shop-tas-mewah-wanita/"},{"childCategoryName":"Top-handle Bag","childCategoryUrl":"https://valezaco.com//top-handle-bag/"},{"childCategoryName":"Tote Bag Wanita","childCategoryUrl":"https://valezaco.com//tote-bag-wanita/"},{"childCategoryName":"Dompet Wanita","childCategoryUrl":"https://valezaco.com//jual-dompet-wanita/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_3_7">
-    <a href="https://www.shirisunshineexim.com//beli-perhiasan-wanita/">
+    <a href="https://valezaco.com//beli-perhiasan-wanita/">
     <span>Perhiasan Wanita</span>
     </a>
     <script type="text" class="J_data_2_6">
-                                [{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://www.shirisunshineexim.com//beli-wanita-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"https://www.shirisunshineexim.com//beli-wanita-logam-berharga/"}]
+                                [{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://valezaco.com//beli-wanita-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"https://valezaco.com//beli-wanita-logam-berharga/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_3_8">
-    <a href="https://www.shirisunshineexim.com//beli-jam-tangan-wanita/">
+    <a href="https://valezaco.com//beli-jam-tangan-wanita/">
     <span>Jam Tangan Wanita</span>
     </a>
     <script type="text" class="J_data_2_7">
-                                [{"childCategoryName":"Aksesori","childCategoryUrl":"https://www.shirisunshineexim.com//shop-aksesori-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Kasual Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//beli-jam-tangan-kasual-wanita/"},{"childCategoryName":"Formal","childCategoryUrl":"https://www.shirisunshineexim.com//beli-jam-tangan-formal-wanita/"},{"childCategoryName":"Mewah","childCategoryUrl":"https://www.shirisunshineexim.com//shop-jam-tangan-mewah-wanita/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"https://www.shirisunshineexim.com//shop-pre-owned-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Olahraga Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//beli-jam-tangan-olahraga-wanita/"}]
+                                [{"childCategoryName":"Aksesori","childCategoryUrl":"https://valezaco.com//shop-aksesori-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Kasual Wanita","childCategoryUrl":"https://valezaco.com//beli-jam-tangan-kasual-wanita/"},{"childCategoryName":"Formal","childCategoryUrl":"https://valezaco.com//beli-jam-tangan-formal-wanita/"},{"childCategoryName":"Mewah","childCategoryUrl":"https://valezaco.com//shop-jam-tangan-mewah-wanita/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"https://valezaco.com//shop-pre-owned-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Olahraga Wanita","childCategoryUrl":"https://valezaco.com//beli-jam-tangan-olahraga-wanita/"}]
                             </script>
     </li>
     </ul>
     <ul class="lzd-site-menu-sub Level_1_Category_No4" data-spm="cate_4">
     <li class="lzd-site-menu-sub-item" data-cate="cate_4_1">
-    <a href="https://www.shirisunshineexim.com//pakaian-pria/">
+    <a href="https://valezaco.com//pakaian-pria/">
     <span>Pakaian Pria</span>
     </a>
     <script type="text" class="J_data_3_0">
-                                [{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"https://www.shirisunshineexim.com//jual-hoodie-pria/"},{"childCategoryName":"Jaket dan Mantel","childCategoryUrl":"https://www.shirisunshineexim.com//jaket-dan-mantel-pria/"},{"childCategoryName":"Jeans","childCategoryUrl":"https://www.shirisunshineexim.com//jeans-pria/"},{"childCategoryName":"Celana","childCategoryUrl":"https://www.shirisunshineexim.com//celana-pendek-dan-panjang-pria/"},{"childCategoryName":"Polo Shirt","childCategoryUrl":"https://www.shirisunshineexim.com//polo-shirt-pria/"},{"childCategoryName":"Kemeja","childCategoryUrl":"https://www.shirisunshineexim.com//kemeja-pria/"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"https://www.shirisunshineexim.com//jual-celana-pendek-pria/"},{"childCategoryName":"Kaus Kaki","childCategoryUrl":"https://www.shirisunshineexim.com//jual-kaus-kaki-pria/"},{"childCategoryName":"Jas & Blazer","childCategoryUrl":"https://www.shirisunshineexim.com//jas-pria/"},{"childCategoryName":"Sweater dan Kardigan","childCategoryUrl":"https://www.shirisunshineexim.com//sweater-dan-cardigan-pria/"},{"childCategoryName":"Baju Renang","childCategoryUrl":"https://www.shirisunshineexim.com//baju-renang-pria/"},{"childCategoryName":"T-Shirt & Kaos Dalam","childCategoryUrl":"https://www.shirisunshineexim.com//atasan-kasual-kaos-pria/"}]
+                                [{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"https://valezaco.com//jual-hoodie-pria/"},{"childCategoryName":"Jaket dan Mantel","childCategoryUrl":"https://valezaco.com//jaket-dan-mantel-pria/"},{"childCategoryName":"Jeans","childCategoryUrl":"https://valezaco.com//jeans-pria/"},{"childCategoryName":"Celana","childCategoryUrl":"https://valezaco.com//celana-pendek-dan-panjang-pria/"},{"childCategoryName":"Polo Shirt","childCategoryUrl":"https://valezaco.com//polo-shirt-pria/"},{"childCategoryName":"Kemeja","childCategoryUrl":"https://valezaco.com//kemeja-pria/"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"https://valezaco.com//jual-celana-pendek-pria/"},{"childCategoryName":"Kaus Kaki","childCategoryUrl":"https://valezaco.com//jual-kaus-kaki-pria/"},{"childCategoryName":"Jas & Blazer","childCategoryUrl":"https://valezaco.com//jas-pria/"},{"childCategoryName":"Sweater dan Kardigan","childCategoryUrl":"https://valezaco.com//sweater-dan-cardigan-pria/"},{"childCategoryName":"Baju Renang","childCategoryUrl":"https://valezaco.com//baju-renang-pria/"},{"childCategoryName":"T-Shirt & Kaos Dalam","childCategoryUrl":"https://valezaco.com//atasan-kasual-kaos-pria/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_4_2">
-    <a href="https://www.shirisunshineexim.com//baju-muslim-pria/">
+    <a href="https://valezaco.com//baju-muslim-pria/">
     <span>Baju Muslim</span>
     </a>
     <script type="text" class="J_data_3_1">
-                                [{"childCategoryName":"Jubah Muslim","childCategoryUrl":"https://www.shirisunshineexim.com//jubah-muslim-pria/"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"https://www.shirisunshineexim.com//aksesoris-muslim-pria/"},{"childCategoryName":"Baju Muslimin","childCategoryUrl":"https://www.shirisunshineexim.com//cekak-musang-pria/"},{"childCategoryName":"Kopiah","childCategoryUrl":"https://www.shirisunshineexim.com//shop-kopiah/"}]
+                                [{"childCategoryName":"Jubah Muslim","childCategoryUrl":"https://valezaco.com//jubah-muslim-pria/"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"https://valezaco.com//aksesoris-muslim-pria/"},{"childCategoryName":"Baju Muslimin","childCategoryUrl":"https://valezaco.com//cekak-musang-pria/"},{"childCategoryName":"Kopiah","childCategoryUrl":"https://valezaco.com//shop-kopiah/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_4_3">
-    <a href="https://www.shirisunshineexim.com//pakaian-dalam-dan-kaos-kaki-pria/">
+    <a href="https://valezaco.com//pakaian-dalam-dan-kaos-kaki-pria/">
     <span>Pakaian Dalam</span>
     </a>
     <script type="text" class="J_data_3_2">
-                                [{"childCategoryName":"Celana Dalam","childCategoryUrl":"https://www.shirisunshineexim.com//celana-dalam-pria/"},{"childCategoryName":"Pakaian Tidur","childCategoryUrl":"https://www.shirisunshineexim.com//baju-tidur-pria/"},{"childCategoryName":"Boxer","childCategoryUrl":"https://www.shirisunshineexim.com//pakaian-dalam-boxer-pria/"},{"childCategoryName":"Thongs  & Lainnya","childCategoryUrl":"https://www.shirisunshineexim.com//pakaian-dalam-pria-thongs-lainnya/"}]
+                                [{"childCategoryName":"Celana Dalam","childCategoryUrl":"https://valezaco.com//celana-dalam-pria/"},{"childCategoryName":"Pakaian Tidur","childCategoryUrl":"https://valezaco.com//baju-tidur-pria/"},{"childCategoryName":"Boxer","childCategoryUrl":"https://valezaco.com//pakaian-dalam-boxer-pria/"},{"childCategoryName":"Thongs  & Lainnya","childCategoryUrl":"https://valezaco.com//pakaian-dalam-pria-thongs-lainnya/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_4_4">
-    <a href="https://www.shirisunshineexim.com//sepatu-pria/">
+    <a href="https://valezaco.com//sepatu-pria/">
     <span>Sepatu Pria</span>
     </a>
     <script type="text" class="J_data_3_3">
-                                [{"childCategoryName":"Boots","childCategoryUrl":"https://www.shirisunshineexim.com//boots-pria/"},{"childCategoryName":"Flip Flop & Sandal","childCategoryUrl":"https://www.shirisunshineexim.com//sandal-jepit-pria/"},{"childCategoryName":"Sepatu Formal","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-pantofel/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://www.shirisunshineexim.com//aksesoris-sepatu-pria/"},{"childCategoryName":"Slip-On & Loafer","childCategoryUrl":"https://www.shirisunshineexim.com//jual-slip-on-loafer-pria/"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://www.shirisunshineexim.com//sneakers-pria/"}]
+                                [{"childCategoryName":"Boots","childCategoryUrl":"https://valezaco.com//boots-pria/"},{"childCategoryName":"Flip Flop & Sandal","childCategoryUrl":"https://valezaco.com//sandal-jepit-pria/"},{"childCategoryName":"Sepatu Formal","childCategoryUrl":"https://valezaco.com//sepatu-pantofel/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://valezaco.com//aksesoris-sepatu-pria/"},{"childCategoryName":"Slip-On & Loafer","childCategoryUrl":"https://valezaco.com//jual-slip-on-loafer-pria/"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://valezaco.com//sneakers-pria/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_4_5">
-    <a href="https://www.shirisunshineexim.com//aksesoris-pria/">
+    <a href="https://valezaco.com//aksesoris-pria/">
     <span>Aksesoris</span>
     </a>
     <script type="text" class="J_data_3_4">
-                                [{"childCategoryName":"Dasi","childCategoryUrl":"https://www.shirisunshineexim.com//aksesoris-dasi/"},{"childCategoryName":"Aksesoris Dasi Kupu-kupu","childCategoryUrl":"https://www.shirisunshineexim.com//aksesoris-dasi-kupu-kupu/"},{"childCategoryName":"Scarf","childCategoryUrl":"https://www.shirisunshineexim.com//syal-pria/"},{"childCategoryName":"Payung","childCategoryUrl":"https://www.shirisunshineexim.com//payung-pria/"},{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"https://www.shirisunshineexim.com//ikat-pinggang-pria/"},{"childCategoryName":"Topi","childCategoryUrl":"https://www.shirisunshineexim.com//topi-pria/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://www.shirisunshineexim.com//sarung-tangan-pria/"},{"childCategoryName":"Braces","childCategoryUrl":"https://www.shirisunshineexim.com//suspender-pria/"},{"childCategoryName":"Face Mask","childCategoryUrl":"https://www.shirisunshineexim.com//shop-masker-wajah-pria/"}]
+                                [{"childCategoryName":"Dasi","childCategoryUrl":"https://valezaco.com//aksesoris-dasi/"},{"childCategoryName":"Aksesoris Dasi Kupu-kupu","childCategoryUrl":"https://valezaco.com//aksesoris-dasi-kupu-kupu/"},{"childCategoryName":"Scarf","childCategoryUrl":"https://valezaco.com//syal-pria/"},{"childCategoryName":"Payung","childCategoryUrl":"https://valezaco.com//payung-pria/"},{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"https://valezaco.com//ikat-pinggang-pria/"},{"childCategoryName":"Topi","childCategoryUrl":"https://valezaco.com//topi-pria/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://valezaco.com//sarung-tangan-pria/"},{"childCategoryName":"Braces","childCategoryUrl":"https://valezaco.com//suspender-pria/"},{"childCategoryName":"Face Mask","childCategoryUrl":"https://valezaco.com//shop-masker-wajah-pria/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_4_6">
-    <a href="https://www.shirisunshineexim.com//tas-pria/">
+    <a href="https://valezaco.com//tas-pria/">
     <span>Tas Pria</span>
     </a>
     <script type="text" class="J_data_3_5">
-                                [{"childCategoryName":"Tas Ransel Pria","childCategoryUrl":"https://www.shirisunshineexim.com//shop-ransel-pria/"},{"childCategoryName":"Tas Laptop Jinjing","childCategoryUrl":"https://www.shirisunshineexim.com//tas-kerja-pria/"},{"childCategoryName":"Dompet Kartu Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-dompet-kartu-pria/"},{"childCategoryName":"Dompet Koin & Pouch Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-dompet-koin-pouch-pria/"},{"childCategoryName":"Tas Selempang Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-tas-selempang-pria/"},{"childCategoryName":"Tas Laptop Bahu & Messenger","childCategoryUrl":"https://www.shirisunshineexim.com//tas-messenger-pria/"},{"childCategoryName":"Tote Bag Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-tas-tote-pria/"},{"childCategoryName":"Tas Pinggang","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tas-pinggang/"},{"childCategoryName":"Dompet Pria","childCategoryUrl":"https://www.shirisunshineexim.com//shop-dompet-pria/"}]
+                                [{"childCategoryName":"Tas Ransel Pria","childCategoryUrl":"https://valezaco.com//shop-ransel-pria/"},{"childCategoryName":"Tas Laptop Jinjing","childCategoryUrl":"https://valezaco.com//tas-kerja-pria/"},{"childCategoryName":"Dompet Kartu Pria","childCategoryUrl":"https://valezaco.com//jual-dompet-kartu-pria/"},{"childCategoryName":"Dompet Koin & Pouch Pria","childCategoryUrl":"https://valezaco.com//jual-dompet-koin-pouch-pria/"},{"childCategoryName":"Tas Selempang Pria","childCategoryUrl":"https://valezaco.com//jual-tas-selempang-pria/"},{"childCategoryName":"Tas Laptop Bahu & Messenger","childCategoryUrl":"https://valezaco.com//tas-messenger-pria/"},{"childCategoryName":"Tote Bag Pria","childCategoryUrl":"https://valezaco.com//jual-tas-tote-pria/"},{"childCategoryName":"Tas Pinggang","childCategoryUrl":"https://valezaco.com//beli-tas-pinggang/"},{"childCategoryName":"Dompet Pria","childCategoryUrl":"https://valezaco.com//shop-dompet-pria/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_4_7">
-    <a href="https://www.shirisunshineexim.com//beli-perhiasan-pria/">
+    <a href="https://valezaco.com//beli-perhiasan-pria/">
     <span>Perhiasan Pria</span>
     </a>
     <script type="text" class="J_data_3_6">
-                                [{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pria-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pria-logam-berharga/"}]
+                                [{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://valezaco.com//beli-pria-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"https://valezaco.com//beli-pria-logam-berharga/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_4_8">
-    <a href="https://www.shirisunshineexim.com//beli-jam-tangan-pria/">
+    <a href="https://valezaco.com//beli-jam-tangan-pria/">
     <span>Jam Tangan Pria</span>
     </a>
     <script type="text" class="J_data_3_7">
-                                [{"childCategoryName":"Aksesoris Jam Tangan Pria","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aksesoris-jam-tangan-pria/"},{"childCategoryName":"Jam Tangan Kasual Pria","childCategoryUrl":"https://www.shirisunshineexim.com//beli-jam-tangan-kasual-pria/"},{"childCategoryName":"Formal","childCategoryUrl":"https://www.shirisunshineexim.com//beli-jam-tangan-formal-pria/"},{"childCategoryName":"Mewah","childCategoryUrl":"https://www.shirisunshineexim.com//shop-jam-tangan-mewah-pria/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"https://www.shirisunshineexim.com//shop-jam-tangan-pre-owned-pria/"},{"childCategoryName":"Jam Tangan Olahraga Pria","childCategoryUrl":"https://www.shirisunshineexim.com//beli-jam-tangan-olahraga-pria/"}]
+                                [{"childCategoryName":"Aksesoris Jam Tangan Pria","childCategoryUrl":"https://valezaco.com//beli-aksesoris-jam-tangan-pria/"},{"childCategoryName":"Jam Tangan Kasual Pria","childCategoryUrl":"https://valezaco.com//beli-jam-tangan-kasual-pria/"},{"childCategoryName":"Formal","childCategoryUrl":"https://valezaco.com//beli-jam-tangan-formal-pria/"},{"childCategoryName":"Mewah","childCategoryUrl":"https://valezaco.com//shop-jam-tangan-mewah-pria/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"https://valezaco.com//shop-jam-tangan-pre-owned-pria/"},{"childCategoryName":"Jam Tangan Olahraga Pria","childCategoryUrl":"https://valezaco.com//beli-jam-tangan-olahraga-pria/"}]
                             </script>
     </li>
     </ul>
     <ul class="lzd-site-menu-sub Level_1_Category_No5" data-spm="cate_5">
     <li class="lzd-site-menu-sub-item" data-cate="cate_5_1">
-    <a href="https://www.shirisunshineexim.com//fashion-pakaian-anak-laki-laki">
+    <a href="https://valezaco.com//fashion-pakaian-anak-laki-laki">
     <span>Pakaian Anak Laki-laki</span>
     </a>
     <script type="text" class="J_data_4_0">
-                                [{"childCategoryName":"Topi Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//topi-anak-laki-laki"},{"childCategoryName":"Hoodie Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//jual-hoodie-anak-laki-laki"},{"childCategoryName":"Jaket & Mantel Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//jaket-mantel-anak-laki-laki"},{"childCategoryName":"Celana Pendek Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//beli-celana-pendek-pria"},{"childCategoryName":"Pakaian Tidur Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//pakaian-tidur-anak-laki-laki"},{"childCategoryName":"Sweater & Cardigan Anak","childCategoryUrl":"https://www.shirisunshineexim.com//sweater-cardigan-anak-laki-laki"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"https://www.shirisunshineexim.com//payung-pakaian-hujan-anak-laki-laki"},{"childCategoryName":"Pakaian dalam","childCategoryUrl":"https://www.shirisunshineexim.com//shop-pakaian-dalam"},{"childCategoryName":"Celana & Jeans Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//celana-jeans-anak-laki-laki"},{"childCategoryName":"Kaus Kaki","childCategoryUrl":"https://www.shirisunshineexim.com//shop-kaus-kaki"},{"childCategoryName":"Baju & Atasan Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//baju-atasan-anak-laki-laki"}]
+                                [{"childCategoryName":"Topi Anak Laki-laki","childCategoryUrl":"https://valezaco.com//topi-anak-laki-laki"},{"childCategoryName":"Hoodie Anak Laki-laki","childCategoryUrl":"https://valezaco.com//jual-hoodie-anak-laki-laki"},{"childCategoryName":"Jaket & Mantel Anak Laki-laki","childCategoryUrl":"https://valezaco.com//jaket-mantel-anak-laki-laki"},{"childCategoryName":"Celana Pendek Anak Laki-laki","childCategoryUrl":"https://valezaco.com//beli-celana-pendek-pria"},{"childCategoryName":"Pakaian Tidur Anak Laki-laki","childCategoryUrl":"https://valezaco.com//pakaian-tidur-anak-laki-laki"},{"childCategoryName":"Sweater & Cardigan Anak","childCategoryUrl":"https://valezaco.com//sweater-cardigan-anak-laki-laki"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"https://valezaco.com//payung-pakaian-hujan-anak-laki-laki"},{"childCategoryName":"Pakaian dalam","childCategoryUrl":"https://valezaco.com//shop-pakaian-dalam"},{"childCategoryName":"Celana & Jeans Anak Laki-laki","childCategoryUrl":"https://valezaco.com//celana-jeans-anak-laki-laki"},{"childCategoryName":"Kaus Kaki","childCategoryUrl":"https://valezaco.com//shop-kaus-kaki"},{"childCategoryName":"Baju & Atasan Anak Laki-laki","childCategoryUrl":"https://valezaco.com//baju-atasan-anak-laki-laki"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_5_2">
-    <a href="https://www.shirisunshineexim.com//pakaian-anak-perempuan">
+    <a href="https://valezaco.com//pakaian-anak-perempuan">
     <span>Pakaian Anak Perempuan</span>
     </a>
     <script type="text" class="J_data_4_1">
-                                [{"childCategoryName":"Bawahan Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//celana-jeans-anak-perempuan"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//fashion-dress-anak-perempuan"},{"childCategoryName":"Scarf Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//scarf-sarung-tangan-anak-perempuan"},{"childCategoryName":"Aksesori Rambut Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//jual-aksesori-rambut-anak-perempuan"},{"childCategoryName":"Topi Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//topi-anak-perempuan"},{"childCategoryName":"Hoodie Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//jual-hoodie-anak-laki-laki-2"},{"childCategoryName":"Jaket & Mantel Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//jaket-mantel-anak-perempuan"},{"childCategoryName":"Baju & Atasan Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//baju-atasan-anak-perempuan"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"https://www.shirisunshineexim.com//payung-jas-hujan-anak-perempuan"},{"childCategoryName":"Pakaian Dalam Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//pakaian-tidur-anak-perempuan"},{"childCategoryName":"Jumpsuits & Overalls","childCategoryUrl":"https://www.shirisunshineexim.com//shop-girls-jumpsuits-overalls"}]
+                                [{"childCategoryName":"Bawahan Anak Perempuan","childCategoryUrl":"https://valezaco.com//celana-jeans-anak-perempuan"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"https://valezaco.com//fashion-dress-anak-perempuan"},{"childCategoryName":"Scarf Anak Perempuan","childCategoryUrl":"https://valezaco.com//scarf-sarung-tangan-anak-perempuan"},{"childCategoryName":"Aksesori Rambut Anak Perempuan","childCategoryUrl":"https://valezaco.com//jual-aksesori-rambut-anak-perempuan"},{"childCategoryName":"Topi Anak Perempuan","childCategoryUrl":"https://valezaco.com//topi-anak-perempuan"},{"childCategoryName":"Hoodie Anak Perempuan","childCategoryUrl":"https://valezaco.com//jual-hoodie-anak-laki-laki-2"},{"childCategoryName":"Jaket & Mantel Anak Perempuan","childCategoryUrl":"https://valezaco.com//jaket-mantel-anak-perempuan"},{"childCategoryName":"Baju & Atasan Anak Perempuan","childCategoryUrl":"https://valezaco.com//baju-atasan-anak-perempuan"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"https://valezaco.com//payung-jas-hujan-anak-perempuan"},{"childCategoryName":"Pakaian Dalam Anak Perempuan","childCategoryUrl":"https://valezaco.com//pakaian-tidur-anak-perempuan"},{"childCategoryName":"Jumpsuits & Overalls","childCategoryUrl":"https://valezaco.com//shop-girls-jumpsuits-overalls"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_5_3">
-    <a href="https://www.shirisunshineexim.com//shop-boy's-muslim-wear">
+    <a href="https://valezaco.com//shop-boy's-muslim-wear">
     <span>Pakaian Anak Muslim Laki-Laki</span>
     </a>
     <script type="text" class="J_data_4_2">
-                                [{"childCategoryName":"Kemeja Anak Laki-Laki","childCategoryUrl":"https://www.shirisunshineexim.com//shop-boy's-muslimin-shirt"},{"childCategoryName":"Celana Anak Laki-Laki","childCategoryUrl":"https://www.shirisunshineexim.com//shop-boy's-muslimin-pants"},{"childCategoryName":"Aksesoris Anak Laki-Laki","childCategoryUrl":"https://www.shirisunshineexim.com//shop-boy's-muslimin-accessories"}]
+                                [{"childCategoryName":"Kemeja Anak Laki-Laki","childCategoryUrl":"https://valezaco.com//shop-boy's-muslimin-shirt"},{"childCategoryName":"Celana Anak Laki-Laki","childCategoryUrl":"https://valezaco.com//shop-boy's-muslimin-pants"},{"childCategoryName":"Aksesoris Anak Laki-Laki","childCategoryUrl":"https://valezaco.com//shop-boy's-muslimin-accessories"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_5_4">
-    <a href="https://www.shirisunshineexim.com//shop-girls-muslim-wear">
+    <a href="https://valezaco.com//shop-girls-muslim-wear">
     <span>Pakaian Anak Muslim Perempuan</span>
     </a>
     <script type="text" class="J_data_4_3">
-                                [{"childCategoryName":"Hijab Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-girls-muslim-wear-hijabs/"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-girls-muslim-wear-dresses-jumpsuits/"}]
+                                [{"childCategoryName":"Hijab Anak Perempuan","childCategoryUrl":"https://valezaco.com//shop-girls-muslim-wear-hijabs/"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"https://valezaco.com//shop-girls-muslim-wear-dresses-jumpsuits/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_5_5">
-    <a href="https://www.shirisunshineexim.com//fashion-sepatu-anak-laki-laki">
+    <a href="https://valezaco.com//fashion-sepatu-anak-laki-laki">
     <span>Sepatu Anak Laki-laki</span>
     </a>
     <script type="text" class="J_data_4_4">
-                                [{"childCategoryName":"Sepatu Boot Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-boot-anak-laki-laki"},{"childCategoryName":"Sandal Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//fashion-sandal-jepit-anak-laki-laki"},{"childCategoryName":"Sepatu Formal Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-lace-ups-anak-laki-laki"},{"childCategoryName":"Aksesoris Sepatu Anak Laki","childCategoryUrl":"https://www.shirisunshineexim.com//fashion-aksesoris-sepatu-anak-laki-laki"},{"childCategoryName":"Slip-n Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-slip-on-anak-laki-laki"},{"childCategoryName":"Sepatu Sneaker Anak Laki-laki","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-sneaker-anak-laki-laki"}]
+                                [{"childCategoryName":"Sepatu Boot Anak Laki-laki","childCategoryUrl":"https://valezaco.com//sepatu-boot-anak-laki-laki"},{"childCategoryName":"Sandal Anak Laki-laki","childCategoryUrl":"https://valezaco.com//fashion-sandal-jepit-anak-laki-laki"},{"childCategoryName":"Sepatu Formal Anak Laki-laki","childCategoryUrl":"https://valezaco.com//sepatu-lace-ups-anak-laki-laki"},{"childCategoryName":"Aksesoris Sepatu Anak Laki","childCategoryUrl":"https://valezaco.com//fashion-aksesoris-sepatu-anak-laki-laki"},{"childCategoryName":"Slip-n Anak Laki-laki","childCategoryUrl":"https://valezaco.com//sepatu-slip-on-anak-laki-laki"},{"childCategoryName":"Sepatu Sneaker Anak Laki-laki","childCategoryUrl":"https://valezaco.com//sepatu-sneaker-anak-laki-laki"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_5_6">
-    <a href="https://www.shirisunshineexim.com//fashion-sepatu-anak-perempuan">
+    <a href="https://valezaco.com//fashion-sepatu-anak-perempuan">
     <span>Sepatu Anak Perempuan</span>
     </a>
     <script type="text" class="J_data_4_5">
-                                [{"childCategoryName":"Sepatu Flat Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-balerina-anak-perempuan"},{"childCategoryName":"Sepatu Boot Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-boot-anak-perempuan"},{"childCategoryName":"Sandal Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//fashion-sandal-jepit-anak-perempuan"},{"childCategoryName":"Sepatu Formal Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-lace-ups-anak-perempuan"},{"childCategoryName":"Aksesoris Sepatu Anak","childCategoryUrl":"https://www.shirisunshineexim.com//fashion-aksesoris-sepatu-anak-perempuan"},{"childCategoryName":"Sepatu Sneaker Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-sneakers-anak-perempuan"}]
+                                [{"childCategoryName":"Sepatu Flat Anak Perempuan","childCategoryUrl":"https://valezaco.com//sepatu-balerina-anak-perempuan"},{"childCategoryName":"Sepatu Boot Anak Perempuan","childCategoryUrl":"https://valezaco.com//sepatu-boot-anak-perempuan"},{"childCategoryName":"Sandal Anak Perempuan","childCategoryUrl":"https://valezaco.com//fashion-sandal-jepit-anak-perempuan"},{"childCategoryName":"Sepatu Formal Anak Perempuan","childCategoryUrl":"https://valezaco.com//sepatu-lace-ups-anak-perempuan"},{"childCategoryName":"Aksesoris Sepatu Anak","childCategoryUrl":"https://valezaco.com//fashion-aksesoris-sepatu-anak-perempuan"},{"childCategoryName":"Sepatu Sneaker Anak Perempuan","childCategoryUrl":"https://valezaco.com//sepatu-sneakers-anak-perempuan"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_5_7">
-    <a href="https://www.shirisunshineexim.com//beli-tas-anak-tl/">
+    <a href="https://valezaco.com//beli-tas-anak-tl/">
     <span>Tas Anak</span>
     </a>
     <script type="text" class="J_data_4_6">
-                                [{"childCategoryName":"Tas Bahu Anak","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tas-bahu-anak/"},{"childCategoryName":"Ransel Troli Anak","childCategoryUrl":"https://www.shirisunshineexim.com//beli-ransel-troli-anak/"},{"childCategoryName":"Ransel Anak","childCategoryUrl":"https://www.shirisunshineexim.com//beli-ransel-anak/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aksesoris-anak/"},{"childCategoryName":"Koper","childCategoryUrl":"https://www.shirisunshineexim.com//koper-anak-2/"}]
+                                [{"childCategoryName":"Tas Bahu Anak","childCategoryUrl":"https://valezaco.com//beli-tas-bahu-anak/"},{"childCategoryName":"Ransel Troli Anak","childCategoryUrl":"https://valezaco.com//beli-ransel-troli-anak/"},{"childCategoryName":"Ransel Anak","childCategoryUrl":"https://valezaco.com//beli-ransel-anak/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"https://valezaco.com//beli-aksesoris-anak/"},{"childCategoryName":"Koper","childCategoryUrl":"https://valezaco.com//koper-anak-2/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_5_8">
-    <a href="https://www.shirisunshineexim.com//beli-perhiasan-anak/">
+    <a href="https://valezaco.com//beli-perhiasan-anak/">
     <span>Perhiasan Anak</span>
     </a>
     <script type="text" class="J_data_4_7">
-                                [{"childCategoryName":"Emas Murni","childCategoryUrl":"https://www.shirisunshineexim.com//beli-anak-emas-murni/"},{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://www.shirisunshineexim.com//beli-anak-perhiasan-fashion/"}]
+                                [{"childCategoryName":"Emas Murni","childCategoryUrl":"https://valezaco.com//beli-anak-emas-murni/"},{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://valezaco.com//beli-anak-perhiasan-fashion/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_5_9">
-    <a href="https://www.shirisunshineexim.com//beli-jam-tangan-anak/">
+    <a href="https://valezaco.com//beli-jam-tangan-anak/">
     <span>Jam Tangan Anak</span>
     </a>
     <script type="text" class="J_data_4_8">
-                                [{"childCategoryName":"Jam Tangan Anak Laki-Laki","childCategoryUrl":"https://www.shirisunshineexim.com//beli-jam-tangan-anak-laki-laki/"},{"childCategoryName":"Jam Tangan Anak Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-jam-tangan-anak-perempuan/"}]
+                                [{"childCategoryName":"Jam Tangan Anak Laki-Laki","childCategoryUrl":"https://valezaco.com//beli-jam-tangan-anak-laki-laki/"},{"childCategoryName":"Jam Tangan Anak Perempuan","childCategoryUrl":"https://valezaco.com//beli-jam-tangan-anak-perempuan/"}]
                             </script>
     </li>
     </ul>
     <ul class="lzd-site-menu-sub Level_1_Category_No6" data-spm="cate_6">
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_1">
-    <a href="https://www.shirisunshineexim.com//beli-perawatan-kulit/">
+    <a href="https://valezaco.com//beli-perawatan-kulit/">
     <span>Perawatan Kulit</span>
     </a>
     <script type="text" class="J_data_5_0">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Serum Perawatan Wajah","childCategoryUrl":"https://www.shirisunshineexim.com//beli-serum-perawatan-wajah"},{"childCategoryName":"Dermacare","childCategoryUrl":"https://www.shirisunshineexim.com//beli-dermacare"},{"childCategoryName":"Pelembab Wajah","childCategoryUrl":"https://www.shirisunshineexim.com//shop-pelembab-wajah"},{"childCategoryName":"Pembersih Wajah","childCategoryUrl":"https://www.shirisunshineexim.com//pembersih-wajah"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"https://www.shirisunshineexim.com//beli-masker-wajah"},{"childCategoryName":"Toner","childCategoryUrl":"https://www.shirisunshineexim.com//beli-toner"},{"childCategoryName":"Tabir Surya","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tabir-surya-aftersun"},{"childCategoryName":"Set Perawatan Wajah","childCategoryUrl":"https://www.shirisunshineexim.com//beli-set-perawatan-wajah"},{"childCategoryName":"Pelembab & Perawatan Bibir","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lip-balm-perawatan-bibir"},{"childCategoryName":"Face Scrubs & Exfoliators","childCategoryUrl":"https://www.shirisunshineexim.com//beli-scrub-pengelupas-wajah"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"https://www.shirisunshineexim.com//shop-perawatan-mata"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Serum Perawatan Wajah","childCategoryUrl":"https://valezaco.com//beli-serum-perawatan-wajah"},{"childCategoryName":"Dermacare","childCategoryUrl":"https://valezaco.com//beli-dermacare"},{"childCategoryName":"Pelembab Wajah","childCategoryUrl":"https://valezaco.com//shop-pelembab-wajah"},{"childCategoryName":"Pembersih Wajah","childCategoryUrl":"https://valezaco.com//pembersih-wajah"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"https://valezaco.com//beli-masker-wajah"},{"childCategoryName":"Toner","childCategoryUrl":"https://valezaco.com//beli-toner"},{"childCategoryName":"Tabir Surya","childCategoryUrl":"https://valezaco.com//beli-tabir-surya-aftersun"},{"childCategoryName":"Set Perawatan Wajah","childCategoryUrl":"https://valezaco.com//beli-set-perawatan-wajah"},{"childCategoryName":"Pelembab & Perawatan Bibir","childCategoryUrl":"https://valezaco.com//beli-lip-balm-perawatan-bibir"},{"childCategoryName":"Face Scrubs & Exfoliators","childCategoryUrl":"https://valezaco.com//beli-scrub-pengelupas-wajah"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"https://valezaco.com//shop-perawatan-mata"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_2">
-    <a href="https://www.shirisunshineexim.com//beli-makeup/">
+    <a href="https://valezaco.com//beli-makeup/">
     <span>Makeup</span>
     </a>
     <script type="text" class="J_data_5_1">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makeup Bibir","childCategoryUrl":"https://www.shirisunshineexim.com//beli-make-up-bibir"},{"childCategoryName":"Lipstik","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lipstik"},{"childCategoryName":"Makeup Wajah","childCategoryUrl":"https://www.shirisunshineexim.com//makeup-wajah"},{"childCategoryName":"Foundation","childCategoryUrl":"https://www.shirisunshineexim.com//beli-foundation"},{"childCategoryName":"Makeup Mata","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mata"},{"childCategoryName":"Maskara","childCategoryUrl":"https://www.shirisunshineexim.com//beli-maskara"},{"childCategoryName":"Aksesoris Makeup","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aksesoris-makeup"},{"childCategoryName":"Set Kuas & Kuas Makeup","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kuas-aplikator"},{"childCategoryName":"Perawatan Kuku","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perawatan-kuku"},{"childCategoryName":"Set Makeup & Palet","childCategoryUrl":"https://www.shirisunshineexim.com//shop-palet-set-makeup"},{"childCategoryName":"Pembersih Makeup","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pembersih-makeup"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makeup Bibir","childCategoryUrl":"https://valezaco.com//beli-make-up-bibir"},{"childCategoryName":"Lipstik","childCategoryUrl":"https://valezaco.com//beli-lipstik"},{"childCategoryName":"Makeup Wajah","childCategoryUrl":"https://valezaco.com//makeup-wajah"},{"childCategoryName":"Foundation","childCategoryUrl":"https://valezaco.com//beli-foundation"},{"childCategoryName":"Makeup Mata","childCategoryUrl":"https://valezaco.com//beli-mata"},{"childCategoryName":"Maskara","childCategoryUrl":"https://valezaco.com//beli-maskara"},{"childCategoryName":"Aksesoris Makeup","childCategoryUrl":"https://valezaco.com//beli-aksesoris-makeup"},{"childCategoryName":"Set Kuas & Kuas Makeup","childCategoryUrl":"https://valezaco.com//beli-kuas-aplikator"},{"childCategoryName":"Perawatan Kuku","childCategoryUrl":"https://valezaco.com//beli-perawatan-kuku"},{"childCategoryName":"Set Makeup & Palet","childCategoryUrl":"https://valezaco.com//shop-palet-set-makeup"},{"childCategoryName":"Pembersih Makeup","childCategoryUrl":"https://valezaco.com//beli-pembersih-makeup"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_3">
-    <a href="https://www.shirisunshineexim.com//beli-perawatan-rambut/">
+    <a href="https://valezaco.com//beli-perawatan-rambut/">
     <span>Perawatan Rambut</span>
     </a>
     <script type="text" class="J_data_5_2">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Shampo","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sampo"},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"https://www.shirisunshineexim.com//perawatan-intensif"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"https://www.shirisunshineexim.com//aksesoris-perawatan-rambut"},{"childCategoryName":"Styling Rambut","childCategoryUrl":"https://www.shirisunshineexim.com//beli-styling-rambut"},{"childCategoryName":"Pewarna Rambut","childCategoryUrl":"https://www.shirisunshineexim.com//beli-cat-rambut"},{"childCategoryName":"Kondisioner","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kondisioner"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"https://www.shirisunshineexim.com//beli-paket-hadiah-bingkisan-perawatan-rambut"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Shampo","childCategoryUrl":"https://valezaco.com//beli-sampo"},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"https://valezaco.com//perawatan-intensif"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"https://valezaco.com//aksesoris-perawatan-rambut"},{"childCategoryName":"Styling Rambut","childCategoryUrl":"https://valezaco.com//beli-styling-rambut"},{"childCategoryName":"Pewarna Rambut","childCategoryUrl":"https://valezaco.com//beli-cat-rambut"},{"childCategoryName":"Kondisioner","childCategoryUrl":"https://valezaco.com//beli-kondisioner"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"https://valezaco.com//beli-paket-hadiah-bingkisan-perawatan-rambut"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_4">
-    <a href="https://www.shirisunshineexim.com//beli-perlengkapan-mandi-tubuh/">
+    <a href="https://valezaco.com//beli-perlengkapan-mandi-tubuh/">
     <span>Perawatan Tubuh</span>
     </a>
     <script type="text" class="J_data_5_3">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Losion Tubuh","childCategoryUrl":"https://www.shirisunshineexim.com//beli-losion-krim-tubuh"},{"childCategoryName":"Sabun Cair","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Sabun-Cair"},{"childCategoryName":"Scrub Tubuh","childCategoryUrl":"https://www.shirisunshineexim.com//beli-scrub-tubuh"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://www.shirisunshineexim.com//perawatan-payudara"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Perawatan-Tubuh"},{"childCategoryName":"Perawatan Kaki","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perawatan-kaki"},{"childCategoryName":"Sabun Batang","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Sabun-Batang"},{"childCategoryName":"Aksesoris Tubuh","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aksesoris-perlengkapan-mandi-tubuh"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"https://www.shirisunshineexim.com//beli-paket-hadiah-bingkisan-alat-mandi-tubuh"},{"childCategoryName":"Penghilang Bulu","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perontok-rambut"},{"childCategoryName":"Sabun Tangan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sabun-pembersih-tangan"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Losion Tubuh","childCategoryUrl":"https://valezaco.com//beli-losion-krim-tubuh"},{"childCategoryName":"Sabun Cair","childCategoryUrl":"https://valezaco.com//shop-Sabun-Cair"},{"childCategoryName":"Scrub Tubuh","childCategoryUrl":"https://valezaco.com//beli-scrub-tubuh"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://valezaco.com//perawatan-payudara"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"https://valezaco.com//shop-Perawatan-Tubuh"},{"childCategoryName":"Perawatan Kaki","childCategoryUrl":"https://valezaco.com//beli-perawatan-kaki"},{"childCategoryName":"Sabun Batang","childCategoryUrl":"https://valezaco.com//shop-Sabun-Batang"},{"childCategoryName":"Aksesoris Tubuh","childCategoryUrl":"https://valezaco.com//beli-aksesoris-perlengkapan-mandi-tubuh"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"https://valezaco.com//beli-paket-hadiah-bingkisan-alat-mandi-tubuh"},{"childCategoryName":"Penghilang Bulu","childCategoryUrl":"https://valezaco.com//beli-perontok-rambut"},{"childCategoryName":"Sabun Tangan","childCategoryUrl":"https://valezaco.com//beli-sabun-pembersih-tangan"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_5">
-    <a href="https://www.shirisunshineexim.com//beli-perawatan-kesehatan-pribadi/">
+    <a href="https://valezaco.com//beli-perawatan-kesehatan-pribadi/">
     <span>Perawatan Diri</span>
     </a>
     <script type="text" class="J_data_5_4">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Mulut","childCategoryUrl":"https://www.shirisunshineexim.com//perawatan-mulut"},{"childCategoryName":"Pembersih Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pembersih-wanita"},{"childCategoryName":"Keamanan Diri","childCategoryUrl":"https://www.shirisunshineexim.com//beli-keamanan-diri"},{"childCategoryName":"Beli Deodoran","childCategoryUrl":"https://www.shirisunshineexim.com//beli-deodoran"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"https://www.shirisunshineexim.com//shop-perawatan-optik-pribadi"},{"childCategoryName":"Obat Anti Serangga","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Obat-Anti-Serangga"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Mulut","childCategoryUrl":"https://valezaco.com//perawatan-mulut"},{"childCategoryName":"Pembersih Wanita","childCategoryUrl":"https://valezaco.com//beli-pembersih-wanita"},{"childCategoryName":"Keamanan Diri","childCategoryUrl":"https://valezaco.com//beli-keamanan-diri"},{"childCategoryName":"Beli Deodoran","childCategoryUrl":"https://valezaco.com//beli-deodoran"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"https://valezaco.com//shop-perawatan-optik-pribadi"},{"childCategoryName":"Obat Anti Serangga","childCategoryUrl":"https://valezaco.com//shop-Obat-Anti-Serangga"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_6">
-    <a href="https://www.shirisunshineexim.com//beli-parfum/">
+    <a href="https://valezaco.com//beli-parfum/">
     <span>Parfum</span>
     </a>
     <script type="text" class="J_data_5_5">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pria","childCategoryUrl":"https://www.shirisunshineexim.com//beli-parfum-pria"},{"childCategoryName":"Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//beli-parfum-wanita"},{"childCategoryName":"Unisex","childCategoryUrl":"https://www.shirisunshineexim.com//beli-parfum-unisex"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pria","childCategoryUrl":"https://valezaco.com//beli-parfum-pria"},{"childCategoryName":"Wanita","childCategoryUrl":"https://valezaco.com//beli-parfum-wanita"},{"childCategoryName":"Unisex","childCategoryUrl":"https://valezaco.com//beli-parfum-unisex"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_7">
-    <a href="https://www.shirisunshineexim.com//beli-alat-kesehatan-kecantikan/">
+    <a href="https://valezaco.com//beli-alat-kesehatan-kecantikan/">
     <span>Alat Kecantikan</span>
     </a>
     <script type="text" class="J_data_5_6">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Alat Pelangsing & Pijat","childCategoryUrl":"https://www.shirisunshineexim.com//alat-pelangsing-dan-pemijat-elektrik"},{"childCategoryName":"Sauna Portabel","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sauna-portabel"},{"childCategoryName":"Foot Relief","childCategoryUrl":"https://www.shirisunshineexim.com//beli-foot-relief"},{"childCategoryName":"Alat Cukur & Trimmer","childCategoryUrl":"https://www.shirisunshineexim.com//aksesoris-alat-cukur-dan-trimmer"},{"childCategoryName":"Alat Perawatan Wajah","childCategoryUrl":"https://www.shirisunshineexim.com//shop-alat-perawatan-kulit-wajah"},{"childCategoryName":"Alat Perawatan Tubuh","childCategoryUrl":"https://www.shirisunshineexim.com//shop-alat-perawatan-kulit-tubuh"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Alat Pelangsing & Pijat","childCategoryUrl":"https://valezaco.com//alat-pelangsing-dan-pemijat-elektrik"},{"childCategoryName":"Sauna Portabel","childCategoryUrl":"https://valezaco.com//beli-sauna-portabel"},{"childCategoryName":"Foot Relief","childCategoryUrl":"https://valezaco.com//beli-foot-relief"},{"childCategoryName":"Alat Cukur & Trimmer","childCategoryUrl":"https://valezaco.com//aksesoris-alat-cukur-dan-trimmer"},{"childCategoryName":"Alat Perawatan Wajah","childCategoryUrl":"https://valezaco.com//shop-alat-perawatan-kulit-wajah"},{"childCategoryName":"Alat Perawatan Tubuh","childCategoryUrl":"https://valezaco.com//shop-alat-perawatan-kulit-tubuh"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_8">
-    <a href="https://www.shirisunshineexim.com//beli-suplemen-makanan/">
+    <a href="https://valezaco.com//beli-suplemen-makanan/">
     <span>Suplemen Makanan</span>
     </a>
     <script type="text" class="J_data_5_7">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengatur Berat Badan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pengatur-berat-badan"},{"childCategoryName":"Pembakar Lemak","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pembakar-lemak"},{"childCategoryName":"Minuman Pelangsing","childCategoryUrl":"https://www.shirisunshineexim.com//beli-minuman-pelangsing"},{"childCategoryName":"Suplemen Kecantikan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-suplemen-kecantikan"},{"childCategoryName":"Suplemen Pemutih","childCategoryUrl":"https://www.shirisunshineexim.com//beli-suplemen-pemutih"},{"childCategoryName":"Multivitamin","childCategoryUrl":"https://www.shirisunshineexim.com//multivitamin/"},{"childCategoryName":"Obat Tradisional","childCategoryUrl":"https://www.shirisunshineexim.com//beli-obat-obatan-tradisional"},{"childCategoryName":"Sistem Imun","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sistem-imun"},{"childCategoryName":"Nutrisi Olahraga","childCategoryUrl":"https://www.shirisunshineexim.com//beli-nutrisi-olahraga"},{"childCategoryName":"Penambah Berat Badan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-suplemen-penambah-berat-badan"},{"childCategoryName":"Protein","childCategoryUrl":"https://www.shirisunshineexim.com//beli-protein"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengatur Berat Badan","childCategoryUrl":"https://valezaco.com//beli-pengatur-berat-badan"},{"childCategoryName":"Pembakar Lemak","childCategoryUrl":"https://valezaco.com//beli-pembakar-lemak"},{"childCategoryName":"Minuman Pelangsing","childCategoryUrl":"https://valezaco.com//beli-minuman-pelangsing"},{"childCategoryName":"Suplemen Kecantikan","childCategoryUrl":"https://valezaco.com//beli-suplemen-kecantikan"},{"childCategoryName":"Suplemen Pemutih","childCategoryUrl":"https://valezaco.com//beli-suplemen-pemutih"},{"childCategoryName":"Multivitamin","childCategoryUrl":"https://valezaco.com//multivitamin/"},{"childCategoryName":"Obat Tradisional","childCategoryUrl":"https://valezaco.com//beli-obat-obatan-tradisional"},{"childCategoryName":"Sistem Imun","childCategoryUrl":"https://valezaco.com//beli-sistem-imun"},{"childCategoryName":"Nutrisi Olahraga","childCategoryUrl":"https://valezaco.com//beli-nutrisi-olahraga"},{"childCategoryName":"Penambah Berat Badan","childCategoryUrl":"https://valezaco.com//beli-suplemen-penambah-berat-badan"},{"childCategoryName":"Protein","childCategoryUrl":"https://valezaco.com//beli-protein"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_9">
-    <a href="https://www.shirisunshineexim.com//beli-alat-medis/">
+    <a href="https://valezaco.com//beli-alat-medis/">
     <span>Alat Medis</span>
     </a>
     <script type="text" class="J_data_5_8">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Aksesoris Kesehatan","childCategoryUrl":"https://www.shirisunshineexim.com//aksesoris-kesehatan"},{"childCategoryName":"Alat Tes Kesehatan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-alat-tes-kesehatan"},{"childCategoryName":"Obat-Obatan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-over-the-counter-medicine/"},{"childCategoryName":"Perban & Perlengkapan Cedera","childCategoryUrl":"https://www.shirisunshineexim.com//perban-alat-terapi-cedera"},{"childCategoryName":"Timbangan & Alat Kadar Lemak","childCategoryUrl":"https://www.shirisunshineexim.com//beli-timbangan-alat-ukur-kadar-lemak"},{"childCategoryName":"P3K","childCategoryUrl":"https://www.shirisunshineexim.com//beli-p3k"},{"childCategoryName":"Kursi Roda","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kursi-roda"},{"childCategoryName":"Salep & Krim","childCategoryUrl":"https://www.shirisunshineexim.com//shop-salep-dan-krim"},{"childCategoryName":"Alat Inhalasi & Nebulizer","childCategoryUrl":"https://www.shirisunshineexim.com//beli-alat-inhalasi-nebulizer"},{"childCategoryName":"Alat Tes Medis","childCategoryUrl":"https://www.shirisunshineexim.com//tes-medis"},{"childCategoryName":"Stetoskop","childCategoryUrl":"https://www.shirisunshineexim.com//beli-stetoskop"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Aksesoris Kesehatan","childCategoryUrl":"https://valezaco.com//aksesoris-kesehatan"},{"childCategoryName":"Alat Tes Kesehatan","childCategoryUrl":"https://valezaco.com//beli-alat-tes-kesehatan"},{"childCategoryName":"Obat-Obatan","childCategoryUrl":"https://valezaco.com//shop-over-the-counter-medicine/"},{"childCategoryName":"Perban & Perlengkapan Cedera","childCategoryUrl":"https://valezaco.com//perban-alat-terapi-cedera"},{"childCategoryName":"Timbangan & Alat Kadar Lemak","childCategoryUrl":"https://valezaco.com//beli-timbangan-alat-ukur-kadar-lemak"},{"childCategoryName":"P3K","childCategoryUrl":"https://valezaco.com//beli-p3k"},{"childCategoryName":"Kursi Roda","childCategoryUrl":"https://valezaco.com//beli-kursi-roda"},{"childCategoryName":"Salep & Krim","childCategoryUrl":"https://valezaco.com//shop-salep-dan-krim"},{"childCategoryName":"Alat Inhalasi & Nebulizer","childCategoryUrl":"https://valezaco.com//beli-alat-inhalasi-nebulizer"},{"childCategoryName":"Alat Tes Medis","childCategoryUrl":"https://valezaco.com//tes-medis"},{"childCategoryName":"Stetoskop","childCategoryUrl":"https://valezaco.com//beli-stetoskop"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_10">
-    <a href="https://www.shirisunshineexim.com//jual-perlengkapan-kesehatan-seksual/">
+    <a href="https://valezaco.com//jual-perlengkapan-kesehatan-seksual/">
     <span>Sexual Wellness</span>
     </a>
     <script type="text" class="J_data_5_9">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kondom","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kondom"},{"childCategoryName":"Pelumas","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pelumas"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kondom","childCategoryUrl":"https://valezaco.com//beli-kondom"},{"childCategoryName":"Pelumas","childCategoryUrl":"https://valezaco.com//beli-pelumas"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_11">
-    <a href="https://www.shirisunshineexim.com//beli-perawatan-tubuh-kesehatan-pria/">
+    <a href="https://valezaco.com//beli-perawatan-tubuh-kesehatan-pria/">
     <span>Perawatan Pria</span>
     </a>
     <script type="text" class="J_data_5_10">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perawatan-rambut-pria"},{"childCategoryName":"Perawatan Wajah","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perawatan-kulit-pria"},{"childCategoryName":"Alat Cukur Pria","childCategoryUrl":"https://www.shirisunshineexim.com//beli-alat-cukur-pria"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"https://www.shirisunshineexim.com//perawatan-tubuh"},{"childCategoryName":"Deodoran Pria","childCategoryUrl":"https://www.shirisunshineexim.com//beli-deodoran-pria"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"https://valezaco.com//beli-perawatan-rambut-pria"},{"childCategoryName":"Perawatan Wajah","childCategoryUrl":"https://valezaco.com//beli-perawatan-kulit-pria"},{"childCategoryName":"Alat Cukur Pria","childCategoryUrl":"https://valezaco.com//beli-alat-cukur-pria"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"https://valezaco.com//perawatan-tubuh"},{"childCategoryName":"Deodoran Pria","childCategoryUrl":"https://valezaco.com//beli-deodoran-pria"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_6_12">
-    <a href="https://www.shirisunshineexim.com//kesehatan-manula/">
+    <a href="https://valezaco.com//kesehatan-manula/">
     <span>Popok Dewasa</span>
     </a>
     <script type="text" class="J_data_5_11">
-                                [{"childCategoryName":"Popok Dewasa","childCategoryUrl":"https://www.shirisunshineexim.com//kesehatan-manula/"}]
+                                [{"childCategoryName":"Popok Dewasa","childCategoryUrl":"https://valezaco.com//kesehatan-manula/"}]
                             </script>
     </li>
     </ul>
     <ul class="lzd-site-menu-sub Level_1_Category_No7" data-spm="cate_7">
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_1">
-    <a href="https://www.shirisunshineexim.com//jual-perlengkapan-bayi-balita/">
+    <a href="https://valezaco.com//jual-perlengkapan-bayi-balita/">
     <span>Ibu &amp; Anak</span>
     </a>
     <script type="text" class="J_data_6_0">
-                                [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"https://www.shirisunshineexim.com//beli-popok-sekali-pakai/"},{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"https://www.shirisunshineexim.com//beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"https://www.shirisunshineexim.com//beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"https://www.shirisunshineexim.com//jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"https://www.shirisunshineexim.com//beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-botol-bayi/"},{"childCategoryName":"Stroller","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kereta-dorong-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"https://www.shirisunshineexim.com//beli-soft-carrier/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sampo-kondisioner-bb/"},{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perawatan-kulit-pria/"}]
+                                [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"https://valezaco.com//beli-popok-sekali-pakai/"},{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"https://valezaco.com//beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"https://valezaco.com//beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"https://valezaco.com//jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"https://valezaco.com//beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"https://valezaco.com//beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"https://valezaco.com//beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://valezaco.com//beli-botol-bayi/"},{"childCategoryName":"Stroller","childCategoryUrl":"https://valezaco.com//beli-kereta-dorong-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"https://valezaco.com//beli-soft-carrier/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"https://valezaco.com//beli-sampo-kondisioner-bb/"},{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"https://valezaco.com//beli-perawatan-kulit-pria/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_2">
-    <a href="https://www.shirisunshineexim.com//beli-popok-pispot-bb/">
+    <a href="https://valezaco.com//beli-popok-pispot-bb/">
     <span>Popok Sekali Pakai</span>
     </a>
     <script type="text" class="J_data_6_1">
-                                [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"https://www.shirisunshineexim.com//beli-popok-sekali-pakai/"},{"childCategoryName":"Popok Kain & Aksesori","childCategoryUrl":"https://www.shirisunshineexim.com//beli-popok-kain/"},{"childCategoryName":"Lap Bayi & Penyangga","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lap-bayi-penyangga/"},{"childCategoryName":"Perawatan Popok","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perawatan-popok/"},{"childCategoryName":"Krim & Salep Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-krim-salep-bayi/"},{"childCategoryName":"Tas Perlengkapan Popok","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tas-popok-tb/"},{"childCategoryName":"Meja Ganti Popok","childCategoryUrl":"https://www.shirisunshineexim.com//beli-meja-ganti/"},{"childCategoryName":"Cover Popok Kain","childCategoryUrl":"https://www.shirisunshineexim.com//beli-bantalan/"},{"childCategoryName":"Lapisan Penyerap & Liner Popok Kain","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lapisan-penyerap-liner-popok-kain/"},{"childCategoryName":"Potty Training","childCategoryUrl":"https://www.shirisunshineexim.com//beli-potty-training/"},{"childCategoryName":"Bangku Langkah","childCategoryUrl":"https://www.shirisunshineexim.com//beli-bangku-langkah/"},{"childCategoryName":"Detergent Laundry","childCategoryUrl":"https://www.shirisunshineexim.com//beli-detergen-popok-kain/"}]
+                                [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"https://valezaco.com//beli-popok-sekali-pakai/"},{"childCategoryName":"Popok Kain & Aksesori","childCategoryUrl":"https://valezaco.com//beli-popok-kain/"},{"childCategoryName":"Lap Bayi & Penyangga","childCategoryUrl":"https://valezaco.com//beli-lap-bayi-penyangga/"},{"childCategoryName":"Perawatan Popok","childCategoryUrl":"https://valezaco.com//beli-perawatan-popok/"},{"childCategoryName":"Krim & Salep Bayi","childCategoryUrl":"https://valezaco.com//beli-krim-salep-bayi/"},{"childCategoryName":"Tas Perlengkapan Popok","childCategoryUrl":"https://valezaco.com//beli-tas-popok-tb/"},{"childCategoryName":"Meja Ganti Popok","childCategoryUrl":"https://valezaco.com//beli-meja-ganti/"},{"childCategoryName":"Cover Popok Kain","childCategoryUrl":"https://valezaco.com//beli-bantalan/"},{"childCategoryName":"Lapisan Penyerap & Liner Popok Kain","childCategoryUrl":"https://valezaco.com//beli-lapisan-penyerap-liner-popok-kain/"},{"childCategoryName":"Potty Training","childCategoryUrl":"https://valezaco.com//beli-potty-training/"},{"childCategoryName":"Bangku Langkah","childCategoryUrl":"https://valezaco.com//beli-bangku-langkah/"},{"childCategoryName":"Detergent Laundry","childCategoryUrl":"https://valezaco.com//beli-detergen-popok-kain/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_3">
-    <a href="https://www.shirisunshineexim.com//beli-susu-formula/">
+    <a href="https://valezaco.com//beli-susu-formula/">
     <span>Makanan Bayi &amp; Balita</span>
     </a>
     <script type="text" class="J_data_6_2">
-                                [{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"https://www.shirisunshineexim.com//beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"https://www.shirisunshineexim.com//beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"https://www.shirisunshineexim.com//jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"https://www.shirisunshineexim.com//beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Nutrisi Khusus Anak","childCategoryUrl":"https://www.shirisunshineexim.com//beli-nutrisi-khusus-anak/"},{"childCategoryName":"Minuman","childCategoryUrl":"https://www.shirisunshineexim.com//beli-minuman-bayi-balita/"},{"childCategoryName":"Sereal","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sereal-bayi-balita/"},{"childCategoryName":"Cracker & Biskuit","childCategoryUrl":"https://www.shirisunshineexim.com//beli-cracker-biskuit-bayi-balita/"},{"childCategoryName":"Makanan Ringan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-ringan-bayi-balita/"},{"childCategoryName":"Makanan puree bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-puree-bayi/"},{"childCategoryName":"Susu Ibu Hamil","childCategoryUrl":"https://www.shirisunshineexim.com//beli-susu-maternal/"}]
+                                [{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"https://valezaco.com//beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"https://valezaco.com//beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"https://valezaco.com//jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"https://valezaco.com//beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Nutrisi Khusus Anak","childCategoryUrl":"https://valezaco.com//beli-nutrisi-khusus-anak/"},{"childCategoryName":"Minuman","childCategoryUrl":"https://valezaco.com//beli-minuman-bayi-balita/"},{"childCategoryName":"Sereal","childCategoryUrl":"https://valezaco.com//beli-sereal-bayi-balita/"},{"childCategoryName":"Cracker & Biskuit","childCategoryUrl":"https://valezaco.com//beli-cracker-biskuit-bayi-balita/"},{"childCategoryName":"Makanan Ringan","childCategoryUrl":"https://valezaco.com//beli-makanan-ringan-bayi-balita/"},{"childCategoryName":"Makanan puree bayi","childCategoryUrl":"https://valezaco.com//beli-puree-bayi/"},{"childCategoryName":"Susu Ibu Hamil","childCategoryUrl":"https://valezaco.com//beli-susu-maternal/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_4">
-    <a href="https://www.shirisunshineexim.com//jual-baju-aksesoris-anak/">
+    <a href="https://valezaco.com//jual-baju-aksesoris-anak/">
     <span>Pakaian &amp; Aksesoris</span>
     </a>
     <script type="text" class="J_data_6_3">
-                                [{"childCategoryName":"(0--6 bulan) Set Pakaian","childCategoryUrl":"https://www.shirisunshineexim.com//beli-set-pakaian-bayi/"},{"childCategoryName":"(0--6 bulan) Body Suits","childCategoryUrl":"https://www.shirisunshineexim.com//beli-bodysuit-one-piece-bayi/"},{"childCategoryName":"(0--6 bulan) Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aksesoris-pakaian-anak/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Dress Bayi Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-dress-bayi-perempuan/"},{"childCategoryName":"Sepatu Bayi Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sepatu-bayi-perempuan/"},{"childCategoryName":"Aksesoris Bayi Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aksesoris-bayi-perempuan/"},{"childCategoryName":"Baju Renang Bayi Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-baju-renang-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Sepatu Bayi Laki-Laki","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sepatu-bayi-laki-laki/"},{"childCategoryName":"Aksesoris Bayi Laki-Laki","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aksesori-bayi-laki-laki/"},{"childCategoryName":"Baju Renang Bayi Laki-Laki","childCategoryUrl":"https://www.shirisunshineexim.com//beli-baju-renang-bayi-laki-laki/"}]
+                                [{"childCategoryName":"(0--6 bulan) Set Pakaian","childCategoryUrl":"https://valezaco.com//beli-set-pakaian-bayi/"},{"childCategoryName":"(0--6 bulan) Body Suits","childCategoryUrl":"https://valezaco.com//beli-bodysuit-one-piece-bayi/"},{"childCategoryName":"(0--6 bulan) Aksesoris","childCategoryUrl":"https://valezaco.com//beli-aksesoris-pakaian-anak/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"https://valezaco.com//beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Dress Bayi Perempuan","childCategoryUrl":"https://valezaco.com//beli-dress-bayi-perempuan/"},{"childCategoryName":"Sepatu Bayi Perempuan","childCategoryUrl":"https://valezaco.com//beli-sepatu-bayi-perempuan/"},{"childCategoryName":"Aksesoris Bayi Perempuan","childCategoryUrl":"https://valezaco.com//beli-aksesoris-bayi-perempuan/"},{"childCategoryName":"Baju Renang Bayi Perempuan","childCategoryUrl":"https://valezaco.com//beli-baju-renang-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"https://valezaco.com//beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Sepatu Bayi Laki-Laki","childCategoryUrl":"https://valezaco.com//beli-sepatu-bayi-laki-laki/"},{"childCategoryName":"Aksesoris Bayi Laki-Laki","childCategoryUrl":"https://valezaco.com//beli-aksesori-bayi-laki-laki/"},{"childCategoryName":"Baju Renang Bayi Laki-Laki","childCategoryUrl":"https://valezaco.com//beli-baju-renang-bayi-laki-laki/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_5">
-    <a href="https://www.shirisunshineexim.com//beli-makanan-bayi/">
+    <a href="https://valezaco.com//beli-makanan-bayi/">
     <span>Perlengkapan Menyusui</span>
     </a>
     <script type="text" class="J_data_6_4">
-                                [{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-botol-bayi/"},{"childCategoryName":"Botol","childCategoryUrl":"https://www.shirisunshineexim.com//beli-botol-bayi-balita/"},{"childCategoryName":"Aksesoris Dot Botol","childCategoryUrl":"https://www.shirisunshineexim.com//jual-aksesoris-botol-dot-bayi/"},{"childCategoryName":"Penghangat & Sterilizers","childCategoryUrl":"https://www.shirisunshineexim.com//beli-penghangat-sterilizer/"},{"childCategoryName":"Pompa Asi","childCategoryUrl":"https://www.shirisunshineexim.com//jual-pompa-asi/"},{"childCategoryName":"Aksesesoris Pompa Asi","childCategoryUrl":"https://www.shirisunshineexim.com//jual-aksesoris-pompa-asi/"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perawatan-puting/"},{"childCategoryName":"Bantal Menyusui","childCategoryUrl":"https://www.shirisunshineexim.com//beli-bantal-kursi-bayi/"},{"childCategoryName":"Kursi Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kursi-tinggi-bayi-kursi-booster/"},{"childCategoryName":"Food Blenders","childCategoryUrl":"https://www.shirisunshineexim.com//beli-blender-makanan-bayi/"},{"childCategoryName":"Peralatan Makan Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perlengkapan-makan-bayi-bb/"},{"childCategoryName":"Set Peralatan Makan Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//jual-piring-mangkok-bayi/"}]
+                                [{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://valezaco.com//beli-botol-bayi/"},{"childCategoryName":"Botol","childCategoryUrl":"https://valezaco.com//beli-botol-bayi-balita/"},{"childCategoryName":"Aksesoris Dot Botol","childCategoryUrl":"https://valezaco.com//jual-aksesoris-botol-dot-bayi/"},{"childCategoryName":"Penghangat & Sterilizers","childCategoryUrl":"https://valezaco.com//beli-penghangat-sterilizer/"},{"childCategoryName":"Pompa Asi","childCategoryUrl":"https://valezaco.com//jual-pompa-asi/"},{"childCategoryName":"Aksesesoris Pompa Asi","childCategoryUrl":"https://valezaco.com//jual-aksesoris-pompa-asi/"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://valezaco.com//beli-perawatan-puting/"},{"childCategoryName":"Bantal Menyusui","childCategoryUrl":"https://valezaco.com//beli-bantal-kursi-bayi/"},{"childCategoryName":"Kursi Bayi","childCategoryUrl":"https://valezaco.com//beli-kursi-tinggi-bayi-kursi-booster/"},{"childCategoryName":"Food Blenders","childCategoryUrl":"https://valezaco.com//beli-blender-makanan-bayi/"},{"childCategoryName":"Peralatan Makan Bayi","childCategoryUrl":"https://valezaco.com//beli-perlengkapan-makan-bayi-bb/"},{"childCategoryName":"Set Peralatan Makan Bayi","childCategoryUrl":"https://valezaco.com//jual-piring-mangkok-bayi/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_6">
-    <a href="https://www.shirisunshineexim.com//beli-perlengkapan-berkendara-bayi/">
+    <a href="https://valezaco.com//beli-perlengkapan-berkendara-bayi/">
     <span>Perlengkapan Bayi</span>
     </a>
     <script type="text" class="J_data_6_5">
-                                [{"childCategoryName":"Sling Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sling-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"https://www.shirisunshineexim.com//beli-soft-carrier/"},{"childCategoryName":"Stroller","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kereta-dorong-bayi/"},{"childCategoryName":"Car Seat","childCategoryUrl":"https://www.shirisunshineexim.com//beli-car-seat-bb/"},{"childCategoryName":"Playard","childCategoryUrl":"https://www.shirisunshineexim.com//beli-playard/"},{"childCategoryName":"Ayunan, Jumper & Bouncer Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-ayunan-jumper-bouncer-bayi/"},{"childCategoryName":"Walker","childCategoryUrl":"https://www.shirisunshineexim.com//beli-walker/"},{"childCategoryName":"Tempat Duduk & Trailer Sepeda","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tempat-duduk-trailer-sepeda/"},{"childCategoryName":"Tas Anak","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tas-anak/"},{"childCategoryName":"Koper Anak","childCategoryUrl":"https://www.shirisunshineexim.com//beli-koper-anak/"},{"childCategoryName":"Tali & Harness Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tali-harness-bayi/"}]
+                                [{"childCategoryName":"Sling Bayi","childCategoryUrl":"https://valezaco.com//beli-sling-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"https://valezaco.com//beli-soft-carrier/"},{"childCategoryName":"Stroller","childCategoryUrl":"https://valezaco.com//beli-kereta-dorong-bayi/"},{"childCategoryName":"Car Seat","childCategoryUrl":"https://valezaco.com//beli-car-seat-bb/"},{"childCategoryName":"Playard","childCategoryUrl":"https://valezaco.com//beli-playard/"},{"childCategoryName":"Ayunan, Jumper & Bouncer Bayi","childCategoryUrl":"https://valezaco.com//beli-ayunan-jumper-bouncer-bayi/"},{"childCategoryName":"Walker","childCategoryUrl":"https://valezaco.com//beli-walker/"},{"childCategoryName":"Tempat Duduk & Trailer Sepeda","childCategoryUrl":"https://valezaco.com//beli-tempat-duduk-trailer-sepeda/"},{"childCategoryName":"Tas Anak","childCategoryUrl":"https://valezaco.com//beli-tas-anak/"},{"childCategoryName":"Koper Anak","childCategoryUrl":"https://valezaco.com//beli-koper-anak/"},{"childCategoryName":"Tali & Harness Bayi","childCategoryUrl":"https://valezaco.com//beli-tali-harness-bayi/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_7">
-    <a href="https://www.shirisunshineexim.com//jual-perlengkapan-kamar-bayi/">
+    <a href="https://valezaco.com//jual-perlengkapan-kamar-bayi/">
     <span>Kamar Bayi</span>
     </a>
     <script type="text" class="J_data_6_6">
-                                [{"childCategoryName":"Matras Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kasur-seprai-bayi/"},{"childCategoryName":"Selimut Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-selimut-bayi/"},{"childCategoryName":"Seprai Keranjang Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-seprai-keranjang-bayi/"},{"childCategoryName":"Kelengkapan Alat Tidur Balita","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kelengkapan-alat-tidur-balita/"},{"childCategoryName":"Selimut Tebal & Bed Cover Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-selimut-tebal-bed-cover-bayi/"},{"childCategoryName":"Bantal, Pelindung & Sarung Bantal Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-bantal-pelindung-sarung-bantal-bayi/"},{"childCategoryName":"Furnitur Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-furnitur-bayi/"},{"childCategoryName":"Ranjang Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//jual-ranjang-bayi/"},{"childCategoryName":"Keranjang Bayi Cradle","childCategoryUrl":"https://www.shirisunshineexim.com//beli-keranjang-bayi-cradle/"},{"childCategoryName":"Laci & Lemari Pakaian Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-laci-lemari-pakaian-bayi/"},{"childCategoryName":"Penyimpanan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tempat-pengatur-penyimpanan/"},{"childCategoryName":"Dekorasi Kamar Anak","childCategoryUrl":"https://www.shirisunshineexim.com//beli-dekorasi-kamar-anak/"}]
+                                [{"childCategoryName":"Matras Bayi","childCategoryUrl":"https://valezaco.com//beli-kasur-seprai-bayi/"},{"childCategoryName":"Selimut Bayi","childCategoryUrl":"https://valezaco.com//beli-selimut-bayi/"},{"childCategoryName":"Seprai Keranjang Bayi","childCategoryUrl":"https://valezaco.com//beli-seprai-keranjang-bayi/"},{"childCategoryName":"Kelengkapan Alat Tidur Balita","childCategoryUrl":"https://valezaco.com//beli-kelengkapan-alat-tidur-balita/"},{"childCategoryName":"Selimut Tebal & Bed Cover Bayi","childCategoryUrl":"https://valezaco.com//beli-selimut-tebal-bed-cover-bayi/"},{"childCategoryName":"Bantal, Pelindung & Sarung Bantal Bayi","childCategoryUrl":"https://valezaco.com//beli-bantal-pelindung-sarung-bantal-bayi/"},{"childCategoryName":"Furnitur Bayi","childCategoryUrl":"https://valezaco.com//beli-furnitur-bayi/"},{"childCategoryName":"Ranjang Bayi","childCategoryUrl":"https://valezaco.com//jual-ranjang-bayi/"},{"childCategoryName":"Keranjang Bayi Cradle","childCategoryUrl":"https://valezaco.com//beli-keranjang-bayi-cradle/"},{"childCategoryName":"Laci & Lemari Pakaian Bayi","childCategoryUrl":"https://valezaco.com//beli-laci-lemari-pakaian-bayi/"},{"childCategoryName":"Penyimpanan","childCategoryUrl":"https://valezaco.com//beli-tempat-pengatur-penyimpanan/"},{"childCategoryName":"Dekorasi Kamar Anak","childCategoryUrl":"https://valezaco.com//beli-dekorasi-kamar-anak/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_8">
-    <a href="https://www.shirisunshineexim.com//beli-perlengkapan-mandi-perawatan-kulit-anak/">
+    <a href="https://valezaco.com//beli-perlengkapan-mandi-perawatan-kulit-anak/">
     <span>Perawatan Bayi</span>
     </a>
     <script type="text" class="J_data_6_7">
-                                [{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perawatan-kulit-bayi/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sampo-kondisioner-bb/"},{"childCategoryName":"Sabun & Pembersih Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sabun-pembersih-bayi/"},{"childCategoryName":"Perawatan Mulut Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Sikat Gigi & Pasta Gigi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Tempat Duduk & Bak Mandi Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tempat-duduk-bak-mandi-bayi/"},{"childCategoryName":"Lap Mandi & Handuk Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//jual-handuk-bayi/"},{"childCategoryName":"Pelindung Matahari Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pelindung-matahari-bayi/"},{"childCategoryName":"Aromaterapi Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aromaterapi-bayi/"},{"childCategoryName":"Perlengkapan Mandi Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perlengkapan-mandi-bayi-bb/"},{"childCategoryName":"Alas Mandi Bayi Anti Slip","childCategoryUrl":"https://www.shirisunshineexim.com//beli-alas-mandi-bayi-anti-slip/"}]
+                                [{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"https://valezaco.com//beli-perawatan-kulit-bayi/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"https://valezaco.com//beli-sampo-kondisioner-bb/"},{"childCategoryName":"Sabun & Pembersih Bayi","childCategoryUrl":"https://valezaco.com//beli-sabun-pembersih-bayi/"},{"childCategoryName":"Perawatan Mulut Bayi","childCategoryUrl":"https://valezaco.com//beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Sikat Gigi & Pasta Gigi","childCategoryUrl":"https://valezaco.com//beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Tempat Duduk & Bak Mandi Bayi","childCategoryUrl":"https://valezaco.com//beli-tempat-duduk-bak-mandi-bayi/"},{"childCategoryName":"Lap Mandi & Handuk Bayi","childCategoryUrl":"https://valezaco.com//jual-handuk-bayi/"},{"childCategoryName":"Pelindung Matahari Bayi","childCategoryUrl":"https://valezaco.com//beli-pelindung-matahari-bayi/"},{"childCategoryName":"Aromaterapi Bayi","childCategoryUrl":"https://valezaco.com//beli-aromaterapi-bayi/"},{"childCategoryName":"Perlengkapan Mandi Bayi","childCategoryUrl":"https://valezaco.com//beli-perlengkapan-mandi-bayi-bb/"},{"childCategoryName":"Alas Mandi Bayi Anti Slip","childCategoryUrl":"https://valezaco.com//beli-alas-mandi-bayi-anti-slip/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_9">
-    <a href="https://www.shirisunshineexim.com//beli-mainan-anak/">
+    <a href="https://valezaco.com//beli-mainan-anak/">
     <span>Mainan</span>
     </a>
     <script type="text" class="J_data_6_8">
-                                [{"childCategoryName":"Action Figure & Mainan Koleksi","childCategoryUrl":"https://www.shirisunshineexim.com//jual-koleksi-mainan-action-figure/"},{"childCategoryName":"Mainan Koleksi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-koleksi-tg/"},{"childCategoryName":"Mini Figur","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mini-figure-tg/"},{"childCategoryName":"Kerajinan Tangan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kerajinan-tangan-kesenian-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-balok-bangunan/"},{"childCategoryName":"Boneka & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//beli-boneka-aksesori/"},{"childCategoryName":"Kostum Pesta","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-dress-up/"},{"childCategoryName":"Mainan Edukasi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-pembelajaran-edukasi/"},{"childCategoryName":"Puzzle & Games","childCategoryUrl":"https://www.shirisunshineexim.com//beli-permainan-tradisional/"},{"childCategoryName":"Hobi & Hiburan","childCategoryUrl":"https://www.shirisunshineexim.com//Shop-Hobbies-Entertainment/"},{"childCategoryName":"Perlengkapan Pesta","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perlengkapan-pesta/"}]
+                                [{"childCategoryName":"Action Figure & Mainan Koleksi","childCategoryUrl":"https://valezaco.com//jual-koleksi-mainan-action-figure/"},{"childCategoryName":"Mainan Koleksi","childCategoryUrl":"https://valezaco.com//beli-mainan-koleksi-tg/"},{"childCategoryName":"Mini Figur","childCategoryUrl":"https://valezaco.com//beli-mini-figure-tg/"},{"childCategoryName":"Kerajinan Tangan","childCategoryUrl":"https://valezaco.com//beli-kerajinan-tangan-kesenian-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"https://valezaco.com//beli-mainan-balok-bangunan/"},{"childCategoryName":"Boneka & Aksesoris","childCategoryUrl":"https://valezaco.com//beli-boneka-aksesori/"},{"childCategoryName":"Kostum Pesta","childCategoryUrl":"https://valezaco.com//beli-mainan-dress-up/"},{"childCategoryName":"Mainan Edukasi","childCategoryUrl":"https://valezaco.com//beli-mainan-pembelajaran-edukasi/"},{"childCategoryName":"Puzzle & Games","childCategoryUrl":"https://valezaco.com//beli-permainan-tradisional/"},{"childCategoryName":"Hobi & Hiburan","childCategoryUrl":"https://valezaco.com//Shop-Hobbies-Entertainment/"},{"childCategoryName":"Perlengkapan Pesta","childCategoryUrl":"https://valezaco.com//beli-perlengkapan-pesta/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_10">
-    <a href="https://www.shirisunshineexim.com//beli-remote-control-mainan-kendaraan/">
+    <a href="https://valezaco.com//beli-remote-control-mainan-kendaraan/">
     <span>Mainan Elektronik &amp; RC</span>
     </a>
     <script type="text" class="J_data_6_9">
-                                [{"childCategoryName":"Mobil Remote Control","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kendaraan-rc-baterai/"},{"childCategoryName":"Robot Remote Control","childCategoryUrl":"https://www.shirisunshineexim.com//beli-rc-figure-robot/"},{"childCategoryName":"Mobil Die Cast","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kendaraan-die-cast/"},{"childCategoryName":"Mainan Mobil","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-kendaraan-tg/"},{"childCategoryName":"Mainan Kereta Api & Rel","childCategoryUrl":"https://www.shirisunshineexim.com//beli-set-mainan-kereta/"},{"childCategoryName":"Drone Mainan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-drones-quadcopters/"},{"childCategoryName":"Helikopter","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-helikopter/"},{"childCategoryName":"Video Games & Hiburan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-hiburan-video-game/"},{"childCategoryName":"Walkie Talkies","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-walkie-talkie/"}]
+                                [{"childCategoryName":"Mobil Remote Control","childCategoryUrl":"https://valezaco.com//beli-kendaraan-rc-baterai/"},{"childCategoryName":"Robot Remote Control","childCategoryUrl":"https://valezaco.com//beli-rc-figure-robot/"},{"childCategoryName":"Mobil Die Cast","childCategoryUrl":"https://valezaco.com//beli-kendaraan-die-cast/"},{"childCategoryName":"Mainan Mobil","childCategoryUrl":"https://valezaco.com//beli-mainan-kendaraan-tg/"},{"childCategoryName":"Mainan Kereta Api & Rel","childCategoryUrl":"https://valezaco.com//beli-set-mainan-kereta/"},{"childCategoryName":"Drone Mainan","childCategoryUrl":"https://valezaco.com//beli-drones-quadcopters/"},{"childCategoryName":"Helikopter","childCategoryUrl":"https://valezaco.com//beli-mainan-helikopter/"},{"childCategoryName":"Video Games & Hiburan","childCategoryUrl":"https://valezaco.com//shop-hiburan-video-game/"},{"childCategoryName":"Walkie Talkies","childCategoryUrl":"https://valezaco.com//beli-mainan-walkie-talkie/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_11">
-    <a href="https://www.shirisunshineexim.com//beli-olahraga-permainan-luar-ruangan/">
+    <a href="https://valezaco.com//beli-olahraga-permainan-luar-ruangan/">
     <span>Mainan Olahraga &amp; Luar Ruangan</span>
     </a>
     <script type="text" class="J_data_6_10">
-                                [{"childCategoryName":"Kolam Renang & Mainan Air","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-air-kolam-renang/"},{"childCategoryName":"Mainan Olahraga","childCategoryUrl":"https://www.shirisunshineexim.com//shop-mainan-baseball-softball/"},{"childCategoryName":"Mainan Luar Ruangan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aktivitas-dan-olahraga-luar-ruangan/"},{"childCategoryName":"Mainan Blaster","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-blaster/"},{"childCategoryName":"Kolam Bola & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//beli-bola-pit-aksesori/"},{"childCategoryName":"Mainan Terbang","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-terbang/"},{"childCategoryName":"Layangan & Kincir Angin","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-layang-layang/"},{"childCategoryName":"Istana Balon","childCategoryUrl":"https://www.shirisunshineexim.com//beli-balon-loncat-istana-balon/"},{"childCategoryName":"Yoyo & Kendama","childCategoryUrl":"https://www.shirisunshineexim.com//beli-yo-yo-kendama/"},{"childCategoryName":"Set Mainan Taman Bermain","childCategoryUrl":"https://www.shirisunshineexim.com//beli-set-peralatan-permainan-playground/"},{"childCategoryName":"Kemah & Terowongan Mainan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-tenda-terowongan/"},{"childCategoryName":"Mainan Rumah-rumahan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-playhouses/"}]
+                                [{"childCategoryName":"Kolam Renang & Mainan Air","childCategoryUrl":"https://valezaco.com//beli-mainan-air-kolam-renang/"},{"childCategoryName":"Mainan Olahraga","childCategoryUrl":"https://valezaco.com//shop-mainan-baseball-softball/"},{"childCategoryName":"Mainan Luar Ruangan","childCategoryUrl":"https://valezaco.com//beli-aktivitas-dan-olahraga-luar-ruangan/"},{"childCategoryName":"Mainan Blaster","childCategoryUrl":"https://valezaco.com//beli-mainan-blaster/"},{"childCategoryName":"Kolam Bola & Aksesoris","childCategoryUrl":"https://valezaco.com//beli-bola-pit-aksesori/"},{"childCategoryName":"Mainan Terbang","childCategoryUrl":"https://valezaco.com//beli-mainan-terbang/"},{"childCategoryName":"Layangan & Kincir Angin","childCategoryUrl":"https://valezaco.com//beli-mainan-layang-layang/"},{"childCategoryName":"Istana Balon","childCategoryUrl":"https://valezaco.com//beli-balon-loncat-istana-balon/"},{"childCategoryName":"Yoyo & Kendama","childCategoryUrl":"https://valezaco.com//beli-yo-yo-kendama/"},{"childCategoryName":"Set Mainan Taman Bermain","childCategoryUrl":"https://valezaco.com//beli-set-peralatan-permainan-playground/"},{"childCategoryName":"Kemah & Terowongan Mainan","childCategoryUrl":"https://valezaco.com//beli-mainan-tenda-terowongan/"},{"childCategoryName":"Mainan Rumah-rumahan","childCategoryUrl":"https://valezaco.com//beli-playhouses/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_7_12">
-    <a href="https://www.shirisunshineexim.com//baby-toddler-toys/">
+    <a href="https://valezaco.com//baby-toddler-toys/">
     <span>Mainan Bayi &amp; Balita</span>
     </a>
     <script type="text" class="J_data_6_11">
-                                [{"childCategoryName":"Playgym & Playmat","childCategoryUrl":"https://www.shirisunshineexim.com//jual-mainan-gym-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-balok-bangunan/"},{"childCategoryName":"Mainan Mandi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-mandi-anak-tg/"},{"childCategoryName":"Mainan Tidur Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-keranjang-bayi-perlengkapannya-tg/"},{"childCategoryName":"Mainan Balita","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-edukatif-anak-tg/"},{"childCategoryName":"Mainan Musik & Suara","childCategoryUrl":"https://www.shirisunshineexim.com//beli-musik-suara-tg/"},{"childCategoryName":"Mainan Tarik Ulur","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-dorong-tarik-tg/"},{"childCategoryName":"Mainan Shape Sorting","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mainan-shape-sorting-tg/"},{"childCategoryName":"Indoor Climbers & Play Structures","childCategoryUrl":"https://www.shirisunshineexim.com//beli-indoor-climbers-play-structure-tg/"},{"childCategoryName":"Rocking & Spring Ride-Ons","childCategoryUrl":"https://www.shirisunshineexim.com//beli-rocking-spring-ride-on-tg/"}]
+                                [{"childCategoryName":"Playgym & Playmat","childCategoryUrl":"https://valezaco.com//jual-mainan-gym-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"https://valezaco.com//beli-mainan-balok-bangunan/"},{"childCategoryName":"Mainan Mandi","childCategoryUrl":"https://valezaco.com//beli-mainan-mandi-anak-tg/"},{"childCategoryName":"Mainan Tidur Bayi","childCategoryUrl":"https://valezaco.com//beli-mainan-keranjang-bayi-perlengkapannya-tg/"},{"childCategoryName":"Mainan Balita","childCategoryUrl":"https://valezaco.com//beli-mainan-edukatif-anak-tg/"},{"childCategoryName":"Mainan Musik & Suara","childCategoryUrl":"https://valezaco.com//beli-musik-suara-tg/"},{"childCategoryName":"Mainan Tarik Ulur","childCategoryUrl":"https://valezaco.com//beli-mainan-dorong-tarik-tg/"},{"childCategoryName":"Mainan Shape Sorting","childCategoryUrl":"https://valezaco.com//beli-mainan-shape-sorting-tg/"},{"childCategoryName":"Indoor Climbers & Play Structures","childCategoryUrl":"https://valezaco.com//beli-indoor-climbers-play-structure-tg/"},{"childCategoryName":"Rocking & Spring Ride-Ons","childCategoryUrl":"https://valezaco.com//beli-rocking-spring-ride-on-tg/"}]
                             </script>
     </li>
     </ul>
     <ul class="lzd-site-menu-sub Level_1_Category_No8" data-spm="cate_8">
     <li class="lzd-site-menu-sub-item" data-cate="cate_8_1">
-    <a href="https://www.shirisunshineexim.com//beli-tv-audio-video-permainan-dan-gadget/">
+    <a href="https://valezaco.com//beli-tv-audio-video-permainan-dan-gadget/">
     <span>TV &amp; Perangkat Video</span>
     </a>
     <script type="text" class="J_data_7_0">
-                                [{"childCategoryName":""},{"childCategoryName":"TV LED","childCategoryUrl":"https://www.shirisunshineexim.com//shop-televisi-digital/"},{"childCategoryName":"TV Smart","childCategoryUrl":"https://www.shirisunshineexim.com//beli-smart-tv/"},{"childCategoryName":"Blu-Ray/DVD Player","childCategoryUrl":"https://www.shirisunshineexim.com//beli-blu-ray-player/"},{"childCategoryName":"Media Player","childCategoryUrl":"https://www.shirisunshineexim.com//shop-media-player/"},{"childCategoryName":"Proyektor","childCategoryUrl":"https://www.shirisunshineexim.com//beli-proyektor-3/"}]
+                                [{"childCategoryName":""},{"childCategoryName":"TV LED","childCategoryUrl":"https://valezaco.com//shop-televisi-digital/"},{"childCategoryName":"TV Smart","childCategoryUrl":"https://valezaco.com//beli-smart-tv/"},{"childCategoryName":"Blu-Ray/DVD Player","childCategoryUrl":"https://valezaco.com//beli-blu-ray-player/"},{"childCategoryName":"Media Player","childCategoryUrl":"https://valezaco.com//shop-media-player/"},{"childCategoryName":"Proyektor","childCategoryUrl":"https://valezaco.com//beli-proyektor-3/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_8_2">
-    <a href="https://www.shirisunshineexim.com//beli-perlengkapan-dapur/">
+    <a href="https://valezaco.com//beli-perlengkapan-dapur/">
     <span>Peralatan Dapur Kecil</span>
     </a>
     <script type="text" class="J_data_7_1">
-                                [{"childCategoryName":""},{"childCategoryName":"Rice Cooker","childCategoryUrl":"https://www.shirisunshineexim.com//beli-rice-cooker/"},{"childCategoryName":"Blender, Mixer & Grinder","childCategoryUrl":"https://www.shirisunshineexim.com//beli-blender-mixer-juicer/"},{"childCategoryName":"Kompor Gas","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kompor-gas/"},{"childCategoryName":"Teko Listrik","childCategoryUrl":"https://www.shirisunshineexim.com//beli-ketel-elektrik-2/"},{"childCategoryName":"Juicer","childCategoryUrl":"https://www.shirisunshineexim.com//beli-juicer-pengekstrak-buah/"},{"childCategoryName":"Mesin Kopi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mesin-kopi/"},{"childCategoryName":"Air Fryer","childCategoryUrl":"https://www.shirisunshineexim.com//beli-air-fryers/"},{"childCategoryName":"Peralatan Dapur Lainnya","childCategoryUrl":"https://www.shirisunshineexim.com//shop-ska-lainnya/"}]
+                                [{"childCategoryName":""},{"childCategoryName":"Rice Cooker","childCategoryUrl":"https://valezaco.com//beli-rice-cooker/"},{"childCategoryName":"Blender, Mixer & Grinder","childCategoryUrl":"https://valezaco.com//beli-blender-mixer-juicer/"},{"childCategoryName":"Kompor Gas","childCategoryUrl":"https://valezaco.com//beli-kompor-gas/"},{"childCategoryName":"Teko Listrik","childCategoryUrl":"https://valezaco.com//beli-ketel-elektrik-2/"},{"childCategoryName":"Juicer","childCategoryUrl":"https://valezaco.com//beli-juicer-pengekstrak-buah/"},{"childCategoryName":"Mesin Kopi","childCategoryUrl":"https://valezaco.com//beli-mesin-kopi/"},{"childCategoryName":"Air Fryer","childCategoryUrl":"https://valezaco.com//beli-air-fryers/"},{"childCategoryName":"Peralatan Dapur Lainnya","childCategoryUrl":"https://valezaco.com//shop-ska-lainnya/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_8_3">
-    <a href="https://www.shirisunshineexim.com//shop-perlatan-besar/">
+    <a href="https://valezaco.com//shop-perlatan-besar/">
     <span>Elektronik Rumah Besar</span>
     </a>
     <script type="text" class="J_data_7_2">
-                                [{"childCategoryName":""},{"childCategoryName":"Mesin Cuci","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mesin-cuci/"},{"childCategoryName":"Kulkas","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lemari-es/"},{"childCategoryName":"Microwave","childCategoryUrl":"https://www.shirisunshineexim.com//beli-microwave/"},{"childCategoryName":"Oven","childCategoryUrl":"https://www.shirisunshineexim.com//beli-ovens/"},{"childCategoryName":"Dispenser Air Minum","childCategoryUrl":"https://www.shirisunshineexim.com//beli-dispenser-air/"},{"childCategoryName":"AC","childCategoryUrl":"https://www.shirisunshineexim.com//beli-ac/"},{"childCategoryName":"Pemanas Air","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pemanas-air/"}]
+                                [{"childCategoryName":""},{"childCategoryName":"Mesin Cuci","childCategoryUrl":"https://valezaco.com//beli-mesin-cuci/"},{"childCategoryName":"Kulkas","childCategoryUrl":"https://valezaco.com//beli-lemari-es/"},{"childCategoryName":"Microwave","childCategoryUrl":"https://valezaco.com//beli-microwave/"},{"childCategoryName":"Oven","childCategoryUrl":"https://valezaco.com//beli-ovens/"},{"childCategoryName":"Dispenser Air Minum","childCategoryUrl":"https://valezaco.com//beli-dispenser-air/"},{"childCategoryName":"AC","childCategoryUrl":"https://valezaco.com//beli-ac/"},{"childCategoryName":"Pemanas Air","childCategoryUrl":"https://valezaco.com//beli-pemanas-air/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_8_4">
-    <a href="https://www.shirisunshineexim.com//shop-pendingin-pembersih-udara-mini/">
+    <a href="https://valezaco.com//shop-pendingin-pembersih-udara-mini/">
     <span>Penyejuk dan Pembersih Udara</span>
     </a>
     <script type="text" class="J_data_7_3">
-                                [{"childCategoryName":""},{"childCategoryName":"Kipas Angin","childCategoryUrl":"https://www.shirisunshineexim.com//shop-kipas/"},{"childCategoryName":"Air Cooler","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pendingin-udara-2/"},{"childCategoryName":"Air Purifier","childCategoryUrl":"https://www.shirisunshineexim.com//beli-penjernih-udara-2/"},{"childCategoryName":"Humidifier","childCategoryUrl":"https://www.shirisunshineexim.com//beli-humidifier/"},{"childCategoryName":"Dehumidifier","childCategoryUrl":"https://www.shirisunshineexim.com//beli-dehumidifier/"}]
+                                [{"childCategoryName":""},{"childCategoryName":"Kipas Angin","childCategoryUrl":"https://valezaco.com//shop-kipas/"},{"childCategoryName":"Air Cooler","childCategoryUrl":"https://valezaco.com//beli-pendingin-udara-2/"},{"childCategoryName":"Air Purifier","childCategoryUrl":"https://valezaco.com//beli-penjernih-udara-2/"},{"childCategoryName":"Humidifier","childCategoryUrl":"https://valezaco.com//beli-humidifier/"},{"childCategoryName":"Dehumidifier","childCategoryUrl":"https://valezaco.com//beli-dehumidifier/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_8_5">
-    <a href="https://www.shirisunshineexim.com//beli-perawatan-lantai/">
+    <a href="https://valezaco.com//beli-perawatan-lantai/">
     <span>Penghisap Debu &amp; Perawatan Lantai</span>
     </a>
     <script type="text" class="J_data_7_4">
-                                [{"childCategoryName":""},{"childCategoryName":"Penghisap Debu","childCategoryUrl":"https://www.shirisunshineexim.com//shop-penyedot-debu/"},{"childCategoryName":"Penghisap Debu Robotik","childCategoryUrl":"https://www.shirisunshineexim.com//shop-penyedot-debu-robot/"},{"childCategoryName":"Penghisap Debu dengan Tongkat","childCategoryUrl":"https://www.shirisunshineexim.com//shop-penyedot-debu-tongkat/"}]
+                                [{"childCategoryName":""},{"childCategoryName":"Penghisap Debu","childCategoryUrl":"https://valezaco.com//shop-penyedot-debu/"},{"childCategoryName":"Penghisap Debu Robotik","childCategoryUrl":"https://valezaco.com//shop-penyedot-debu-robot/"},{"childCategoryName":"Penghisap Debu dengan Tongkat","childCategoryUrl":"https://valezaco.com//shop-penyedot-debu-tongkat/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_8_6">
-    <a href="https://www.shirisunshineexim.com//shop-peralatan-perawatan-personal/">
+    <a href="https://valezaco.com//shop-peralatan-perawatan-personal/">
     <span>Alat Perawatan Diri</span>
     </a>
     <script type="text" class="J_data_7_5">
-                                [{"childCategoryName":""},{"childCategoryName":"Hair Dryer","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pengering-rambut/"},{"childCategoryName":"Alat Penata Rambut","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perlengkapan-styling-rambut/"},{"childCategoryName":"Shaver & Pencukur Kumis Jenggot","childCategoryUrl":"https://www.shirisunshineexim.com//beli-shaver/"},{"childCategoryName":"Sikat Gigi Elektrik","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sikat-gigi-elektrik/"}]
+                                [{"childCategoryName":""},{"childCategoryName":"Hair Dryer","childCategoryUrl":"https://valezaco.com//beli-pengering-rambut/"},{"childCategoryName":"Alat Penata Rambut","childCategoryUrl":"https://valezaco.com//beli-perlengkapan-styling-rambut/"},{"childCategoryName":"Shaver & Pencukur Kumis Jenggot","childCategoryUrl":"https://valezaco.com//beli-shaver/"},{"childCategoryName":"Sikat Gigi Elektrik","childCategoryUrl":"https://valezaco.com//beli-sikat-gigi-elektrik/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_8_7">
-    <a href="https://www.shirisunshineexim.com//jual-aksesoris-elektronik-rumah-tangga/">
+    <a href="https://valezaco.com//jual-aksesoris-elektronik-rumah-tangga/">
     <span>Aksesoris &amp; Suku Cadang</span>
     </a>
     <script type="text" class="J_data_7_6">
-                                [{"childCategoryName":""},{"childCategoryName":"Suku Cadang & Aksesoris Peralatan Dapur Kecil","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aksesoris-blender-dan-mixer/"},{"childCategoryName":"Suku Cadang & Aksesoris AC","childCategoryUrl":"https://www.shirisunshineexim.com//beli-suku-cadang-aksesoris-ac/"},{"childCategoryName":"Suku Cadang & Aksesoris Mesin Cuci","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aksesoris-mesin-cuci-dan-pengering-pakaian/"},{"childCategoryName":"Suku Cadang & Filter Pengganti","childCategoryUrl":"https://www.shirisunshineexim.com//beli-filter-air/"},{"childCategoryName":"Suku Cadang & Filter Penghisap Debu","childCategoryUrl":"https://www.shirisunshineexim.com//beli-suku-kadang-aksesoris-vacuum-cleaner/"}]
+                                [{"childCategoryName":""},{"childCategoryName":"Suku Cadang & Aksesoris Peralatan Dapur Kecil","childCategoryUrl":"https://valezaco.com//beli-aksesoris-blender-dan-mixer/"},{"childCategoryName":"Suku Cadang & Aksesoris AC","childCategoryUrl":"https://valezaco.com//beli-suku-cadang-aksesoris-ac/"},{"childCategoryName":"Suku Cadang & Aksesoris Mesin Cuci","childCategoryUrl":"https://valezaco.com//beli-aksesoris-mesin-cuci-dan-pengering-pakaian/"},{"childCategoryName":"Suku Cadang & Filter Pengganti","childCategoryUrl":"https://valezaco.com//beli-filter-air/"},{"childCategoryName":"Suku Cadang & Filter Penghisap Debu","childCategoryUrl":"https://valezaco.com//beli-suku-kadang-aksesoris-vacuum-cleaner/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_8_8">
-    <a href="https://www.shirisunshineexim.com//jual-aksesoris-televisi/">
+    <a href="https://valezaco.com//jual-aksesoris-televisi/">
     <span>Aksesoris Televisi</span>
     </a>
     <script type="text" class="J_data_7_7">
-                                [{"childCategoryName":""},{"childCategoryName":"TV Box","childCategoryUrl":"https://www.shirisunshineexim.com//jual-tv-receiver/"},{"childCategoryName":"Antena TV","childCategoryUrl":"https://www.shirisunshineexim.com//jual-antena-tv/"},{"childCategoryName":"Bracket Dinding TV & Pelindung","childCategoryUrl":"https://www.shirisunshineexim.com//jual-bracket-dinding-tv/"},{"childCategoryName":"Remote Control TV","childCategoryUrl":"https://www.shirisunshineexim.com//jual-remote-control-tv/"},{"childCategoryName":"Kabel TV","childCategoryUrl":"https://www.shirisunshineexim.com//jual-kabel-tv/"},{"childCategoryName":"Adaptor TV","childCategoryUrl":"https://www.shirisunshineexim.com//jual-adaptor-tv/"},{"childCategoryName":"Kacamata 3D TV","childCategoryUrl":"https://www.shirisunshineexim.com//jual-kacamata-3d-tv/"}]
+                                [{"childCategoryName":""},{"childCategoryName":"TV Box","childCategoryUrl":"https://valezaco.com//jual-tv-receiver/"},{"childCategoryName":"Antena TV","childCategoryUrl":"https://valezaco.com//jual-antena-tv/"},{"childCategoryName":"Bracket Dinding TV & Pelindung","childCategoryUrl":"https://valezaco.com//jual-bracket-dinding-tv/"},{"childCategoryName":"Remote Control TV","childCategoryUrl":"https://valezaco.com//jual-remote-control-tv/"},{"childCategoryName":"Kabel TV","childCategoryUrl":"https://valezaco.com//jual-kabel-tv/"},{"childCategoryName":"Adaptor TV","childCategoryUrl":"https://valezaco.com//jual-adaptor-tv/"},{"childCategoryName":"Kacamata 3D TV","childCategoryUrl":"https://valezaco.com//jual-kacamata-3d-tv/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_8_9">
-    <a href="https://www.shirisunshineexim.com//jual-home-entertainment/">
+    <a href="https://valezaco.com//jual-home-entertainment/">
     <span>Home Entertainment</span>
     </a>
     <script type="text" class="J_data_7_8">
-                                [{"childCategoryName":""},{"childCategoryName":"Soundbar","childCategoryUrl":"https://www.shirisunshineexim.com//jual-soundbar/"},{"childCategoryName":"Sistem Karaoke","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sistem-karaoke/"},{"childCategoryName":"Sistem Hi-Fi","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sistem-hi-fi/"},{"childCategoryName":"Sound System Panggung","childCategoryUrl":"https://www.shirisunshineexim.com//sound-system-panggung/"},{"childCategoryName":"Player Portabel","childCategoryUrl":"https://www.shirisunshineexim.com//beli-audio-player/"}]
+                                [{"childCategoryName":""},{"childCategoryName":"Soundbar","childCategoryUrl":"https://valezaco.com//jual-soundbar/"},{"childCategoryName":"Sistem Karaoke","childCategoryUrl":"https://valezaco.com//jual-sistem-karaoke/"},{"childCategoryName":"Sistem Hi-Fi","childCategoryUrl":"https://valezaco.com//jual-sistem-hi-fi/"},{"childCategoryName":"Sound System Panggung","childCategoryUrl":"https://valezaco.com//sound-system-panggung/"},{"childCategoryName":"Player Portabel","childCategoryUrl":"https://valezaco.com//beli-audio-player/"}]
                             </script>
     </li>
     </ul>
     <ul class="lzd-site-menu-sub Level_1_Category_No9" data-spm="cate_9">
     <li class="lzd-site-menu-sub-item" data-cate="cate_9_1">
-    <a href="https://www.shirisunshineexim.com//beli-dekorasi-rumah/">
+    <a href="https://valezaco.com//beli-dekorasi-rumah/">
     <span>Dekorasi Rumah</span>
     </a>
     <script type="text" class="J_data_8_0">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Stiker Dinding","childCategoryUrl":"https://www.shirisunshineexim.com//beli-stiker-dinding/"},{"childCategoryName":"Gorden","childCategoryUrl":"https://www.shirisunshineexim.com//gorden-dan-kerai/"},{"childCategoryName":"Tikar & Karpet","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tikar-karpet/"},{"childCategoryName":"Hiasan Dinding","childCategoryUrl":"https://www.shirisunshineexim.com//beli-hiasan-dinding/"},{"childCategoryName":"Dekorasi Aksen","childCategoryUrl":"https://www.shirisunshineexim.com//shop-aksesoris-dekor/"},{"childCategoryName":"Bunga & Tanaman Artifisial","childCategoryUrl":"https://www.shirisunshineexim.com//beli-bunga-tanaman-artifisial/"},{"childCategoryName":"Jam","childCategoryUrl":"https://www.shirisunshineexim.com//beli-jam/"},{"childCategoryName":"Dalaman & Sarung Bantal","childCategoryUrl":"https://www.shirisunshineexim.com//shop-dalaman-sarung-bantal/"},{"childCategoryName":"Bingkai","childCategoryUrl":"https://www.shirisunshineexim.com//beli-bingkai/"},{"childCategoryName":"Wewangian Rumah","childCategoryUrl":"https://www.shirisunshineexim.com//beli-wewangian-rumah/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Stiker Dinding","childCategoryUrl":"https://valezaco.com//beli-stiker-dinding/"},{"childCategoryName":"Gorden","childCategoryUrl":"https://valezaco.com//gorden-dan-kerai/"},{"childCategoryName":"Tikar & Karpet","childCategoryUrl":"https://valezaco.com//beli-tikar-karpet/"},{"childCategoryName":"Hiasan Dinding","childCategoryUrl":"https://valezaco.com//beli-hiasan-dinding/"},{"childCategoryName":"Dekorasi Aksen","childCategoryUrl":"https://valezaco.com//shop-aksesoris-dekor/"},{"childCategoryName":"Bunga & Tanaman Artifisial","childCategoryUrl":"https://valezaco.com//beli-bunga-tanaman-artifisial/"},{"childCategoryName":"Jam","childCategoryUrl":"https://valezaco.com//beli-jam/"},{"childCategoryName":"Dalaman & Sarung Bantal","childCategoryUrl":"https://valezaco.com//shop-dalaman-sarung-bantal/"},{"childCategoryName":"Bingkai","childCategoryUrl":"https://valezaco.com//beli-bingkai/"},{"childCategoryName":"Wewangian Rumah","childCategoryUrl":"https://valezaco.com//beli-wewangian-rumah/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_9_2">
-    <a href="https://www.shirisunshineexim.com//beli-furnitur/">
+    <a href="https://valezaco.com//beli-furnitur/">
     <span>Furnitur</span>
     </a>
     <script type="text" class="J_data_8_1">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tempat Penyimpanan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tempat-penyimpanan/"},{"childCategoryName":"Lemari Pakaian","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lemari-pakaian/"},{"childCategoryName":"Kasur","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kasur/"},{"childCategoryName":"Kamar Tidur","childCategoryUrl":"https://www.shirisunshineexim.com//beli-furnitur-kamar-tidur/"},{"childCategoryName":"Rak","childCategoryUrl":"https://www.shirisunshineexim.com//rak/"},{"childCategoryName":"Rak TV dan Media","childCategoryUrl":"https://www.shirisunshineexim.com//tempat-penyimpanan-media-dan-tv/"},{"childCategoryName":"Sofa","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sofa/"},{"childCategoryName":"Ruang Tamu","childCategoryUrl":"https://www.shirisunshineexim.com//beli-furnitur-ruang-tamu/"},{"childCategoryName":"Ruang Kerja Rumah","childCategoryUrl":"https://www.shirisunshineexim.com//beli-furnitur-ruang-kerja-rumah/"},{"childCategoryName":"Dapur & Ruang Makan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-furnitur-dapur-ruang-makan/"},{"childCategoryName":"Ruang Bayi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-furnitur-ruang-bayi/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tempat Penyimpanan","childCategoryUrl":"https://valezaco.com//beli-tempat-penyimpanan/"},{"childCategoryName":"Lemari Pakaian","childCategoryUrl":"https://valezaco.com//beli-lemari-pakaian/"},{"childCategoryName":"Kasur","childCategoryUrl":"https://valezaco.com//beli-kasur/"},{"childCategoryName":"Kamar Tidur","childCategoryUrl":"https://valezaco.com//beli-furnitur-kamar-tidur/"},{"childCategoryName":"Rak","childCategoryUrl":"https://valezaco.com//rak/"},{"childCategoryName":"Rak TV dan Media","childCategoryUrl":"https://valezaco.com//tempat-penyimpanan-media-dan-tv/"},{"childCategoryName":"Sofa","childCategoryUrl":"https://valezaco.com//beli-sofa/"},{"childCategoryName":"Ruang Tamu","childCategoryUrl":"https://valezaco.com//beli-furnitur-ruang-tamu/"},{"childCategoryName":"Ruang Kerja Rumah","childCategoryUrl":"https://valezaco.com//beli-furnitur-ruang-kerja-rumah/"},{"childCategoryName":"Dapur & Ruang Makan","childCategoryUrl":"https://valezaco.com//beli-furnitur-dapur-ruang-makan/"},{"childCategoryName":"Ruang Bayi","childCategoryUrl":"https://valezaco.com//beli-furnitur-ruang-bayi/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_9_3">
-    <a href="https://www.shirisunshineexim.com//beli-peralatan-ranjang/">
+    <a href="https://valezaco.com//beli-peralatan-ranjang/">
     <span>Kelengkapan Tempat Tidur</span>
     </a>
     <script type="text" class="J_data_8_2">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Seprai","childCategoryUrl":"https://www.shirisunshineexim.com//seprei-ranjang/"},{"childCategoryName":"Seprai Set","childCategoryUrl":"https://www.shirisunshineexim.com//perangkat-seprei/"},{"childCategoryName":"Selimut","childCategoryUrl":"https://www.shirisunshineexim.com//selimut-dan-selimut-panjang/"},{"childCategoryName":"Bantal","childCategoryUrl":"https://www.shirisunshineexim.com//beli-bantal/"},{"childCategoryName":"Aksesoris Tempat Tidur","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aksesoris-ranjang/"},{"childCategoryName":"Sarung Bantal","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sarung-bantal/"},{"childCategoryName":"Selimut Tebal","childCategoryUrl":"https://www.shirisunshineexim.com//seprei-dan-selimut-tebal/"},{"childCategoryName":"Pelindung Kasur","childCategoryUrl":"https://www.shirisunshineexim.com//kasur-pelindung/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Seprai","childCategoryUrl":"https://valezaco.com//seprei-ranjang/"},{"childCategoryName":"Seprai Set","childCategoryUrl":"https://valezaco.com//perangkat-seprei/"},{"childCategoryName":"Selimut","childCategoryUrl":"https://valezaco.com//selimut-dan-selimut-panjang/"},{"childCategoryName":"Bantal","childCategoryUrl":"https://valezaco.com//beli-bantal/"},{"childCategoryName":"Aksesoris Tempat Tidur","childCategoryUrl":"https://valezaco.com//beli-aksesoris-ranjang/"},{"childCategoryName":"Sarung Bantal","childCategoryUrl":"https://valezaco.com//beli-sarung-bantal/"},{"childCategoryName":"Selimut Tebal","childCategoryUrl":"https://valezaco.com//seprei-dan-selimut-tebal/"},{"childCategoryName":"Pelindung Kasur","childCategoryUrl":"https://valezaco.com//kasur-pelindung/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_9_4">
-    <a href="https://www.shirisunshineexim.com//penerangan/">
+    <a href="https://valezaco.com//penerangan/">
     <span>Penerangan</span>
     </a>
     <script type="text" class="J_data_8_3">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam Lampu","childCategoryUrl":"https://www.shirisunshineexim.com//shop-bohlam-lampu/"},{"childCategoryName":"Lampu Khusus","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lampu-khusus/"},{"childCategoryName":"Lampu Langit-langit","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lampu-langit-langit-hias/"},{"childCategoryName":"Penerangan Outdoor","childCategoryUrl":"https://www.shirisunshineexim.com//beli-penerangan-outdoor/"},{"childCategoryName":"Lampu Dinding & Tempel","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lampu-dinding-tempel/"},{"childCategoryName":"Lampu Meja","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lampu-meja/"},{"childCategoryName":"Komponen Lampu","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lampu-komponen/"},{"childCategoryName":"Kap Lampu","childCategoryUrl":"https://www.shirisunshineexim.com//kap-lampu/"},{"childCategoryName":"Lampu Lantai","childCategoryUrl":"https://www.shirisunshineexim.com//beli-lampu-lantai/"},{"childCategoryName":"Lampu Rechargeable & Senter","childCategoryUrl":"https://www.shirisunshineexim.com//beli-senter/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam Lampu","childCategoryUrl":"https://valezaco.com//shop-bohlam-lampu/"},{"childCategoryName":"Lampu Khusus","childCategoryUrl":"https://valezaco.com//beli-lampu-khusus/"},{"childCategoryName":"Lampu Langit-langit","childCategoryUrl":"https://valezaco.com//beli-lampu-langit-langit-hias/"},{"childCategoryName":"Penerangan Outdoor","childCategoryUrl":"https://valezaco.com//beli-penerangan-outdoor/"},{"childCategoryName":"Lampu Dinding & Tempel","childCategoryUrl":"https://valezaco.com//beli-lampu-dinding-tempel/"},{"childCategoryName":"Lampu Meja","childCategoryUrl":"https://valezaco.com//beli-lampu-meja/"},{"childCategoryName":"Komponen Lampu","childCategoryUrl":"https://valezaco.com//beli-lampu-komponen/"},{"childCategoryName":"Kap Lampu","childCategoryUrl":"https://valezaco.com//kap-lampu/"},{"childCategoryName":"Lampu Lantai","childCategoryUrl":"https://valezaco.com//beli-lampu-lantai/"},{"childCategoryName":"Lampu Rechargeable & Senter","childCategoryUrl":"https://valezaco.com//beli-senter/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_9_5">
-    <a href="https://www.shirisunshineexim.com//beli-peralatan-mandi/">
+    <a href="https://valezaco.com//beli-peralatan-mandi/">
     <span>Peralatan Mandi</span>
     </a>
     <script type="text" class="J_data_8_4">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Handuk Mandi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-handuk-mandi/"},{"childCategoryName":"Timbangan Kamar Mandi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-timbangan-kamar-mandi/"},{"childCategoryName":"Wadah Penyimpanan Kamar Mandi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tempat-penyimpan-kamar-mandi/"},{"childCategoryName":"Rak Kamar Mandi","childCategoryUrl":"https://www.shirisunshineexim.com//jual-laci-kamar-mandi/"},{"childCategoryName":"Gantungan Handuk & Penghangat","childCategoryUrl":"https://www.shirisunshineexim.com//gantungan-handuk-dan-penghangat/"},{"childCategoryName":"Tempat & Gantungan Shower","childCategoryUrl":"https://www.shirisunshineexim.com//tempat-dan-gantungan-shower/"},{"childCategoryName":"Keset Kamar Mandi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-alas-mandi/"},{"childCategoryName":"Jubah & Kimono Mandi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-jubah-mandi/"},{"childCategoryName":"Tirai Shower","childCategoryUrl":"https://www.shirisunshineexim.com//shop-tirai-mandi-aksesoris/"},{"childCategoryName":"Cermin Kamar Mandi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-cermin-kamar-mandi/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Handuk Mandi","childCategoryUrl":"https://valezaco.com//beli-handuk-mandi/"},{"childCategoryName":"Timbangan Kamar Mandi","childCategoryUrl":"https://valezaco.com//beli-timbangan-kamar-mandi/"},{"childCategoryName":"Wadah Penyimpanan Kamar Mandi","childCategoryUrl":"https://valezaco.com//beli-tempat-penyimpan-kamar-mandi/"},{"childCategoryName":"Rak Kamar Mandi","childCategoryUrl":"https://valezaco.com//jual-laci-kamar-mandi/"},{"childCategoryName":"Gantungan Handuk & Penghangat","childCategoryUrl":"https://valezaco.com//gantungan-handuk-dan-penghangat/"},{"childCategoryName":"Tempat & Gantungan Shower","childCategoryUrl":"https://valezaco.com//tempat-dan-gantungan-shower/"},{"childCategoryName":"Keset Kamar Mandi","childCategoryUrl":"https://valezaco.com//beli-alas-mandi/"},{"childCategoryName":"Jubah & Kimono Mandi","childCategoryUrl":"https://valezaco.com//beli-jubah-mandi/"},{"childCategoryName":"Tirai Shower","childCategoryUrl":"https://valezaco.com//shop-tirai-mandi-aksesoris/"},{"childCategoryName":"Cermin Kamar Mandi","childCategoryUrl":"https://valezaco.com//beli-cermin-kamar-mandi/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_9_6">
-    <a href="https://www.shirisunshineexim.com//beli-perlengkapan-dapur-makan/">
+    <a href="https://valezaco.com//beli-perlengkapan-dapur-makan/">
     <span>Alat Dapur</span>
     </a>
     <script type="text" class="J_data_8_5">
-                                [{"childCategoryName":"Botol minum","childCategoryUrl":"https://www.shirisunshineexim.com//botol-minum/"},{"childCategoryName":"Tempat Penyimpanan Makanan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-wadah-penyimpan-makanan/"},{"childCategoryName":"Alas Meja & Aksesoris Dapur","childCategoryUrl":"https://www.shirisunshineexim.com//beli-alas-meja-aksesoris-dapur/"},{"childCategoryName":"Kopi & Teh","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kopi-dan-teh/"},{"childCategoryName":"Rak Piring & Aksesoris Wastafel","childCategoryUrl":"https://www.shirisunshineexim.com//beli-rak-piring-aksesoris-bak/"},{"childCategoryName":"Panci & Wajan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-peralatan-masak/"},{"childCategoryName":"Perangkat Minum","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perangkat-minum-gelas/"},{"childCategoryName":"Perangkat Makan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-peralatan-penyajian-makanan/"},{"childCategoryName":"Perangkat Pemanggang","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perangkat-pemanggang/"},{"childCategoryName":"Perangkat Penyajian","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perangkat-penyaji/"},{"childCategoryName":"Pisau & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pisau-dan-aksesoris/"},{"childCategoryName":"Alat Dapur Lainnya","childCategoryUrl":"https://www.shirisunshineexim.com//beli-peralatan-dapur/"}]
+                                [{"childCategoryName":"Botol minum","childCategoryUrl":"https://valezaco.com//botol-minum/"},{"childCategoryName":"Tempat Penyimpanan Makanan","childCategoryUrl":"https://valezaco.com//beli-wadah-penyimpan-makanan/"},{"childCategoryName":"Alas Meja & Aksesoris Dapur","childCategoryUrl":"https://valezaco.com//beli-alas-meja-aksesoris-dapur/"},{"childCategoryName":"Kopi & Teh","childCategoryUrl":"https://valezaco.com//beli-kopi-dan-teh/"},{"childCategoryName":"Rak Piring & Aksesoris Wastafel","childCategoryUrl":"https://valezaco.com//beli-rak-piring-aksesoris-bak/"},{"childCategoryName":"Panci & Wajan","childCategoryUrl":"https://valezaco.com//beli-peralatan-masak/"},{"childCategoryName":"Perangkat Minum","childCategoryUrl":"https://valezaco.com//beli-perangkat-minum-gelas/"},{"childCategoryName":"Perangkat Makan","childCategoryUrl":"https://valezaco.com//beli-peralatan-penyajian-makanan/"},{"childCategoryName":"Perangkat Pemanggang","childCategoryUrl":"https://valezaco.com//beli-perangkat-pemanggang/"},{"childCategoryName":"Perangkat Penyajian","childCategoryUrl":"https://valezaco.com//beli-perangkat-penyaji/"},{"childCategoryName":"Pisau & Aksesoris","childCategoryUrl":"https://valezaco.com//beli-pisau-dan-aksesoris/"},{"childCategoryName":"Alat Dapur Lainnya","childCategoryUrl":"https://valezaco.com//beli-peralatan-dapur/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_9_7">
-    <a href="https://www.shirisunshineexim.com//beli-binatu-kebersihan/">
+    <a href="https://valezaco.com//beli-binatu-kebersihan/">
     <span>Binatu &amp; Alat Kebersihan</span>
     </a>
     <script type="text" class="J_data_8_6">
-                                [{"childCategoryName":"Gantungan Baju","childCategoryUrl":"https://www.shirisunshineexim.com//gantungan-baju/"},{"childCategoryName":"Keranjang Baju","childCategoryUrl":"https://www.shirisunshineexim.com//keranjang-cucian/"},{"childCategoryName":"Jemuran Pakaian","childCategoryUrl":"https://www.shirisunshineexim.com//rak-pengering/"},{"childCategoryName":"Alat Binatu & Setrika","childCategoryUrl":"https://www.shirisunshineexim.com//beli-alat-binatu-setrika/"},{"childCategoryName":"Meja Setrika","childCategoryUrl":"https://www.shirisunshineexim.com//papan-setrika/"},{"childCategoryName":"Produk Kebersihan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Sapu & Alat Pel","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sapu-pel/"},{"childCategoryName":"Lap Kain Penghilang Debu","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Sapu-Sikat-Kemoceng/"},{"childCategoryName":"Sikat Pembersih","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-aksesoris-pembersih/"},{"childCategoryName":"Tempat Sampah","childCategoryUrl":"https://www.shirisunshineexim.com//tempat-sampah/"}]
+                                [{"childCategoryName":"Gantungan Baju","childCategoryUrl":"https://valezaco.com//gantungan-baju/"},{"childCategoryName":"Keranjang Baju","childCategoryUrl":"https://valezaco.com//keranjang-cucian/"},{"childCategoryName":"Jemuran Pakaian","childCategoryUrl":"https://valezaco.com//rak-pengering/"},{"childCategoryName":"Alat Binatu & Setrika","childCategoryUrl":"https://valezaco.com//beli-alat-binatu-setrika/"},{"childCategoryName":"Meja Setrika","childCategoryUrl":"https://valezaco.com//papan-setrika/"},{"childCategoryName":"Produk Kebersihan","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Sapu & Alat Pel","childCategoryUrl":"https://valezaco.com//beli-sapu-pel/"},{"childCategoryName":"Lap Kain Penghilang Debu","childCategoryUrl":"https://valezaco.com//shop-Sapu-Sikat-Kemoceng/"},{"childCategoryName":"Sikat Pembersih","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-aksesoris-pembersih/"},{"childCategoryName":"Tempat Sampah","childCategoryUrl":"https://valezaco.com//tempat-sampah/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_9_8">
-    <a href="https://www.shirisunshineexim.com//beli-perawatan-rumah/">
+    <a href="https://valezaco.com//beli-perawatan-rumah/">
     <span>Perkakas &amp; Perbaikan Rumah</span>
     </a>
     <script type="text" class="J_data_8_7">
-                                [{"childCategoryName":"Alat Penyimpanan & Rak","childCategoryUrl":"https://www.shirisunshineexim.com//beli-garasi-penyimpanan-alat-alat/"},{"childCategoryName":"Kabel & Perlengkapan Elektrik","childCategoryUrl":"https://www.shirisunshineexim.com//beli-peralatan-elektrik/"},{"childCategoryName":"Pengecatan & Dekorasi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pengecatan-dekorasi/"},{"childCategoryName":"Perkakas","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perkakas/"},{"childCategoryName":"Perkakas Listrik","childCategoryUrl":"https://www.shirisunshineexim.com//jual-perkakas-listrik/"},{"childCategoryName":"Perkakas Portabel","childCategoryUrl":"https://www.shirisunshineexim.com//beli-peralatan-genggam/"},{"childCategoryName":"Pipa Saluran Air & Kelengkapan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-ledeng/"},{"childCategoryName":"Senter","childCategoryUrl":"https://www.shirisunshineexim.com//beli-senter"},{"childCategoryName":"Tangga & Kursi Peninggi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tangga-kursi-peninggi/"},{"childCategoryName":"perlengkapan keamanan","childCategoryUrl":"https://www.shirisunshineexim.com//lampu-penerangan-tempat-kerja/"}]
+                                [{"childCategoryName":"Alat Penyimpanan & Rak","childCategoryUrl":"https://valezaco.com//beli-garasi-penyimpanan-alat-alat/"},{"childCategoryName":"Kabel & Perlengkapan Elektrik","childCategoryUrl":"https://valezaco.com//beli-peralatan-elektrik/"},{"childCategoryName":"Pengecatan & Dekorasi","childCategoryUrl":"https://valezaco.com//beli-pengecatan-dekorasi/"},{"childCategoryName":"Perkakas","childCategoryUrl":"https://valezaco.com//beli-perkakas/"},{"childCategoryName":"Perkakas Listrik","childCategoryUrl":"https://valezaco.com//jual-perkakas-listrik/"},{"childCategoryName":"Perkakas Portabel","childCategoryUrl":"https://valezaco.com//beli-peralatan-genggam/"},{"childCategoryName":"Pipa Saluran Air & Kelengkapan","childCategoryUrl":"https://valezaco.com//beli-ledeng/"},{"childCategoryName":"Senter","childCategoryUrl":"https://valezaco.com//beli-senter"},{"childCategoryName":"Tangga & Kursi Peninggi","childCategoryUrl":"https://valezaco.com//beli-tangga-kursi-peninggi/"},{"childCategoryName":"perlengkapan keamanan","childCategoryUrl":"https://valezaco.com//lampu-penerangan-tempat-kerja/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_9_9">
-    <a href="https://www.shirisunshineexim.com//Kebun &amp; Luar Ruangan/">
+    <a href="https://valezaco.com//Kebun &amp; Luar Ruangan/">
     <span>Kebun &amp; Luar Ruangan</span>
     </a>
     <script type="text" class="J_data_8_8">
-                                [{"childCategoryName":"Peralatan Listrik Taman & Kebun","childCategoryUrl":"https://www.shirisunshineexim.com//beli-peralatan-listrik-taman-luar-ruangan/"},{"childCategoryName":"Peralatan Kebun","childCategoryUrl":"https://www.shirisunshineexim.com//beli-peralatan-kebun/"},{"childCategoryName":"Sistem Pengairan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sistem-pengairan/"},{"childCategoryName":"Bibit & Biji Bijian","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tumbuhan-biji-bijian/"},{"childCategoryName":"Pembasmi Hama","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pembasmi-rumput-liar-hama/"},{"childCategoryName":"Aksesoris Genset","childCategoryUrl":"https://www.shirisunshineexim.com//beli-aksesoris-peralatan-listrik-luar-ruangan/"},{"childCategoryName":"Genset","childCategoryUrl":"https://www.shirisunshineexim.com//shop-generator/"},{"childCategoryName":"Pemanggang","childCategoryUrl":"https://www.shirisunshineexim.com//pemanggang-dan-penyajian-masakan-outdoor/"},{"childCategoryName":"Alat Pembunuh Serangga","childCategoryUrl":"https://www.shirisunshineexim.com//alat-pembunuh-serangga/"},{"childCategoryName":"Aksesoris Luar Ruangan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-luar-ruangan/"},{"childCategoryName":"Taman & Kebun","childCategoryUrl":"https://www.shirisunshineexim.com//perlengkapan-taman-dan-kebun/"},{"childCategoryName":"","childCategoryUrl":""}]
+                                [{"childCategoryName":"Peralatan Listrik Taman & Kebun","childCategoryUrl":"https://valezaco.com//beli-peralatan-listrik-taman-luar-ruangan/"},{"childCategoryName":"Peralatan Kebun","childCategoryUrl":"https://valezaco.com//beli-peralatan-kebun/"},{"childCategoryName":"Sistem Pengairan","childCategoryUrl":"https://valezaco.com//beli-sistem-pengairan/"},{"childCategoryName":"Bibit & Biji Bijian","childCategoryUrl":"https://valezaco.com//beli-tumbuhan-biji-bijian/"},{"childCategoryName":"Pembasmi Hama","childCategoryUrl":"https://valezaco.com//beli-pembasmi-rumput-liar-hama/"},{"childCategoryName":"Aksesoris Genset","childCategoryUrl":"https://valezaco.com//beli-aksesoris-peralatan-listrik-luar-ruangan/"},{"childCategoryName":"Genset","childCategoryUrl":"https://valezaco.com//shop-generator/"},{"childCategoryName":"Pemanggang","childCategoryUrl":"https://valezaco.com//pemanggang-dan-penyajian-masakan-outdoor/"},{"childCategoryName":"Alat Pembunuh Serangga","childCategoryUrl":"https://valezaco.com//alat-pembunuh-serangga/"},{"childCategoryName":"Aksesoris Luar Ruangan","childCategoryUrl":"https://valezaco.com//beli-luar-ruangan/"},{"childCategoryName":"Taman & Kebun","childCategoryUrl":"https://valezaco.com//perlengkapan-taman-dan-kebun/"},{"childCategoryName":"","childCategoryUrl":""}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_9_10">
-    <a href="https://www.shirisunshineexim.com//beli-alat-tulis-kerajinan/">
+    <a href="https://valezaco.com//beli-alat-tulis-kerajinan/">
     <span>Alat Tulis &amp; Kerajinan</span>
     </a>
     <script type="text" class="J_data_8_9">
-                                [{"childCategoryName":"Peralatan Kesenian dan Kerajinan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-peralatan-seni/"},{"childCategoryName":"Peralatan Mewarnai dan Copic","childCategoryUrl":"https://www.shirisunshineexim.com//beli-alat-mewarnai-copic/"},{"childCategoryName":"Kerajinan Umum","childCategoryUrl":"https://www.shirisunshineexim.com//beli-alat-kerajinan-umum/"},{"childCategoryName":"Pernak Pernik Hadiah dan Kado","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pernak-pernik-hadiah/"},{"childCategoryName":"Tas Belanja","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tas-belanjaan/"},{"childCategoryName":"Buku Catatan","childCategoryUrl":"https://www.shirisunshineexim.com//buku-catatan/"},{"childCategoryName":"Kertas Komputer","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kertas-komputer/"},{"childCategoryName":"Perlengkapan Sekolah","childCategoryUrl":"https://www.shirisunshineexim.com//beli-perlengkapan-sekolah/"},{"childCategoryName":"Perlengkapan Meja Kerja","childCategoryUrl":"https://www.shirisunshineexim.com//beli-wadah-alat-alat-kantor/"},{"childCategoryName":"Perlengkapan Jahit","childCategoryUrl":"https://www.shirisunshineexim.com//beli-bahan-bahan-kerajinan-tangan/"},{"childCategoryName":"Pulpen","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pulpen/"},{"childCategoryName":"Pensil","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pensil-2/"}]
+                                [{"childCategoryName":"Peralatan Kesenian dan Kerajinan","childCategoryUrl":"https://valezaco.com//beli-peralatan-seni/"},{"childCategoryName":"Peralatan Mewarnai dan Copic","childCategoryUrl":"https://valezaco.com//beli-alat-mewarnai-copic/"},{"childCategoryName":"Kerajinan Umum","childCategoryUrl":"https://valezaco.com//beli-alat-kerajinan-umum/"},{"childCategoryName":"Pernak Pernik Hadiah dan Kado","childCategoryUrl":"https://valezaco.com//beli-pernak-pernik-hadiah/"},{"childCategoryName":"Tas Belanja","childCategoryUrl":"https://valezaco.com//beli-tas-belanjaan/"},{"childCategoryName":"Buku Catatan","childCategoryUrl":"https://valezaco.com//buku-catatan/"},{"childCategoryName":"Kertas Komputer","childCategoryUrl":"https://valezaco.com//beli-kertas-komputer/"},{"childCategoryName":"Perlengkapan Sekolah","childCategoryUrl":"https://valezaco.com//beli-perlengkapan-sekolah/"},{"childCategoryName":"Perlengkapan Meja Kerja","childCategoryUrl":"https://valezaco.com//beli-wadah-alat-alat-kantor/"},{"childCategoryName":"Perlengkapan Jahit","childCategoryUrl":"https://valezaco.com//beli-bahan-bahan-kerajinan-tangan/"},{"childCategoryName":"Pulpen","childCategoryUrl":"https://valezaco.com//beli-pulpen/"},{"childCategoryName":"Pensil","childCategoryUrl":"https://valezaco.com//beli-pensil-2/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_9_11">
-    <a href="https://www.shirisunshineexim.com//beli-media-musik-dan-buku/">
+    <a href="https://valezaco.com//beli-media-musik-dan-buku/">
     <span>Media, Musik &amp; Buku</span>
     </a>
     <script type="text" class="J_data_8_10">
-                                [{"childCategoryName":"Instrumen Musik","childCategoryUrl":"https://www.shirisunshineexim.com//instrumen-musik/"},{"childCategoryName":"Buku","childCategoryUrl":"https://www.shirisunshineexim.com//buku/"},{"childCategoryName":"Musik","childCategoryUrl":"https://www.shirisunshineexim.com//lagu/"},{"childCategoryName":"Majalah","childCategoryUrl":"https://www.shirisunshineexim.com//majalah/"},{"childCategoryName":"Film","childCategoryUrl":"https://www.shirisunshineexim.com//film/"}]
+                                [{"childCategoryName":"Instrumen Musik","childCategoryUrl":"https://valezaco.com//instrumen-musik/"},{"childCategoryName":"Buku","childCategoryUrl":"https://valezaco.com//buku/"},{"childCategoryName":"Musik","childCategoryUrl":"https://valezaco.com//lagu/"},{"childCategoryName":"Majalah","childCategoryUrl":"https://valezaco.com//majalah/"},{"childCategoryName":"Film","childCategoryUrl":"https://valezaco.com//film/"}]
                             </script>
     </li>
     </ul>
     <ul class="lzd-site-menu-sub Level_1_Category_No10" data-spm="cate_10">
     <li class="lzd-site-menu-sub-item" data-cate="cate_10_1">
-    <a href="https://www.shirisunshineexim.com//beli-minuman/">
+    <a href="https://valezaco.com//beli-minuman/">
     <span>Minuman</span>
     </a>
     <script type="text" class="J_data_9_0">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"UHT, Susu & Susu Bubuk","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-uht-milk-milk-powder/"},{"childCategoryName":"Kopi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kopi/"},{"childCategoryName":"Minuman Serbuk","childCategoryUrl":"https://www.shirisunshineexim.com//beli-minuman-serbuk/"},{"childCategoryName":"Minuman Berenergi","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Minuman-Olahraga-Energi/"},{"childCategoryName":"Teh","childCategoryUrl":"https://www.shirisunshineexim.com//beli-teh/"},{"childCategoryName":"Chocolate, Malt & Hot Cereals","childCategoryUrl":"https://www.shirisunshineexim.com//coklat-panas/"},{"childCategoryName":"Air Mineral","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-air/"},{"childCategoryName":"Minuman Berkarbonasi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-minuman-ringan/"},{"childCategoryName":"Jus","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-jus/"},{"childCategoryName":"Sirup","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sirup/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"UHT, Susu & Susu Bubuk","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-uht-milk-milk-powder/"},{"childCategoryName":"Kopi","childCategoryUrl":"https://valezaco.com//beli-kopi/"},{"childCategoryName":"Minuman Serbuk","childCategoryUrl":"https://valezaco.com//beli-minuman-serbuk/"},{"childCategoryName":"Minuman Berenergi","childCategoryUrl":"https://valezaco.com//shop-Minuman-Olahraga-Energi/"},{"childCategoryName":"Teh","childCategoryUrl":"https://valezaco.com//beli-teh/"},{"childCategoryName":"Chocolate, Malt & Hot Cereals","childCategoryUrl":"https://valezaco.com//coklat-panas/"},{"childCategoryName":"Air Mineral","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-air/"},{"childCategoryName":"Minuman Berkarbonasi","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-minuman-ringan/"},{"childCategoryName":"Jus","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-jus/"},{"childCategoryName":"Sirup","childCategoryUrl":"https://valezaco.com//beli-sirup/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_10_2">
-    <a href="https://www.shirisunshineexim.com//shop-Bahan-Utama-Pelengkap-Masakan">
+    <a href="https://valezaco.com//shop-Bahan-Utama-Pelengkap-Masakan">
     <span>Bahan &amp; Bumbu Masakan</span>
     </a>
     <script type="text" class="J_data_9_1">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan Instant & Siap santap","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Makanan-Instan-Siap-Santap/"},{"childCategoryName":"Bahan Pembuat Kue","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Bahan-Pembuat-Kue/"},{"childCategoryName":"Beras","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Beras/"},{"childCategoryName":"Garam & Bumbu Dapur","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Bumbu-Dapur/"},{"childCategoryName":"Mie & Bihun","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Mi-Bihun/"},{"childCategoryName":"Makanan Kering","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Makanan-Kering/"},{"childCategoryName":"Minyak","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Minyak/"},{"childCategoryName":"Makanan Kaleng","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Makanan-Kaleng/"},{"childCategoryName":"Pasta","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Pasta/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan Instant & Siap santap","childCategoryUrl":"https://valezaco.com//shop-Makanan-Instan-Siap-Santap/"},{"childCategoryName":"Bahan Pembuat Kue","childCategoryUrl":"https://valezaco.com//shop-Bahan-Pembuat-Kue/"},{"childCategoryName":"Beras","childCategoryUrl":"https://valezaco.com//shop-Beras/"},{"childCategoryName":"Garam & Bumbu Dapur","childCategoryUrl":"https://valezaco.com//shop-Bumbu-Dapur/"},{"childCategoryName":"Mie & Bihun","childCategoryUrl":"https://valezaco.com//shop-Mi-Bihun/"},{"childCategoryName":"Makanan Kering","childCategoryUrl":"https://valezaco.com//shop-Makanan-Kering/"},{"childCategoryName":"Minyak","childCategoryUrl":"https://valezaco.com//shop-Minyak/"},{"childCategoryName":"Makanan Kaleng","childCategoryUrl":"https://valezaco.com//shop-Makanan-Kaleng/"},{"childCategoryName":"Pasta","childCategoryUrl":"https://valezaco.com//shop-Pasta/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_10_3">
-    <a href="https://www.shirisunshineexim.com//shop-Cokelat-Camilan-Permen/">
+    <a href="https://valezaco.com//shop-Cokelat-Camilan-Permen/">
     <span>Cokelat, Camilan &amp; Permen</span>
     </a>
     <script type="text" class="J_data_9_2">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Camilan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Camilan/"},{"childCategoryName":"Cokelat","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Cokelat/"},{"childCategoryName":"Biskuit & Kerupuk","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Biskuit-Manis/"},{"childCategoryName":"Permen","childCategoryUrl":"https://www.shirisunshineexim.com//shop-Manisan/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Camilan","childCategoryUrl":"https://valezaco.com//shop-Camilan/"},{"childCategoryName":"Cokelat","childCategoryUrl":"https://valezaco.com//shop-Cokelat/"},{"childCategoryName":"Biskuit & Kerupuk","childCategoryUrl":"https://valezaco.com//shop-Biskuit-Manis/"},{"childCategoryName":"Permen","childCategoryUrl":"https://valezaco.com//shop-Manisan/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_10_4">
-    <a href="https://www.shirisunshineexim.com//beli-makanan-sarapan">
+    <a href="https://valezaco.com//beli-makanan-sarapan">
     <span>Makanan Sarapan, Sereal &amp; Selai</span>
     </a>
     <script type="text" class="J_data_9_3">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Selai & Madu","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-selai-madu-spread/"},{"childCategoryName":"Oatmeal","childCategoryUrl":"https://www.shirisunshineexim.com//beli-oatmeal/"},{"childCategoryName":"Sereal Sarapan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sereal/"},{"childCategoryName":"Tepung Pancake & Waffle","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pancake-waffle/"},{"childCategoryName":"Bars","childCategoryUrl":"https://www.shirisunshineexim.com//shop-bar/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Selai & Madu","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-selai-madu-spread/"},{"childCategoryName":"Oatmeal","childCategoryUrl":"https://valezaco.com//beli-oatmeal/"},{"childCategoryName":"Sereal Sarapan","childCategoryUrl":"https://valezaco.com//beli-sereal/"},{"childCategoryName":"Tepung Pancake & Waffle","childCategoryUrl":"https://valezaco.com//beli-pancake-waffle/"},{"childCategoryName":"Bars","childCategoryUrl":"https://valezaco.com//shop-bar/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_10_5">
-    <a href="https://www.shirisunshineexim.com//beli-makanan-minuman-hasil-segar">
+    <a href="https://valezaco.com//beli-makanan-minuman-hasil-segar">
     <span>Buah &amp; Sayur</span>
     </a>
     <script type="text" class="J_data_9_4">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Buah Segar","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-buah/"},{"childCategoryName":"Sayur Segar","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-sayuran-segar/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Buah Segar","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-buah/"},{"childCategoryName":"Sayur Segar","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-sayuran-segar/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_10_6">
-    <a href="https://www.shirisunshineexim.com//shop-kebutuhan-rumah-tangga">
+    <a href="https://valezaco.com//shop-kebutuhan-rumah-tangga">
     <span>Kebutuhan Rumah Tangga</span>
     </a>
     <script type="text" class="J_data_9_5">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengharum Ruangan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-perawatan-udara/"},{"childCategoryName":"Kebutuhan Kebersihan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Pengendalian Hama","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-pengendalian-hama/"},{"childCategoryName":"Sabun Pencuci Piring","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-mencuci-piring/"},{"childCategoryName":"Kebutuhan Laundry","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-minuman-cucian/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengharum Ruangan","childCategoryUrl":"https://valezaco.com//shop-perawatan-udara/"},{"childCategoryName":"Kebutuhan Kebersihan","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Pengendalian Hama","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-pengendalian-hama/"},{"childCategoryName":"Sabun Pencuci Piring","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-mencuci-piring/"},{"childCategoryName":"Kebutuhan Laundry","childCategoryUrl":"https://valezaco.com//beli-makanan-minuman-cucian/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_10_7">
-    <a href="https://www.shirisunshineexim.com//shop-makanan-hewan">
+    <a href="https://valezaco.com//shop-makanan-hewan">
     <span>Makanan Hewan Peliharaan</span>
     </a>
     <script type="text" class="J_data_9_6">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan & Camilan Kucing","childCategoryUrl":"https://www.shirisunshineexim.com//jual-makanan-kucing/"},{"childCategoryName":"Makanan Burung","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-burung/"},{"childCategoryName":"Makanan Ikan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-makanan-ikan/"},{"childCategoryName":"Makanan & Camilan Anjing","childCategoryUrl":"https://www.shirisunshineexim.com//jual-makanan-anjing/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan & Camilan Kucing","childCategoryUrl":"https://valezaco.com//jual-makanan-kucing/"},{"childCategoryName":"Makanan Burung","childCategoryUrl":"https://valezaco.com//beli-makanan-burung/"},{"childCategoryName":"Makanan Ikan","childCategoryUrl":"https://valezaco.com//beli-makanan-ikan/"},{"childCategoryName":"Makanan & Camilan Anjing","childCategoryUrl":"https://valezaco.com//jual-makanan-anjing/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_10_8">
-    <a href="https://www.shirisunshineexim.com//shop-aksesoris-hewan">
+    <a href="https://valezaco.com//shop-aksesoris-hewan">
     <span>Aksesoris Hewan Peliharaan</span>
     </a>
     <script type="text" class="J_data_9_7">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Keperluan Akuarium","childCategoryUrl":"https://www.shirisunshineexim.com//shop-keperluan-akuarium/"},{"childCategoryName":"Kandang & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kandang-terbuka-pintu-anjing/"},{"childCategoryName":"Peralatan Grooming","childCategoryUrl":"https://www.shirisunshineexim.com//jual-persediaan-grooming-hewan/"},{"childCategoryName":"Rumah,Alas & Tempat tidur","childCategoryUrl":"https://www.shirisunshineexim.com//beli-ranjang-alas-tidur-rumah-anjing/"},{"childCategoryName":"Alat Makan Hewan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-mangkuk-makan-anjing/"},{"childCategoryName":"Tali dan Kalung Hewan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-tali-kalung-moncong-anjing/"},{"childCategoryName":"Kebutuhan Travel Hewan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pengangkut-perjalanan-anjing/"},{"childCategoryName":"Mainan Hewan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-mainan/"},{"childCategoryName":"Alat Pelatihan Anjing","childCategoryUrl":"https://www.shirisunshineexim.com//beli-alat-latih-olahraga-anjing/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Keperluan Akuarium","childCategoryUrl":"https://valezaco.com//shop-keperluan-akuarium/"},{"childCategoryName":"Kandang & Aksesoris","childCategoryUrl":"https://valezaco.com//beli-kandang-terbuka-pintu-anjing/"},{"childCategoryName":"Peralatan Grooming","childCategoryUrl":"https://valezaco.com//jual-persediaan-grooming-hewan/"},{"childCategoryName":"Rumah,Alas & Tempat tidur","childCategoryUrl":"https://valezaco.com//beli-ranjang-alas-tidur-rumah-anjing/"},{"childCategoryName":"Alat Makan Hewan","childCategoryUrl":"https://valezaco.com//beli-mangkuk-makan-anjing/"},{"childCategoryName":"Tali dan Kalung Hewan","childCategoryUrl":"https://valezaco.com//beli-tali-kalung-moncong-anjing/"},{"childCategoryName":"Kebutuhan Travel Hewan","childCategoryUrl":"https://valezaco.com//beli-pengangkut-perjalanan-anjing/"},{"childCategoryName":"Mainan Hewan","childCategoryUrl":"https://valezaco.com//shop-mainan/"},{"childCategoryName":"Alat Pelatihan Anjing","childCategoryUrl":"https://valezaco.com//beli-alat-latih-olahraga-anjing/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_10_9">
-    <a href="https://www.shirisunshineexim.com//shop-kesehatan-hewan-peliharaan">
+    <a href="https://valezaco.com//shop-kesehatan-hewan-peliharaan">
     <span>Kesehatan Hewan Peliharaan</span>
     </a>
     <script type="text" class="J_data_9_8">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Gigi","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kesehatan-gigi-anjing/"},{"childCategoryName":"Pembasmi Kutu Hewan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-kutu-anjing/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Gigi","childCategoryUrl":"https://valezaco.com//beli-kesehatan-gigi-anjing/"},{"childCategoryName":"Pembasmi Kutu Hewan","childCategoryUrl":"https://valezaco.com//beli-kutu-anjing/"}]
                             </script>
     </li>
     </ul>
     <ul class="lzd-site-menu-sub Level_1_Category_No11" data-spm="cate_11">
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_1">
-    <a href="https://www.shirisunshineexim.com//baju-olahraga-pria/">
+    <a href="https://valezaco.com//baju-olahraga-pria/">
     <span>Baju Olahraga Pria</span>
     </a>
     <script type="text" class="J_data_10_0">
-                                [{"childCategoryName":"Celana Olahraga Pria","childCategoryUrl":"https://www.shirisunshineexim.com//celana-panjang-dan-pendek-olahraga-pria/"},{"childCategoryName":"Kaos Olahraga Pria","childCategoryUrl":"https://www.shirisunshineexim.com//kaos-olahraga-pria/"},{"childCategoryName":"Jaket Olahraga Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jaket-dan-parka-olahraga-pria/"},{"childCategoryName":"Pakaian Renang Pria","childCategoryUrl":"https://www.shirisunshineexim.com//pakaian-renang-dan-selancar-pria/"},{"childCategoryName":"Jersey Olahraga Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-jersey-olahraga-pria/"},{"childCategoryName":"Celana Pendek Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-celana-pendek-olahraga-pria/"},{"childCategoryName":"Hoodies Pria","childCategoryUrl":"https://www.shirisunshineexim.com//hoodies-pria/"},{"childCategoryName":"Topi Olahraga Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-topi-olahraga-pria/"},{"childCategoryName":"Tas Ransel Sport Pria","childCategoryUrl":"https://www.shirisunshineexim.com//tas-ransel-sport-pria/"},{"childCategoryName":"Tas Serut Pria","childCategoryUrl":"https://www.shirisunshineexim.com//tas-serut-pria/"},{"childCategoryName":"Tas Duffel Pria","childCategoryUrl":"https://www.shirisunshineexim.com//tas-duffel-pria/"},{"childCategoryName":"Gym Tote Pria","childCategoryUrl":"https://www.shirisunshineexim.com//gym-tote-pria/"}]
+                                [{"childCategoryName":"Celana Olahraga Pria","childCategoryUrl":"https://valezaco.com//celana-panjang-dan-pendek-olahraga-pria/"},{"childCategoryName":"Kaos Olahraga Pria","childCategoryUrl":"https://valezaco.com//kaos-olahraga-pria/"},{"childCategoryName":"Jaket Olahraga Pria","childCategoryUrl":"https://valezaco.com//jaket-dan-parka-olahraga-pria/"},{"childCategoryName":"Pakaian Renang Pria","childCategoryUrl":"https://valezaco.com//pakaian-renang-dan-selancar-pria/"},{"childCategoryName":"Jersey Olahraga Pria","childCategoryUrl":"https://valezaco.com//jual-jersey-olahraga-pria/"},{"childCategoryName":"Celana Pendek Pria","childCategoryUrl":"https://valezaco.com//jual-celana-pendek-olahraga-pria/"},{"childCategoryName":"Hoodies Pria","childCategoryUrl":"https://valezaco.com//hoodies-pria/"},{"childCategoryName":"Topi Olahraga Pria","childCategoryUrl":"https://valezaco.com//jual-topi-olahraga-pria/"},{"childCategoryName":"Tas Ransel Sport Pria","childCategoryUrl":"https://valezaco.com//tas-ransel-sport-pria/"},{"childCategoryName":"Tas Serut Pria","childCategoryUrl":"https://valezaco.com//tas-serut-pria/"},{"childCategoryName":"Tas Duffel Pria","childCategoryUrl":"https://valezaco.com//tas-duffel-pria/"},{"childCategoryName":"Gym Tote Pria","childCategoryUrl":"https://valezaco.com//gym-tote-pria/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_2">
-    <a href="https://www.shirisunshineexim.com//pakaian-olahraga-wanita/">
+    <a href="https://valezaco.com//pakaian-olahraga-wanita/">
     <span>Baju Olahraga Wanita</span>
     </a>
     <script type="text" class="J_data_10_1">
-                                [{"childCategoryName":"Celana Panjang Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//celana-panjang-dan-pendek-olahraga-wanita/"},{"childCategoryName":"Kaos Olahraga Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//kaos-dan-atasan-olahraga-wanita/"},{"childCategoryName":"Jaket Olahraga Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//jaket-dan-parka-sport-wanita/"},{"childCategoryName":"Sport Bra Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sport-bra-wanita/"},{"childCategoryName":"Celana Pendek Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//jual-celana-pendek-olahraga-wanita/"},{"childCategoryName":"Rok Olahraga Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//jual-rok-olahraga-wanita/"},{"childCategoryName":"Hoodies Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//hoodies-wanita/"},{"childCategoryName":"Pakaian Renang Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//pakaian-renang-dan-selancar-wanita/"},{"childCategoryName":"Tas Ransel Sport Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//tas-ransel-sport-wanita/"},{"childCategoryName":"Tas Serut Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//tas-serut-wanita/"},{"childCategoryName":"Tas Duffel Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//tas-duffel-wanita/"},{"childCategoryName":"Gym Tote Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//gym-tote-wanita/"}]
+                                [{"childCategoryName":"Celana Panjang Wanita","childCategoryUrl":"https://valezaco.com//celana-panjang-dan-pendek-olahraga-wanita/"},{"childCategoryName":"Kaos Olahraga Wanita","childCategoryUrl":"https://valezaco.com//kaos-dan-atasan-olahraga-wanita/"},{"childCategoryName":"Jaket Olahraga Wanita","childCategoryUrl":"https://valezaco.com//jaket-dan-parka-sport-wanita/"},{"childCategoryName":"Sport Bra Wanita","childCategoryUrl":"https://valezaco.com//jual-sport-bra-wanita/"},{"childCategoryName":"Celana Pendek Wanita","childCategoryUrl":"https://valezaco.com//jual-celana-pendek-olahraga-wanita/"},{"childCategoryName":"Rok Olahraga Wanita","childCategoryUrl":"https://valezaco.com//jual-rok-olahraga-wanita/"},{"childCategoryName":"Hoodies Wanita","childCategoryUrl":"https://valezaco.com//hoodies-wanita/"},{"childCategoryName":"Pakaian Renang Wanita","childCategoryUrl":"https://valezaco.com//pakaian-renang-dan-selancar-wanita/"},{"childCategoryName":"Tas Ransel Sport Wanita","childCategoryUrl":"https://valezaco.com//tas-ransel-sport-wanita/"},{"childCategoryName":"Tas Serut Wanita","childCategoryUrl":"https://valezaco.com//tas-serut-wanita/"},{"childCategoryName":"Tas Duffel Wanita","childCategoryUrl":"https://valezaco.com//tas-duffel-wanita/"},{"childCategoryName":"Gym Tote Wanita","childCategoryUrl":"https://valezaco.com//gym-tote-wanita/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_3">
-    <a href="https://www.shirisunshineexim.com//sepatu-dan-pakaian-olahraga-pria/">
+    <a href="https://valezaco.com//sepatu-dan-pakaian-olahraga-pria/">
     <span>Sepatu Olahraga Pria</span>
     </a>
     <script type="text" class="J_data_10_2">
-                                [{"childCategoryName":"Sepatu Sepakbola Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-futsal-pria/"},{"childCategoryName":"Sepatu Lari Pria","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-lari-pria/"},{"childCategoryName":"Sepatu Hiking Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-hiking-pria/"},{"childCategoryName":"Sepatu Basket Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-basket-pria/"},{"childCategoryName":"Sepatu Olahraga Air Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-olahraga-air-pria/"},{"childCategoryName":"Sepatu Badminton ria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-badminton-pria/"},{"childCategoryName":"Sepatu Training Pira","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-fitness-training-pria/"},{"childCategoryName":"Sepatu Skateboard Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-skateboard-pria/"},{"childCategoryName":"Sepatu Sneakers Pria","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sepatu-sneakers-pria/"},{"childCategoryName":"Sandal Olahraga Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sandal-olahraga-pria/"},{"childCategoryName":"Sepatu Jalan Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-jalan-pria/"}]
+                                [{"childCategoryName":"Sepatu Sepakbola Pria","childCategoryUrl":"https://valezaco.com//jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal Pria","childCategoryUrl":"https://valezaco.com//jual-sepatu-futsal-pria/"},{"childCategoryName":"Sepatu Lari Pria","childCategoryUrl":"https://valezaco.com//sepatu-lari-pria/"},{"childCategoryName":"Sepatu Hiking Pria","childCategoryUrl":"https://valezaco.com//jual-sepatu-hiking-pria/"},{"childCategoryName":"Sepatu Basket Pria","childCategoryUrl":"https://valezaco.com//jual-sepatu-basket-pria/"},{"childCategoryName":"Sepatu Olahraga Air Pria","childCategoryUrl":"https://valezaco.com//jual-sepatu-olahraga-air-pria/"},{"childCategoryName":"Sepatu Badminton ria","childCategoryUrl":"https://valezaco.com//jual-sepatu-badminton-pria/"},{"childCategoryName":"Sepatu Training Pira","childCategoryUrl":"https://valezaco.com//jual-sepatu-fitness-training-pria/"},{"childCategoryName":"Sepatu Skateboard Pria","childCategoryUrl":"https://valezaco.com//jual-sepatu-skateboard-pria/"},{"childCategoryName":"Sepatu Sneakers Pria","childCategoryUrl":"https://valezaco.com//beli-sepatu-sneakers-pria/"},{"childCategoryName":"Sandal Olahraga Pria","childCategoryUrl":"https://valezaco.com//jual-sandal-olahraga-pria/"},{"childCategoryName":"Sepatu Jalan Pria","childCategoryUrl":"https://valezaco.com//jual-sepatu-jalan-pria/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_4">
-    <a href="https://www.shirisunshineexim.com//sepatu-dan-pakaian-olahraga-wanita/">
+    <a href="https://valezaco.com//sepatu-dan-pakaian-olahraga-wanita/">
     <span>Sepatu Olahraga Wanita</span>
     </a>
     <script type="text" class="J_data_10_3">
-                                [{"childCategoryName":"Sepatu Badminton Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-badminton-wanita/"},{"childCategoryName":"Sepatu Lari Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-lari-wanita/"},{"childCategoryName":"Sepatu Futsal Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-futsal-wanita/"},{"childCategoryName":"Sepatu Basket Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-basket-wanita/"},{"childCategoryName":"Sepatu Sepakbola Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-sepakbola-wanita/"},{"childCategoryName":"Sepatu Olahraga Air Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-olaraga-air-wanita/"},{"childCategoryName":"Sepatu Hiking Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-hiking-wanita/"},{"childCategoryName":"Sepatu Training Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-fitness-training-wanita/"},{"childCategoryName":"Septu Skateboard Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-skateboard-wanita/"},{"childCategoryName":"Sepatu Sneakers Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//beli-sepatu-sneakers-wanita/"},{"childCategoryName":"Sandal Olahraga Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sandal-olahraga-wanita/"},{"childCategoryName":"Sepatu Jalan Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-jalan-wanita/"}]
+                                [{"childCategoryName":"Sepatu Badminton Wanita","childCategoryUrl":"https://valezaco.com//sepatu-badminton-wanita/"},{"childCategoryName":"Sepatu Lari Wanita","childCategoryUrl":"https://valezaco.com//sepatu-lari-wanita/"},{"childCategoryName":"Sepatu Futsal Wanita","childCategoryUrl":"https://valezaco.com//sepatu-futsal-wanita/"},{"childCategoryName":"Sepatu Basket Wanita","childCategoryUrl":"https://valezaco.com//sepatu-basket-wanita/"},{"childCategoryName":"Sepatu Sepakbola Wanita","childCategoryUrl":"https://valezaco.com//sepatu-sepakbola-wanita/"},{"childCategoryName":"Sepatu Olahraga Air Wanita","childCategoryUrl":"https://valezaco.com//sepatu-olaraga-air-wanita/"},{"childCategoryName":"Sepatu Hiking Wanita","childCategoryUrl":"https://valezaco.com//sepatu-hiking-wanita/"},{"childCategoryName":"Sepatu Training Wanita","childCategoryUrl":"https://valezaco.com//jual-sepatu-fitness-training-wanita/"},{"childCategoryName":"Septu Skateboard Wanita","childCategoryUrl":"https://valezaco.com//jual-sepatu-skateboard-wanita/"},{"childCategoryName":"Sepatu Sneakers Wanita","childCategoryUrl":"https://valezaco.com//beli-sepatu-sneakers-wanita/"},{"childCategoryName":"Sandal Olahraga Wanita","childCategoryUrl":"https://valezaco.com//jual-sandal-olahraga-wanita/"},{"childCategoryName":"Sepatu Jalan Wanita","childCategoryUrl":"https://valezaco.com//jual-sepatu-jalan-wanita/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_5">
-    <a href="https://www.shirisunshineexim.com//camping-dan-hiking/">
+    <a href="https://valezaco.com//camping-dan-hiking/">
     <span>Camping dan Hiking</span>
     </a>
     <script type="text" class="J_data_10_4">
-                                [{"childCategoryName":"Tenda dan furniture Camping","childCategoryUrl":"https://www.shirisunshineexim.com//tenda-dan-furniture/"},{"childCategoryName":"Perlengkapan Tidur Camping","childCategoryUrl":"https://www.shirisunshineexim.com//perlengkapan-tidur-camping/"},{"childCategoryName":"Tas Camping","childCategoryUrl":"https://www.shirisunshineexim.com//jual-tas-ransel/"},{"childCategoryName":"Tempat berteduh Camping","childCategoryUrl":"https://www.shirisunshineexim.com//jual-tempat-berteduh-dan-kanopi/"},{"childCategoryName":"Perabotan Kemah","childCategoryUrl":"https://www.shirisunshineexim.com//jual-perabotan-kemah/"},{"childCategoryName":"Alat Dapur Kemah","childCategoryUrl":"https://www.shirisunshineexim.com//jual-dapur-kemah/"},{"childCategoryName":"Alat penerangan Hiking","childCategoryUrl":"https://www.shirisunshineexim.com//jual-penerangan/"},{"childCategoryName":"Navigasi Elektroning Hiking","childCategoryUrl":"https://www.shirisunshineexim.com//jual-navigasi-elektronik/"},{"childCategoryName":"Tongkat Hiking","childCategoryUrl":"https://www.shirisunshineexim.com//jual-tongkat-hiking/"},{"childCategoryName":"Pisau Kemah","childCategoryUrl":"https://www.shirisunshineexim.com//jual-pisau-alat-multifungsi/"},{"childCategoryName":"Peralatan Survival Camping","childCategoryUrl":"https://www.shirisunshineexim.com//jual-peralatan-survival-dan-keamanan/"},{"childCategoryName":"Perlengkapan Panjat Tebing","childCategoryUrl":"https://www.shirisunshineexim.com//panjat-tebing/"}]
+                                [{"childCategoryName":"Tenda dan furniture Camping","childCategoryUrl":"https://valezaco.com//tenda-dan-furniture/"},{"childCategoryName":"Perlengkapan Tidur Camping","childCategoryUrl":"https://valezaco.com//perlengkapan-tidur-camping/"},{"childCategoryName":"Tas Camping","childCategoryUrl":"https://valezaco.com//jual-tas-ransel/"},{"childCategoryName":"Tempat berteduh Camping","childCategoryUrl":"https://valezaco.com//jual-tempat-berteduh-dan-kanopi/"},{"childCategoryName":"Perabotan Kemah","childCategoryUrl":"https://valezaco.com//jual-perabotan-kemah/"},{"childCategoryName":"Alat Dapur Kemah","childCategoryUrl":"https://valezaco.com//jual-dapur-kemah/"},{"childCategoryName":"Alat penerangan Hiking","childCategoryUrl":"https://valezaco.com//jual-penerangan/"},{"childCategoryName":"Navigasi Elektroning Hiking","childCategoryUrl":"https://valezaco.com//jual-navigasi-elektronik/"},{"childCategoryName":"Tongkat Hiking","childCategoryUrl":"https://valezaco.com//jual-tongkat-hiking/"},{"childCategoryName":"Pisau Kemah","childCategoryUrl":"https://valezaco.com//jual-pisau-alat-multifungsi/"},{"childCategoryName":"Peralatan Survival Camping","childCategoryUrl":"https://valezaco.com//jual-peralatan-survival-dan-keamanan/"},{"childCategoryName":"Perlengkapan Panjat Tebing","childCategoryUrl":"https://valezaco.com//panjat-tebing/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_6">
-    <a href="https://www.shirisunshineexim.com//jual-peralatan-memancing/">
+    <a href="https://valezaco.com//jual-peralatan-memancing/">
     <span>Peralatan Memancing</span>
     </a>
     <script type="text" class="J_data_10_5">
-                                [{"childCategoryName":"Tongkat Pancing","childCategoryUrl":"https://www.shirisunshineexim.com//jual-tongkat-pancing/"},{"childCategoryName":"Alat Gulungan Pancing","childCategoryUrl":"https://www.shirisunshineexim.com//alat-gulungan-pancing/"},{"childCategoryName":"Set Tongkat dan Gulungan Pancing","childCategoryUrl":"https://www.shirisunshineexim.com//set-tongkat-dan-gulungan-pancing/"},{"childCategoryName":"Senar Pancing","childCategoryUrl":"https://www.shirisunshineexim.com//jual-senar-pancing/"},{"childCategoryName":"Umpan Pancing","childCategoryUrl":"https://www.shirisunshineexim.com//jual-umpan/"},{"childCategoryName":"Peralatan Pancing","childCategoryUrl":"https://www.shirisunshineexim.com//jual-peralatan-pancing/"},{"childCategoryName":"GPS alat pencari ikan","childCategoryUrl":"https://www.shirisunshineexim.com//jual-gps-alat-pencari-ikan/"},{"childCategoryName":"Jaring Penangkap Ikan","childCategoryUrl":"https://www.shirisunshineexim.com//jual-jaring-penangkap-ikan/"},{"childCategoryName":"Aksesoris Memancing","childCategoryUrl":"https://www.shirisunshineexim.com//jual-aksesoris-memancing/"}]
+                                [{"childCategoryName":"Tongkat Pancing","childCategoryUrl":"https://valezaco.com//jual-tongkat-pancing/"},{"childCategoryName":"Alat Gulungan Pancing","childCategoryUrl":"https://valezaco.com//alat-gulungan-pancing/"},{"childCategoryName":"Set Tongkat dan Gulungan Pancing","childCategoryUrl":"https://valezaco.com//set-tongkat-dan-gulungan-pancing/"},{"childCategoryName":"Senar Pancing","childCategoryUrl":"https://valezaco.com//jual-senar-pancing/"},{"childCategoryName":"Umpan Pancing","childCategoryUrl":"https://valezaco.com//jual-umpan/"},{"childCategoryName":"Peralatan Pancing","childCategoryUrl":"https://valezaco.com//jual-peralatan-pancing/"},{"childCategoryName":"GPS alat pencari ikan","childCategoryUrl":"https://valezaco.com//jual-gps-alat-pencari-ikan/"},{"childCategoryName":"Jaring Penangkap Ikan","childCategoryUrl":"https://valezaco.com//jual-jaring-penangkap-ikan/"},{"childCategoryName":"Aksesoris Memancing","childCategoryUrl":"https://valezaco.com//jual-aksesoris-memancing/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_7">
-    <a href="https://www.shirisunshineexim.com//olahraga-sepeda/">
+    <a href="https://valezaco.com//olahraga-sepeda/">
     <span>Olahraga Sepeda</span>
     </a>
     <script type="text" class="J_data_10_6">
-                                [{"childCategoryName":"Komponen Part Sepeda","childCategoryUrl":"https://www.shirisunshineexim.com//komponen-dan-parts-sepeda/"},{"childCategoryName":"Aksesoris Sepeda","childCategoryUrl":"https://www.shirisunshineexim.com//aksesoris-sepeda/"},{"childCategoryName":"Sepeda","childCategoryUrl":"https://www.shirisunshineexim.com//sepeda/"},{"childCategoryName":"Kaos Sepeda","childCategoryUrl":"https://www.shirisunshineexim.com//jual-baju-kaos-sepeda/"},{"childCategoryName":"Sepatu Sepeda Pria","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-sepeda-pria/"},{"childCategoryName":"Sepatu Sepeda Wanita","childCategoryUrl":"https://www.shirisunshineexim.com//sepatu-sepeda-wanita/"},{"childCategoryName":"Sepatu Sepeda Perempuan","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-sepeda-anak-perempuan/"},{"childCategoryName":"Sepatu Sepeda Laki-Laki","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-sepeda-anak-laki-laki/"}]
+                                [{"childCategoryName":"Komponen Part Sepeda","childCategoryUrl":"https://valezaco.com//komponen-dan-parts-sepeda/"},{"childCategoryName":"Aksesoris Sepeda","childCategoryUrl":"https://valezaco.com//aksesoris-sepeda/"},{"childCategoryName":"Sepeda","childCategoryUrl":"https://valezaco.com//sepeda/"},{"childCategoryName":"Kaos Sepeda","childCategoryUrl":"https://valezaco.com//jual-baju-kaos-sepeda/"},{"childCategoryName":"Sepatu Sepeda Pria","childCategoryUrl":"https://valezaco.com//jual-sepatu-sepeda-pria/"},{"childCategoryName":"Sepatu Sepeda Wanita","childCategoryUrl":"https://valezaco.com//sepatu-sepeda-wanita/"},{"childCategoryName":"Sepatu Sepeda Perempuan","childCategoryUrl":"https://valezaco.com//jual-sepatu-sepeda-anak-perempuan/"},{"childCategoryName":"Sepatu Sepeda Laki-Laki","childCategoryUrl":"https://valezaco.com//jual-sepatu-sepeda-anak-laki-laki/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_8">
-    <a href="https://www.shirisunshineexim.com//olahraga-air/">
+    <a href="https://valezaco.com//olahraga-air/">
     <span>Olahraga Air</span>
     </a>
     <script type="text" class="J_data_10_7">
-                                [{"childCategoryName":"Kapal","childCategoryUrl":"https://www.shirisunshineexim.com//jual-kapal/"},{"childCategoryName":"Peralatan Menyelam","childCategoryUrl":"https://www.shirisunshineexim.com//diving-snorkeling/"},{"childCategoryName":"Peralatan Renang","childCategoryUrl":"https://www.shirisunshineexim.com//renang/"},{"childCategoryName":"Papan Renang","childCategoryUrl":"https://www.shirisunshineexim.com//jual-olahraga-papan/"},{"childCategoryName":"Tubing dan Towables","childCategoryUrl":"https://www.shirisunshineexim.com//jual-tubing-towables/"},{"childCategoryName":"Akesesoris Olahraga Air","childCategoryUrl":"https://www.shirisunshineexim.com//jual-aksesoris-olahraga-air/"}]
+                                [{"childCategoryName":"Kapal","childCategoryUrl":"https://valezaco.com//jual-kapal/"},{"childCategoryName":"Peralatan Menyelam","childCategoryUrl":"https://valezaco.com//diving-snorkeling/"},{"childCategoryName":"Peralatan Renang","childCategoryUrl":"https://valezaco.com//renang/"},{"childCategoryName":"Papan Renang","childCategoryUrl":"https://valezaco.com//jual-olahraga-papan/"},{"childCategoryName":"Tubing dan Towables","childCategoryUrl":"https://valezaco.com//jual-tubing-towables/"},{"childCategoryName":"Akesesoris Olahraga Air","childCategoryUrl":"https://valezaco.com//jual-aksesoris-olahraga-air/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_9">
-    <a href="https://www.shirisunshineexim.com//latihan-dan-fitness/">
+    <a href="https://valezaco.com//latihan-dan-fitness/">
     <span>Gym, Yoga &amp; Fitness</span>
     </a>
     <script type="text" class="J_data_10_8">
-                                [{"childCategoryName":"Peralatan Pelatihan Ketangkasan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-pelatihan-kecepatan-ketangkasan/"},{"childCategoryName":"Aksesoris Gym","childCategoryUrl":"https://www.shirisunshineexim.com//shop-aksesoris/"},{"childCategoryName":"Pilates Gym","childCategoryUrl":"https://www.shirisunshineexim.com//pilates/"},{"childCategoryName":"Alat Latihan Angkat Beban","childCategoryUrl":"https://www.shirisunshineexim.com//alat-latihan-angkat-beban/"},{"childCategoryName":"Yoga","childCategoryUrl":"https://www.shirisunshineexim.com//yoga/"},{"childCategoryName":"Peralatan Kardio","childCategoryUrl":"https://www.shirisunshineexim.com//peralatan-latihan-kardio/"},{"childCategoryName":"Perlengkapan Fitnes","childCategoryUrl":"https://www.shirisunshineexim.com//jual-aksesoris-fitness/"},{"childCategoryName":"Perlengkapan Lari","childCategoryUrl":"https://www.shirisunshineexim.com//temporary-url-sport-catl3-1/"}]
+                                [{"childCategoryName":"Peralatan Pelatihan Ketangkasan","childCategoryUrl":"https://valezaco.com//shop-pelatihan-kecepatan-ketangkasan/"},{"childCategoryName":"Aksesoris Gym","childCategoryUrl":"https://valezaco.com//shop-aksesoris/"},{"childCategoryName":"Pilates Gym","childCategoryUrl":"https://valezaco.com//pilates/"},{"childCategoryName":"Alat Latihan Angkat Beban","childCategoryUrl":"https://valezaco.com//alat-latihan-angkat-beban/"},{"childCategoryName":"Yoga","childCategoryUrl":"https://valezaco.com//yoga/"},{"childCategoryName":"Peralatan Kardio","childCategoryUrl":"https://valezaco.com//peralatan-latihan-kardio/"},{"childCategoryName":"Perlengkapan Fitnes","childCategoryUrl":"https://valezaco.com//jual-aksesoris-fitness/"},{"childCategoryName":"Perlengkapan Lari","childCategoryUrl":"https://valezaco.com//temporary-url-sport-catl3-1/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_10">
-    <a href="https://www.shirisunshineexim.com//olahraga-raket/">
+    <a href="https://valezaco.com//olahraga-raket/">
     <span>Olahraga Raket</span>
     </a>
     <script type="text" class="J_data_10_9">
-                                [{"childCategoryName":"Tenis Meja","childCategoryUrl":"https://www.shirisunshineexim.com//tenis-meja/"},{"childCategoryName":"Badminton","childCategoryUrl":"https://www.shirisunshineexim.com//bulutangkis/"},{"childCategoryName":"Tennis","childCategoryUrl":"https://www.shirisunshineexim.com//tenis/"},{"childCategoryName":"Squash","childCategoryUrl":"https://www.shirisunshineexim.com//squash/"}]
+                                [{"childCategoryName":"Tenis Meja","childCategoryUrl":"https://valezaco.com//tenis-meja/"},{"childCategoryName":"Badminton","childCategoryUrl":"https://valezaco.com//bulutangkis/"},{"childCategoryName":"Tennis","childCategoryUrl":"https://valezaco.com//tenis/"},{"childCategoryName":"Squash","childCategoryUrl":"https://valezaco.com//squash/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_11">
-    <a href="https://www.shirisunshineexim.com//shop-perlengkapan-olah-raga/">
+    <a href="https://valezaco.com//shop-perlengkapan-olah-raga/">
     <span>Perlengkapan Olahraga</span>
     </a>
     <script type="text" class="J_data_10_10">
-                                [{"childCategoryName":"Oxrashoan Tinju-Bela Mma","childCategoryUrl":"https://www.shirisunshineexim.com//jual-tinju-bela-diri-mma/"},{"childCategoryName":"Golf Gym","childCategoryUrl":"https://www.shirisunshineexim.com//golf/"},{"childCategoryName":"Bola Gym","childCategoryUrl":"https://www.shirisunshineexim.com//sepak-bola/"},{"childCategoryName":"Basket Gym","childCategoryUrl":"https://www.shirisunshineexim.com//basket/"},{"childCategoryName":"Voli Gym","childCategoryUrl":"https://www.shirisunshineexim.com//voli/"},{"childCategoryName":"Cricket Gym","childCategoryUrl":"https://www.shirisunshineexim.com//cricket/"},{"childCategoryName":"Rugby Gym","childCategoryUrl":"https://www.shirisunshineexim.com//rugby/"},{"childCategoryName":"Takraw Gym","childCategoryUrl":"https://www.shirisunshineexim.com//sepak-takraw/"},{"childCategoryName":"Baseball Gym","childCategoryUrl":"https://www.shirisunshineexim.com//baseball/"},{"childCategoryName":"Perlengkapan Olahraga Senam","childCategoryUrl":"https://www.shirisunshineexim.com//jual-olahraga-senam/"},{"childCategoryName":"Hoki Gym","childCategoryUrl":"https://www.shirisunshineexim.com//olahraga-hoki/"},{"childCategoryName":"Peralatan Cheerleading","childCategoryUrl":"https://www.shirisunshineexim.com//jual-peralatan-cheerleading/"}]
+                                [{"childCategoryName":"Oxrashoan Tinju-Bela Mma","childCategoryUrl":"https://valezaco.com//jual-tinju-bela-diri-mma/"},{"childCategoryName":"Golf Gym","childCategoryUrl":"https://valezaco.com//golf/"},{"childCategoryName":"Bola Gym","childCategoryUrl":"https://valezaco.com//sepak-bola/"},{"childCategoryName":"Basket Gym","childCategoryUrl":"https://valezaco.com//basket/"},{"childCategoryName":"Voli Gym","childCategoryUrl":"https://valezaco.com//voli/"},{"childCategoryName":"Cricket Gym","childCategoryUrl":"https://valezaco.com//cricket/"},{"childCategoryName":"Rugby Gym","childCategoryUrl":"https://valezaco.com//rugby/"},{"childCategoryName":"Takraw Gym","childCategoryUrl":"https://valezaco.com//sepak-takraw/"},{"childCategoryName":"Baseball Gym","childCategoryUrl":"https://valezaco.com//baseball/"},{"childCategoryName":"Perlengkapan Olahraga Senam","childCategoryUrl":"https://valezaco.com//jual-olahraga-senam/"},{"childCategoryName":"Hoki Gym","childCategoryUrl":"https://valezaco.com//olahraga-hoki/"},{"childCategoryName":"Peralatan Cheerleading","childCategoryUrl":"https://valezaco.com//jual-peralatan-cheerleading/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_11_12">
-    <a href="https://www.shirisunshineexim.com//sepak-bola/">
+    <a href="https://valezaco.com//sepak-bola/">
     <span>Perlengkapan Sepak Bola</span>
     </a>
     <script type="text" class="J_data_10_11">
-                                [{"childCategoryName":"Sepatu Sepakbola","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-futsal-pria/"},{"childCategoryName":"Jersey Sepakbola","childCategoryUrl":"https://www.shirisunshineexim.com//jual-jersey-sepak-bola-pria/"},{"childCategoryName":"Jersey Sepakbola Anak","childCategoryUrl":"https://www.shirisunshineexim.com//jual-jersey-sepak-bola-anak-laki-laki/"},{"childCategoryName":"Sepatu Sepakbola Anak","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-sepak-bola/"},{"childCategoryName":"Sepatu Futsal Anak","childCategoryUrl":"https://www.shirisunshineexim.com//jual-sepatu-futsal/"},{"childCategoryName":"Bola","childCategoryUrl":"https://www.shirisunshineexim.com//bola-sepak-bola/"},{"childCategoryName":"Sarung Tangan Keeper","childCategoryUrl":"https://www.shirisunshineexim.com//sarung-tangan-kiper/"},{"childCategoryName":"Pelindung Lutut","childCategoryUrl":"https://www.shirisunshineexim.com//beli-pelindung-tulang-kering/"},{"childCategoryName":"Peralatan Latihan","childCategoryUrl":"https://www.shirisunshineexim.com//beli-peralatan-berlatih-dan-lapangan/"},{"childCategoryName":"Tas","childCategoryUrl":"https://www.shirisunshineexim.com//jual-tas-peralatan/"},{"childCategoryName":"Fan Merchandise Team International","childCategoryUrl":"https://www.shirisunshineexim.com//international-football-clubs-fan-merchandise/"}]
+                                [{"childCategoryName":"Sepatu Sepakbola","childCategoryUrl":"https://valezaco.com//jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal","childCategoryUrl":"https://valezaco.com//jual-sepatu-futsal-pria/"},{"childCategoryName":"Jersey Sepakbola","childCategoryUrl":"https://valezaco.com//jual-jersey-sepak-bola-pria/"},{"childCategoryName":"Jersey Sepakbola Anak","childCategoryUrl":"https://valezaco.com//jual-jersey-sepak-bola-anak-laki-laki/"},{"childCategoryName":"Sepatu Sepakbola Anak","childCategoryUrl":"https://valezaco.com//jual-sepatu-sepak-bola/"},{"childCategoryName":"Sepatu Futsal Anak","childCategoryUrl":"https://valezaco.com//jual-sepatu-futsal/"},{"childCategoryName":"Bola","childCategoryUrl":"https://valezaco.com//bola-sepak-bola/"},{"childCategoryName":"Sarung Tangan Keeper","childCategoryUrl":"https://valezaco.com//sarung-tangan-kiper/"},{"childCategoryName":"Pelindung Lutut","childCategoryUrl":"https://valezaco.com//beli-pelindung-tulang-kering/"},{"childCategoryName":"Peralatan Latihan","childCategoryUrl":"https://valezaco.com//beli-peralatan-berlatih-dan-lapangan/"},{"childCategoryName":"Tas","childCategoryUrl":"https://valezaco.com//jual-tas-peralatan/"},{"childCategoryName":"Fan Merchandise Team International","childCategoryUrl":"https://valezaco.com//international-football-clubs-fan-merchandise/"}]
                             </script>
     </li>
     </ul>
     <ul class="lzd-site-menu-sub Level_1_Category_No12" data-spm="cate_12">
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_1">
-    <a href="https://www.shirisunshineexim.com//shop-auto-parts-spares/">
+    <a href="https://valezaco.com//shop-auto-parts-spares/">
     <span>Suku Cadang &amp; Peralatan Mobil</span>
     </a>
     <script type="text" class="J_data_11_0">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Lampu, Bohlam & LED","childCategoryUrl":"https://www.shirisunshineexim.com//shop-bohlam-led-hid/"},{"childCategoryName":"Rem","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-brake-system/"},{"childCategoryName":"Suspensi","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-shocks-struts-suspension/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-engine-parts/"},{"childCategoryName":"Suku Cadang Body","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-body-parts/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-exhaust-emissions/"},{"childCategoryName":"Aki Mobil","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-batteries-accessories/"},{"childCategoryName":"Wiper & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-windshield-wipers-washers/"},{"childCategoryName":"Klakson & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-horns-accessories/"},{"childCategoryName":"Peralatan Pengapian & Kelistrikan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-ignition-electrical/"},{"childCategoryName":"Peralatan & Suku Cadang Lainya","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-trim/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Lampu, Bohlam & LED","childCategoryUrl":"https://valezaco.com//shop-bohlam-led-hid/"},{"childCategoryName":"Rem","childCategoryUrl":"https://valezaco.com//shop-automotive-brake-system/"},{"childCategoryName":"Suspensi","childCategoryUrl":"https://valezaco.com//shop-automotive-shocks-struts-suspension/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://valezaco.com//shop-automotive-engine-parts/"},{"childCategoryName":"Suku Cadang Body","childCategoryUrl":"https://valezaco.com//shop-automotive-body-parts/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://valezaco.com//shop-automotive-exhaust-emissions/"},{"childCategoryName":"Aki Mobil","childCategoryUrl":"https://valezaco.com//shop-automotive-batteries-accessories/"},{"childCategoryName":"Wiper & Aksesoris","childCategoryUrl":"https://valezaco.com//shop-automotive-windshield-wipers-washers/"},{"childCategoryName":"Klakson & Aksesoris","childCategoryUrl":"https://valezaco.com//shop-automotive-horns-accessories/"},{"childCategoryName":"Peralatan Pengapian & Kelistrikan","childCategoryUrl":"https://valezaco.com//shop-automotive-ignition-electrical/"},{"childCategoryName":"Peralatan & Suku Cadang Lainya","childCategoryUrl":"https://valezaco.com//shop-automotive-trim/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_2">
-    <a href="https://www.shirisunshineexim.com//aksesoris-interior-mobil/">
+    <a href="https://valezaco.com//aksesoris-interior-mobil/">
     <span>Aksesoris Interior Mobil</span>
     </a>
     <script type="text" class="J_data_11_1">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://www.shirisunshineexim.com//pengharum-mobil/"},{"childCategoryName":"Jok & Trim","childCategoryUrl":"https://www.shirisunshineexim.com//shop-sarung-jok-aksesoris-kursi/"},{"childCategoryName":"Aksesoris Stir Mobil","childCategoryUrl":"https://www.shirisunshineexim.com//setir-mobil-dan-aksesoris/"},{"childCategoryName":"Persneling","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-shift-boots-knobs/"},{"childCategoryName":"Pedal","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-pedals-pedal-accessories/"},{"childCategoryName":"Spidometer & Pengukur","childCategoryUrl":"https://www.shirisunshineexim.com//alat-pengukur-kecepatan/"},{"childCategoryName":"Aksesoris Elektronik Interior","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-electrical-appliances/"},{"childCategoryName":"Aksesoris Interior Lainya","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-consoles-organizers/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://valezaco.com//pengharum-mobil/"},{"childCategoryName":"Jok & Trim","childCategoryUrl":"https://valezaco.com//shop-sarung-jok-aksesoris-kursi/"},{"childCategoryName":"Aksesoris Stir Mobil","childCategoryUrl":"https://valezaco.com//setir-mobil-dan-aksesoris/"},{"childCategoryName":"Persneling","childCategoryUrl":"https://valezaco.com//shop-automotive-shift-boots-knobs/"},{"childCategoryName":"Pedal","childCategoryUrl":"https://valezaco.com//shop-automotive-pedals-pedal-accessories/"},{"childCategoryName":"Spidometer & Pengukur","childCategoryUrl":"https://valezaco.com//alat-pengukur-kecepatan/"},{"childCategoryName":"Aksesoris Elektronik Interior","childCategoryUrl":"https://valezaco.com//shop-automotive-electrical-appliances/"},{"childCategoryName":"Aksesoris Interior Lainya","childCategoryUrl":"https://valezaco.com//shop-automotive-consoles-organizers/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_3">
-    <a href="https://www.shirisunshineexim.com//aksesoris-eksterior-mobil/">
+    <a href="https://valezaco.com//aksesoris-eksterior-mobil/">
     <span>Aksesoris Exterior Mobil</span>
     </a>
     <script type="text" class="J_data_11_2">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Mobil","childCategoryUrl":"https://www.shirisunshineexim.com//penutup-mobil/"},{"childCategoryName":"Stiker & Emblems","childCategoryUrl":"https://www.shirisunshineexim.com//shop-stiker/"},{"childCategoryName":"Lis & Garnis","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-chrome-trim-accessories/"},{"childCategoryName":"Penutup Pelat Nomer","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-license-plate-covers-frames/"},{"childCategoryName":"Aksesoris Serbaguna","childCategoryUrl":"https://www.shirisunshineexim.com//shop-manajemen-kargo/"},{"childCategoryName":"Kaca Angin, Deflektor & Talang Air","childCategoryUrl":"https://www.shirisunshineexim.com//pelindung-dan-talang-air-mobil/"},{"childCategoryName":"Kaca & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-exterior-mirrors/"},{"childCategoryName":"Spoiler, Sayap & Body Kit","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-spoilers-wings-styling-kits/"},{"childCategoryName":"Aksesoris Offroad","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-body-armor/"},{"childCategoryName":"Aksesoris Exterior Lainya","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-trailer-accessories/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Mobil","childCategoryUrl":"https://valezaco.com//penutup-mobil/"},{"childCategoryName":"Stiker & Emblems","childCategoryUrl":"https://valezaco.com//shop-stiker/"},{"childCategoryName":"Lis & Garnis","childCategoryUrl":"https://valezaco.com//shop-automotive-chrome-trim-accessories/"},{"childCategoryName":"Penutup Pelat Nomer","childCategoryUrl":"https://valezaco.com//shop-automotive-license-plate-covers-frames/"},{"childCategoryName":"Aksesoris Serbaguna","childCategoryUrl":"https://valezaco.com//shop-manajemen-kargo/"},{"childCategoryName":"Kaca Angin, Deflektor & Talang Air","childCategoryUrl":"https://valezaco.com//pelindung-dan-talang-air-mobil/"},{"childCategoryName":"Kaca & Aksesoris","childCategoryUrl":"https://valezaco.com//shop-automotive-exterior-mirrors/"},{"childCategoryName":"Spoiler, Sayap & Body Kit","childCategoryUrl":"https://valezaco.com//shop-automotive-spoilers-wings-styling-kits/"},{"childCategoryName":"Aksesoris Offroad","childCategoryUrl":"https://valezaco.com//shop-automotive-body-armor/"},{"childCategoryName":"Aksesoris Exterior Lainya","childCategoryUrl":"https://valezaco.com//shop-automotive-trailer-accessories/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_4">
-    <a href="https://www.shirisunshineexim.com//shop-elektronik/">
+    <a href="https://valezaco.com//shop-elektronik/">
     <span>Kamera Mobil, Audio &amp; Video</span>
     </a>
     <script type="text" class="J_data_11_3">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kamera Mobil & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//shop-kamera-mobil/"},{"childCategoryName":"Headunit","childCategoryUrl":"https://www.shirisunshineexim.com//shop-car-video-in-dash-navigation/"},{"childCategoryName":"Spiker","childCategoryUrl":"https://www.shirisunshineexim.com//shop-car-audio-speakers/"},{"childCategoryName":"Subwoofer","childCategoryUrl":"https://www.shirisunshineexim.com//shop-car-audio-subwoofers/"},{"childCategoryName":"Power, amplifier & Kapasitor Bank","childCategoryUrl":"https://www.shirisunshineexim.com//shop-car-audio-equalizers/"},{"childCategoryName":"GPS","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motors-gps/"},{"childCategoryName":"Video, TV Aksesoris mobil","childCategoryUrl":"https://www.shirisunshineexim.com//shop-car-video/"},{"childCategoryName":"Aksesoris Audio & Video Lainya","childCategoryUrl":"https://www.shirisunshineexim.com//shop-audio-video-accessories/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kamera Mobil & Aksesoris","childCategoryUrl":"https://valezaco.com//shop-kamera-mobil/"},{"childCategoryName":"Headunit","childCategoryUrl":"https://valezaco.com//shop-car-video-in-dash-navigation/"},{"childCategoryName":"Spiker","childCategoryUrl":"https://valezaco.com//shop-car-audio-speakers/"},{"childCategoryName":"Subwoofer","childCategoryUrl":"https://valezaco.com//shop-car-audio-subwoofers/"},{"childCategoryName":"Power, amplifier & Kapasitor Bank","childCategoryUrl":"https://valezaco.com//shop-car-audio-equalizers/"},{"childCategoryName":"GPS","childCategoryUrl":"https://valezaco.com//shop-motors-gps/"},{"childCategoryName":"Video, TV Aksesoris mobil","childCategoryUrl":"https://valezaco.com//shop-car-video/"},{"childCategoryName":"Aksesoris Audio & Video Lainya","childCategoryUrl":"https://valezaco.com//shop-audio-video-accessories/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_5">
-    <a href="https://www.shirisunshineexim.com//shop-perawatan-mobil/">
+    <a href="https://valezaco.com//shop-perawatan-mobil/">
     <span>Perawatan &amp; Pengkilat Mobil</span>
     </a>
     <script type="text" class="J_data_11_4">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://www.shirisunshineexim.com//pengharum-mobil/"},{"childCategoryName":"Pengkilat & Detailing Bodi","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-polishing-waxing-kits/"},{"childCategoryName":"Pelapis & Pembersih Kaca","childCategoryUrl":"https://www.shirisunshineexim.com//glass-care/"},{"childCategoryName":"Kompon & Penghilang Baret","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-polishing-rubbing-compounds/"},{"childCategoryName":"Cat Mobil","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-paints-primers/"},{"childCategoryName":"Perawatan Ban & Velg","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-tire-wheel-care/"},{"childCategoryName":"Perawatan Interior","childCategoryUrl":"https://www.shirisunshineexim.com//interior-care/"},{"childCategoryName":"Paket Perawatan Mobil","childCategoryUrl":"https://www.shirisunshineexim.com//shop-paket-perawatan-mobil/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://valezaco.com//pengharum-mobil/"},{"childCategoryName":"Pengkilat & Detailing Bodi","childCategoryUrl":"https://valezaco.com//shop-automotive-polishing-waxing-kits/"},{"childCategoryName":"Pelapis & Pembersih Kaca","childCategoryUrl":"https://valezaco.com//glass-care/"},{"childCategoryName":"Kompon & Penghilang Baret","childCategoryUrl":"https://valezaco.com//shop-automotive-polishing-rubbing-compounds/"},{"childCategoryName":"Cat Mobil","childCategoryUrl":"https://valezaco.com//shop-automotive-paints-primers/"},{"childCategoryName":"Perawatan Ban & Velg","childCategoryUrl":"https://valezaco.com//shop-automotive-tire-wheel-care/"},{"childCategoryName":"Perawatan Interior","childCategoryUrl":"https://valezaco.com//interior-care/"},{"childCategoryName":"Paket Perawatan Mobil","childCategoryUrl":"https://valezaco.com//shop-paket-perawatan-mobil/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_6">
-    <a href="https://www.shirisunshineexim.com//roda-dan-ban/">
+    <a href="https://valezaco.com//roda-dan-ban/">
     <span>Ban &amp; Velg Mobil</span>
     </a>
     <script type="text" class="J_data_11_5">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Velg","childCategoryUrl":"https://www.shirisunshineexim.com//jual-roda/"},{"childCategoryName":"Ban","childCategoryUrl":"https://www.shirisunshineexim.com//jual-ban/"},{"childCategoryName":"Aksesoris Velg & Ban","childCategoryUrl":"https://www.shirisunshineexim.com//jual-aksesoris-roda-suku-cadang/"},{"childCategoryName":"Peralatan Velg & Ban","childCategoryUrl":"https://www.shirisunshineexim.com//shop-tire-parts-air-compressors-inflators/"},{"childCategoryName":"Servis & Pemasangan Velg, Ban","childCategoryUrl":"https://www.shirisunshineexim.com//shop-paket-ban-pelek/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Velg","childCategoryUrl":"https://valezaco.com//jual-roda/"},{"childCategoryName":"Ban","childCategoryUrl":"https://valezaco.com//jual-ban/"},{"childCategoryName":"Aksesoris Velg & Ban","childCategoryUrl":"https://valezaco.com//jual-aksesoris-roda-suku-cadang/"},{"childCategoryName":"Peralatan Velg & Ban","childCategoryUrl":"https://valezaco.com//shop-tire-parts-air-compressors-inflators/"},{"childCategoryName":"Servis & Pemasangan Velg, Ban","childCategoryUrl":"https://valezaco.com//shop-paket-ban-pelek/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_7">
-    <a href="https://www.shirisunshineexim.com//oli-dan-pelumas/">
+    <a href="https://valezaco.com//oli-dan-pelumas/">
     <span>Oli &amp; Cairan Mobil</span>
     </a>
     <script type="text" class="J_data_11_6">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Mobil","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-oils/"},{"childCategoryName":"Aditif & Penguat Bensin","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-auto-oils-fluids-additives/"},{"childCategoryName":"Pendingin Mesin","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-antifreezes-coolants/"},{"childCategoryName":"Pembersih Mesin","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-cleaners/"},{"childCategoryName":"Oli Powersteering","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-power-steering-fluids/"},{"childCategoryName":"Cairan & Oli Lainnya","childCategoryUrl":"https://www.shirisunshineexim.com//shop-automotive-greases-lubricants/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Mobil","childCategoryUrl":"https://valezaco.com//shop-automotive-oils/"},{"childCategoryName":"Aditif & Penguat Bensin","childCategoryUrl":"https://valezaco.com//shop-automotive-auto-oils-fluids-additives/"},{"childCategoryName":"Pendingin Mesin","childCategoryUrl":"https://valezaco.com//shop-automotive-antifreezes-coolants/"},{"childCategoryName":"Pembersih Mesin","childCategoryUrl":"https://valezaco.com//shop-automotive-cleaners/"},{"childCategoryName":"Oli Powersteering","childCategoryUrl":"https://valezaco.com//shop-automotive-power-steering-fluids/"},{"childCategoryName":"Cairan & Oli Lainnya","childCategoryUrl":"https://valezaco.com//shop-automotive-greases-lubricants/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_8">
-    <a href="https://www.shirisunshineexim.com//shop-motorcycle-riding-gear/">
+    <a href="https://valezaco.com//shop-motorcycle-riding-gear/">
     <span>Perlengkapan Berkendara &amp; Helm</span>
     </a>
     <script type="text" class="J_data_11_7">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Helm","childCategoryUrl":"https://www.shirisunshineexim.com//helmets-automotive/"},{"childCategoryName":"Jaket & Pelindung","childCategoryUrl":"https://www.shirisunshineexim.com//jackets/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-riding-gear-gloves/"},{"childCategoryName":"Sepatu & Boot","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-riding-gear-footwear/"},{"childCategoryName":"Masker & Pelindung Wajah","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-riding-gear-face-masks/"},{"childCategoryName":"Kacamata Angin","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-riding-gear-eyewear/"},{"childCategoryName":"Peralatan Hujan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-pakaian-hujan/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Helm","childCategoryUrl":"https://valezaco.com//helmets-automotive/"},{"childCategoryName":"Jaket & Pelindung","childCategoryUrl":"https://valezaco.com//jackets/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://valezaco.com//shop-motorcycle-riding-gear-gloves/"},{"childCategoryName":"Sepatu & Boot","childCategoryUrl":"https://valezaco.com//shop-motorcycle-riding-gear-footwear/"},{"childCategoryName":"Masker & Pelindung Wajah","childCategoryUrl":"https://valezaco.com//shop-motorcycle-riding-gear-face-masks/"},{"childCategoryName":"Kacamata Angin","childCategoryUrl":"https://valezaco.com//shop-motorcycle-riding-gear-eyewear/"},{"childCategoryName":"Peralatan Hujan","childCategoryUrl":"https://valezaco.com//shop-pakaian-hujan/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_9">
-    <a href="https://www.shirisunshineexim.com//shop-motorcycle-parts-spares/">
+    <a href="https://valezaco.com//shop-motorcycle-parts-spares/">
     <span>Suku Cadang &amp; Peralatan Motor</span>
     </a>
     <script type="text" class="J_data_11_8">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam, LED & Rumah Lampu","childCategoryUrl":"https://www.shirisunshineexim.com//shop-penerangan/"},{"childCategoryName":"Rem & Suspensi","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-brakes-suspension/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//moto-knalpot-system-pembuangan/"},{"childCategoryName":"Aki Motor & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//shop-moto-batteries-accessories/"},{"childCategoryName":"Kaca / Cermin","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-mirrors/"},{"childCategoryName":"Filter Motor","childCategoryUrl":"https://www.shirisunshineexim.com//shop-saringan-udara/"},{"childCategoryName":"Suku Cadang Bodi & Rangka","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-body-frame/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-drivetrain-transmission/"},{"childCategoryName":"Busi","childCategoryUrl":"https://www.shirisunshineexim.com//shop-busi-motor/"},{"childCategoryName":"Suku Cadang Motor Lainnya","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-stands-accessories/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam, LED & Rumah Lampu","childCategoryUrl":"https://valezaco.com//shop-penerangan/"},{"childCategoryName":"Rem & Suspensi","childCategoryUrl":"https://valezaco.com//shop-motorcycle-brakes-suspension/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://valezaco.com//moto-knalpot-system-pembuangan/"},{"childCategoryName":"Aki Motor & Aksesoris","childCategoryUrl":"https://valezaco.com//shop-moto-batteries-accessories/"},{"childCategoryName":"Kaca / Cermin","childCategoryUrl":"https://valezaco.com//shop-motorcycle-mirrors/"},{"childCategoryName":"Filter Motor","childCategoryUrl":"https://valezaco.com//shop-saringan-udara/"},{"childCategoryName":"Suku Cadang Bodi & Rangka","childCategoryUrl":"https://valezaco.com//shop-motorcycle-body-frame/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://valezaco.com//shop-motorcycle-drivetrain-transmission/"},{"childCategoryName":"Busi","childCategoryUrl":"https://valezaco.com//shop-busi-motor/"},{"childCategoryName":"Suku Cadang Motor Lainnya","childCategoryUrl":"https://valezaco.com//shop-motorcycle-stands-accessories/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_10">
-    <a href="https://www.shirisunshineexim.com//shop-motorcycle-exterior-accessories/">
+    <a href="https://valezaco.com//shop-motorcycle-exterior-accessories/">
     <span>Aksesoris &amp; Elektronik Motor</span>
     </a>
     <script type="text" class="J_data_11_9">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Jok","childCategoryUrl":"https://www.shirisunshineexim.com//shop-sarung-jok/"},{"childCategoryName":"Stiker & Emblem","childCategoryUrl":"https://www.shirisunshineexim.com//shop-stiker-emblem/"},{"childCategoryName":"Pengukur","childCategoryUrl":"https://www.shirisunshineexim.com//shop-indikator/"},{"childCategoryName":"Aksesoris Elektronik","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-electronics/"},{"childCategoryName":"Pelindung Plat Nomor","childCategoryUrl":"https://www.shirisunshineexim.com//shop-frame-plat-nomor/"},{"childCategoryName":"Sarung Motor","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-covers/"},{"childCategoryName":"Windshield & Aksesoris","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-windshields-accessories/"},{"childCategoryName":"Bagasi Penyimpanan & Bantalan","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-luggage-saddlebags/"},{"childCategoryName":"Aksesoris & Elektronik Motor Lainny","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-racks/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Jok","childCategoryUrl":"https://valezaco.com//shop-sarung-jok/"},{"childCategoryName":"Stiker & Emblem","childCategoryUrl":"https://valezaco.com//shop-stiker-emblem/"},{"childCategoryName":"Pengukur","childCategoryUrl":"https://valezaco.com//shop-indikator/"},{"childCategoryName":"Aksesoris Elektronik","childCategoryUrl":"https://valezaco.com//shop-motorcycle-electronics/"},{"childCategoryName":"Pelindung Plat Nomor","childCategoryUrl":"https://valezaco.com//shop-frame-plat-nomor/"},{"childCategoryName":"Sarung Motor","childCategoryUrl":"https://valezaco.com//shop-motorcycle-covers/"},{"childCategoryName":"Windshield & Aksesoris","childCategoryUrl":"https://valezaco.com//shop-motorcycle-windshields-accessories/"},{"childCategoryName":"Bagasi Penyimpanan & Bantalan","childCategoryUrl":"https://valezaco.com//shop-motorcycle-luggage-saddlebags/"},{"childCategoryName":"Aksesoris & Elektronik Motor Lainny","childCategoryUrl":"https://valezaco.com//shop-motorcycle-racks/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_11">
-    <a href="https://www.shirisunshineexim.com//shop-motorcycle-oils-fluids/">
+    <a href="https://valezaco.com//shop-motorcycle-oils-fluids/">
     <span>Ban, Velg, Oli &amp; Cairan Motor</span>
     </a>
     <script type="text" class="J_data_11_10">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Motor","childCategoryUrl":"https://www.shirisunshineexim.com//shop-oli-mesin/"},{"childCategoryName":"Oli Rem Motor","childCategoryUrl":"https://www.shirisunshineexim.com//shop-motorcycle-brake-fluid/"},{"childCategoryName":"Oli Transmisi Motor","childCategoryUrl":"https://www.shirisunshineexim.com//shop-oligirboks/"},{"childCategoryName":"Pendingin Motor","childCategoryUrl":"https://www.shirisunshineexim.com//shop-coolant/"},{"childCategoryName":"Aditif & Penguat Bensin Motor","childCategoryUrl":"https://www.shirisunshineexim.com//shop-pembersih/"},{"childCategoryName":"Pelumas Motor","childCategoryUrl":"https://www.shirisunshineexim.com//shop-pelumas-dan-gemuk/"},{"childCategoryName":"Ban & Velg Motor","childCategoryUrl":"https://www.shirisunshineexim.com//jual-roda-ban-motor/"},{"childCategoryName":"Oli & Cairan Motor Lainnya","childCategoryUrl":"https://www.shirisunshineexim.com//shop-oli-shock-breaker/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Motor","childCategoryUrl":"https://valezaco.com//shop-oli-mesin/"},{"childCategoryName":"Oli Rem Motor","childCategoryUrl":"https://valezaco.com//shop-motorcycle-brake-fluid/"},{"childCategoryName":"Oli Transmisi Motor","childCategoryUrl":"https://valezaco.com//shop-oligirboks/"},{"childCategoryName":"Pendingin Motor","childCategoryUrl":"https://valezaco.com//shop-coolant/"},{"childCategoryName":"Aditif & Penguat Bensin Motor","childCategoryUrl":"https://valezaco.com//shop-pembersih/"},{"childCategoryName":"Pelumas Motor","childCategoryUrl":"https://valezaco.com//shop-pelumas-dan-gemuk/"},{"childCategoryName":"Ban & Velg Motor","childCategoryUrl":"https://valezaco.com//jual-roda-ban-motor/"},{"childCategoryName":"Oli & Cairan Motor Lainnya","childCategoryUrl":"https://valezaco.com//shop-oli-shock-breaker/"}]
                             </script>
     </li>
     <li class="lzd-site-menu-sub-item" data-cate="cate_12_12">
-    <a href="https://www.shirisunshineexim.com//mobil-motor/">
+    <a href="https://valezaco.com//mobil-motor/">
     <span>Kendaraan</span>
     </a>
     <script type="text" class="J_data_11_11">
-                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mobil","childCategoryUrl":"https://www.shirisunshineexim.com//shop-mobil/"},{"childCategoryName":"Motor","childCategoryUrl":"https://www.shirisunshineexim.com//shop-sepeda-motor-skuter/"}]
+                                [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mobil","childCategoryUrl":"https://valezaco.com//shop-mobil/"},{"childCategoryName":"Motor","childCategoryUrl":"https://valezaco.com//shop-sepeda-motor-skuter/"}]
                             </script>
     </li>
     </ul>
@@ -12789,25 +12795,25 @@ ul.taobao-menu__list {
     </div>
     </div>
     <nav class="lzd-menu-labels" data-spm="menu">
-    <a class="lzd-menu-labels-item" href="https://www.shirisunshineexim.com/">
+    <a class="lzd-menu-labels-item" href="https://valezaco.com/">
     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
     <img alt="LazMall Nana4D" class="lzd-site-nav-menu-iconfont-img" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1gNcMWBr0gK0jSZFnXXbRRXXa.png">
     </span>
     <span class="lzd-menu-labels-item-text">LazMall Nana4D</span>
     </a>
-    <a class="lzd-menu-labels-item" href="https://www.shirisunshineexim.com/">
+    <a class="lzd-menu-labels-item" href="https://valezaco.com/">
     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
     <img alt="nana4d &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
     </span>
     <span class="lzd-menu-labels-item-text">Situs Togel Toto 4D</span>
     </a>
-    <a class="lzd-menu-labels-item" href="https://www.shirisunshineexim.com/">
+    <a class="lzd-menu-labels-item" href="https://valezaco.com/">
     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
     <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png">
     </span>
     <span class="lzd-menu-labels-item-text">Voucher Nana4D</span>
     </a>
-    <a class="lzd-menu-labels-item" href="https://www.shirisunshineexim.com/">
+    <a class="lzd-menu-labels-item" href="https://valezaco.com/">
     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
     <img alt="lazblog Nana4D" class="lzd-site-nav-menu-iconfont-img" src="https://icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png">
     </span>
@@ -13002,7 +13008,7 @@ ul.taobao-menu__list {
           }
     
           .breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text .breadcrumb_right_arrow {
-            background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAACKUExURUxpcYGBgYGBgYWFhYCAgICAgICAgIKCgv///4GBgZWVlYyMjIGBgYCAgIKCgoGBgYGBgaqqqoODg7+/v4GBgZKSko6OjoGBgYWFhYGBgYSEhIGBgZmZmYCAgIGBgYGBgYCAgICAgIGBgYCAgICAgIiIiICAgIeHh4GBgYSEhIODg4GBgYGBgYCAgPLijmAAAAAtdFJOUwCS7jCDi/E1AbYMFJrrK9ToAycEugcJtBfYG64Fp+S+vb+god0e4SLcHyPgwPJLUkAAAAB6SURBVDjLY2AYYoCdkwu/AgVdHTMbfmHPCmzfK437cozMcXvXbBfZmW4xkhWVbV1ZQbwq1OV0lTnwqhAS0OXBr4KPV5cRf3AwM+myEghRNl0WihQQsoKQIwl5U0tOVwmfvKYa/qCWUsEfWYSim2CCkddVFKMs0Q5aAABM4wlSQJ87yAAAAABJRU5ErkJggg==);
+            background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAACKUExURUxpcYGBgYGBgYWFhYCAgICAgICAgIKCgv///4GBgZWVlYyMjIGBgYCAgIKCgoGBgYGBgaqqqoODg7+/v4GBgZKSko6OjoGBgYWFhYGBgYSEhIGBgZmZmYCAgIGBgYGBgYCAgICAgIGBgYCAgICAgIiIiICAgIeHh4GBgYSEhIODg4GBgYGBgYCAgPLijmAAAAAtdFJOUwCS7jCDi/E1AbYMFJrrK9ToAycEugcJtBfYG64Fp+S+vb+god0e4SLcHyPgwPJLUkAAAAB6SURBVDjLY2AYYoCdkwu/AgVdHTG8Crj5dUVE8aqQkNQVl8GrQkpDV1oYrwpVbV1ZQbwq1OV0lTnwqhAS0OXBr4KPV5cRf3AwM+myEghRNl0WihQQsoKQIwl5U0tOVwmfvKYa/qCWUsEfWYSim2CCkddVFKMs0Q5aAABM4wlSQJ87yAAAAABJRU5ErkJggg==);
             background-repeat: no-repeat;
             background-size: contain;
             display: inline-block;
@@ -13073,26 +13079,22 @@ ul.taobao-menu__list {
     </div>
     </div>
     <div id="container" style="visibility: visible;">
-    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="NANA4D Daftar Situs Toto dan Situs Togel No 1 Terbesar Di Indonesia" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkKAN6lNinEaGvxMggN0ueUAYXs8-edNjnrVqqY4x5wkgJVvX6G2u4m1ntv_u4T0ds-zgnu6u1h-tz36x-tgKgNtWBpZaTNTHkIJJZmpO1ZMjofy1-5lfwmrim56UT6kr37oGptzerZvbghOJeuqn_p7Hmll4C0KpE0nU9ecCIDWepKbXrqHFxCWE-U3HO/s1380/barikali-34.png"></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">NANA4D Daftar Situs Toto dan Situs Togel No 1 Terbesar Di Indonesia</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">8.832.900 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://www.shirisunshineexim.com/">Nana4D</a><div class="pdp-product-brand__divider"></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price"><p>
+    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="NANA4D: Link TOTO 4D dan Toto Macau Resmi dengan Jackpot Terbesar di Indonesia" src="https://images2.imgbox.com/96/0a/A58QuqZH_o.png"></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">NANA4D: Link TOTO 4D dan Toto Macau Resmi dengan Jackpot Terbesar di Indonesia</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">8.832.900 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://valezaco.com/">Nana4D</a><div class="pdp-product-brand__divider"></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price"><p>
       <!-- artikel -->
       </a>
     </p>
-    <p class="">NANA4D Pilihan platform utama Daftar <span style="color: #ff0000;"><a style="color: #ff0000;" href="https://www.shirisunshineexim.com/">Situs toto</a></span> dan situs togel no 1 di indonesia yang sangat popular di kalangan pecinta togel indonesia. Tersedia pasaran togel terbanyak di indonesia yang membuat situs togel NANA4D mempunyai member aktif yang banyak sehingga pemain mempunyai opsi bermain. Mari bergabung bersama kami sekarang dan pasang angka keberuntunganmu sekarang juga!</p>
-<p>Kelilingi dunia perjudian dengan Situs Toto Terpercaya yaitu NANA4D, situs togel online terpercaya yang menghadirkan pengalaman bertaruh paling lancar dan paling seru di kalangan masyarakat di indonesia! Dengan adanya prosedur setoran dan penarikan yang gampang dan aman dilakukan, NANA4D tentu akan menjamin kenyamanan dan kepuasan member NANA4D. Kami bukan hanya sekadar penyedia togel online, tetapi kami tentu menjadi platform terbaik dan terpercaya bagi para bettor.</p>
-<p>Hal yang paling menarik, hanya dengan deposit minimal hanya 10.000 rupiah maka anda tentu sudah bisa mendapatkan kesempatan untuk menikmati beragam permainan seru hanya dengan satu akun pemain ! Bukan hanya itu, NANA4D tentunya didukung oleh bandar togel terbesar di indonesia, di pastikan anda akan mendapaatkan pengalaman bermain yang seru serta menguntungkan!</p>
-<p>Bergabunglah bersama kami sekarang juga! dan nikmatilah proses pendaftaran di situs togel NANA4D sangatlah gampang dan mudah dilakukan melalui melalui ponsel Anda. Rasakanlah kemudahan untuk mengakses kapan saja dan di mana pun tanpa ada mengeluarkan biaya pendaftaran sedikitpun. Jadi, tunggu apa lagi? Bergabunglah bersama kami sekarang juga dan manfaatkan keuntungan yang di berikan? lakukan deposit di situs togel NANA4D, dan mulailah perjalananmu di dunia perjudian.</p>
-      <div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">RP 10.000</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp 10.000</span><span class="pdp-product-price__discount">-99%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://nightcoreshadow.xyz/amp/shirisunshineexim/"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN DISINI</span></button></a><a href="https://nightcoreshadow.xyz/amp/shirisunshineexim/" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller">
-        <!-- 1 -->
-        <div class="seller-name__title">Dijual oleh : <a href="https://www.shirisunshineexim.com/" target="_blank">togel toto 4d</a></div>
-        <div class="seller-name__title">Dijual oleh : <a href="https://www.shirisunshineexim.com/" target="_blank">Toto 4D</a></div>
-        <div class="seller-name__title">Dijual oleh : <a href="https://www.shirisunshineexim.com/" target="_blank">Bandar Toto Macau</a></div>
-        <div class="seller-name__title">Dijual oleh : <a href="https://www.shirisunshineexim.com/" target="_blank">Situs Togel</a></div>
-        <div class="seller-name__title">Dijual oleh : <a href="https://www.shirisunshineexim.com/" target="_blank">Nana4D</a></div>
-        <div class="seller-name__title">Dijual oleh : <a href="https://www.shirisunshineexim.com/" target="_blank">Situs Togel Toto</a></div>
-        <div class="seller-name__title">Dijual oleh : <a href="https://www.shirisunshineexim.com/" target="_blank">Situs Togel Toto 4D</a></div>
-        <div class="seller-name__title">Dijual oleh : <a href="https://www.shirisunshineexim.com/" target="_blank">Agen Toto Macau</a></div>
-        <div class="seller-name__title">Dijual oleh : <a href="https://www.shirisunshineexim.com/" target="_blank">Bandar Agen Toto Macau</a></div>
-        <!-- 2 -->
+    <p>NANA4D adalah situs togel terpercaya yang menyediakan akses ke TOTO 4D dan Toto Macau resmi, serta menawarkan jackpot terbesar di Indonesia. Dengan berbagai fitur unggulan, keamanan tingkat tinggi, serta peluang kemenangan besar, <span style="color: #ff0000;"><a style="color: #ff0000;" href="https://valezaco.com/">link toto 4d</a></span> menjadi pilihan utama para pecinta togel online yang ingin merasakan pengalaman bermain terbaik.</p>
+<h2>Jackpot Terbesar dan Pasaran Togel Lengkap</h2>
+<p>Sebagai situs togel resmi, NANA4D menghadirkan pasaran TOTO 4D dan Toto Macau yang sangat diminati pemain. Tidak hanya itu, tersedia juga 95 pasaran lainnya dari berbagai negara seperti Singapore, Hongkong, Sydney, dan banyak lagi. Dengan banyaknya pilihan ini, pemain dapat menyesuaikan strategi taruhan mereka untuk meningkatkan peluang menang dan meraih jackpot terbesar.</p>
+<h2>Minimal Bettingan 100 Perak, Peluang Menang Besar</h2>
+<p>Keunggulan lain dari NANA4D adalah minimal bettingan hanya 100 perak, yang memungkinkan pemain dari berbagai kalangan untuk ikut serta tanpa harus mengeluarkan modal besar. Meskipun bertaruh dengan nominal kecil, pemain tetap memiliki kesempatan memenangkan hadiah hingga jutaan rupiah.</p>
+<h2>Akses Mudah dengan Link Alternatif Resmi</h2>
+<p>Link toto 4d menyediakan link alternatif anti nawala, sehingga pemain dapat mengakses situs kapan saja tanpa khawatir terblokir. Dengan akses yang stabil dan mudah, pengalaman bermain togel online menjadi lebih lancar dan menyenangkan.</p>
+<h2>Keamanan dan Layanan Pelanggan 24 Jam</h2>
+<p>Dengan sistem enkripsi modern, NANA4D menjamin keamanan data pribadi dan transaksi pemain. Selain itu, dukungan layanan pelanggan 24 jam untuk&nbsp;memastikan bahwa setiap pertanyaan atau kendala pemain dapat ditangani dengan cepat dan profesional.</p>
+<h2>Kesimpulan</h2>
+<p>Sebagai link resmi TOTO 4D dan Toto Macau, NANA4D menawarkan peluang jackpot terbesar di Indonesia dengan keamanan terbaik dan akses yang mudah. Segera bergabung di NANA4D dan nikmati keseruan bermain togel online dengan peluang menang besar!</p>
+      <div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">RP 10.000</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp 10.000</span><span class="pdp-product-price__discount">-99%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://nightmareshadow.xyz/amp/loverapid/"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN DISINI</span></button></a><a href="https://nightmareshadow.xyz/amp/loverapid/" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller">
           <div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div>
     
     <script type="6c69253c274905671b0ddb2a-text/javascript">
@@ -13334,11 +13336,11 @@ ul.taobao-menu__list {
     <div class="lzd-footer-width-25">
     <h3 class="footer-title">Layanan Pelanggan</h3>
     <ul class="footer-list">
-    <li class="footer-li"><a href="https://www.shirisunshineexim.com//helpcenter/">Pusat Bantuan</a></li>
-    <li class="footer-li"><a href="https://www.shirisunshineexim.com//helpcenter/payments/">Cara Pembelian</a></li>
-    <li class="footer-li"><a href="https://www.shirisunshineexim.com//helpcenter/shipping-and-delivery/">Pengiriman</a></li>
-    <li class="footer-li"><a href="https://www.shirisunshineexim.com//helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans">Kebijakan Produk Internasional</a></li>
-    <li class="footer-li"><a href="https://www.shirisunshineexim.com//helpcenter/returns-refunds/#answer-faq-return-ans">Cara Pengembalian</a></li>
+    <li class="footer-li"><a href="https://valezaco.com//helpcenter/">Pusat Bantuan</a></li>
+    <li class="footer-li"><a href="https://valezaco.com//helpcenter/payments/">Cara Pembelian</a></li>
+    <li class="footer-li"><a href="https://valezaco.com//helpcenter/shipping-and-delivery/">Pengiriman</a></li>
+    <li class="footer-li"><a href="https://valezaco.com//helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans">Kebijakan Produk Internasional</a></li>
+    <li class="footer-li"><a href="https://valezaco.com//helpcenter/returns-refunds/#answer-faq-return-ans">Cara Pengembalian</a></li>
     <li class="--js-csc-trigger">
     <a style="background: #f36f36; display: inline-block; color:#0F136D ; padding: 2px 4px; cursor: pointer;">Ada pertanyaan? Hubungi kami di live chat (24 Jam)</a>
     </li>
@@ -13351,28 +13353,28 @@ ul.taobao-menu__list {
     <a href="https://group.lazada.com/en/about/">Tentang Lazada</a>
     </li>
     <li class="footer-li">
-    <a href="https://www.shirisunshineexim.com/">Afﬁliate Program</a>
+    <a href="https://valezaco.com/">Afﬁliate Program</a>
     </li>
     <li class="footer-li">
     <a href="https://www.lazada.com/work-at-lazada/">Karir</a>
     </li>
     <li class="footer-li">
-    <a href="https://www.shirisunshineexim.com/">Syarat &amp; Ketentuan</a>
+    <a href="https://valezaco.com/">Syarat &amp; Ketentuan</a>
     </li>
     <li class="footer-li">
-    <a href="https://www.shirisunshineexim.com/">Kebijakan Privasi</a>
+    <a href="https://valezaco.com/">Kebijakan Privasi</a>
     </li>
     <li class="footer-li">
     <a href="https://group.lazada.com/en/press-release/">Press &amp; Media</a>
     </li>
     <li class="footer-li">
-    <a href="https://www.shirisunshineexim.com/marketplace/">Jual Di Lazada</a>
+    <a href="https://valezaco.com/marketplace/">Jual Di Lazada</a>
     </li>
     <li class="footer-li">
-    <a href="https://www.shirisunshineexim.com//security/">Lazada Security</a>
+    <a href="https://valezaco.com//security/">Lazada Security</a>
     </li>
     <li class="footer-li">
-    <a href="https://www.shirisunshineexim.com/">Intellectual Property Protection</a>
+    <a href="https://valezaco.com/">Intellectual Property Protection</a>
     </li>
     </ul>
     </div>
@@ -13465,7 +13467,7 @@ ul.taobao-menu__list {
     <a class="lzd-follow-us-icon" href="https://www.tiktok.com/@lazadaid" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_tkk" style="display: inline-block; width: 32px; height: 32px">
     <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN0193C9ay1QIykTmUlwk_!!6000000001954-2-tps-34-34.png" style="width: 32px; height: 32px" alt="tiktok">
     </a>
-    <a class="lzd-follow-us-icon" href="https://www.shirisunshineexim.com/blog/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_blg" style="display: inline-block; width: 32px; height: 32px">
+    <a class="lzd-follow-us-icon" href="https://valezaco.com/blog/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_blg" style="display: inline-block; width: 32px; height: 32px">
     <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN01EShTwh1uKIMLn9AjA_!!6000000006018-0-tps-34-34.jpg" style="width: 32px; height: 32px" alt="Lazada Blg">
     </a>
     </div>
@@ -13698,3 +13700,7 @@ ul.taobao-menu__list {
     <!--<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="6c69253c274905671b0ddb2a-|49" defer="" type="0c654c57e8d32d91415897fb-text/javascript"></script>--><!--<script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;8ac27a0fa9829e38&quot;,&quot;version&quot;:&quot;2024.7.0&quot;,&quot;r&quot;:1,&quot;token&quot;:&quot;504f8d68f4f941d9a703e9dea2612081&quot;,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfL4&quot;:true}}}" crossorigin="anonymous" type="0c654c57e8d32d91415897fb-text/javascript"></script>-->
     
     </body></html>
+<?php
+exit;
+}
+?>
