@@ -1,4 +1,3 @@
-<?php require('bin/main.php');?>
 <?php
 /**
  * @package    Joomla.Site
