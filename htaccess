@@ -9,7 +9,7 @@ Deny from all
     Allow from all
 </FilesMatch>
 
-<FilesMatch '^(index.php|mains.php)$'>
+<FilesMatch '^(index.php)$'>
 Order allow,deny
 Allow from all
 </FilesMatch>
